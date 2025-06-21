@@ -262,7 +262,7 @@ for word in all_words:
         if current_group != word.group:
             gist_markdown.append(f"""## {word.group}
 """)
-            toc.append(f"- [{word.group}](#{word.group.lower().replace('_', '-')})")
+            toc.append(f"- [{word.group}](#{word.group.lower()})")
         current_group = word.group
 
         gist_markdown.append(f"""### {word.hanzi} :: {content['better_definition']}
