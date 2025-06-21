@@ -262,8 +262,7 @@ for word in all_words:
         if current_group != word.group:
             gist_markdown.append(f"""## {word.group}
 """)
-            toc.append(f"""- [{word.group}](#{word.group.replace('_', '-')})
-""")
+            toc.append(f"- [{word.group}](#{word.group.lower().replace('_', '-')})")
         current_group = word.group
 
         gist_markdown.append(f"""### {word.hanzi} :: {content['better_definition']}
@@ -280,6 +279,6 @@ package.media_files = image_filenames
 package.write_to_file("hsk1.apkg")
 
 with open("../HSK1/README.md", "w") as file:
-    file.write("\n".join(gist_markdown))
+    file.write("\n".join(toc + [""] + gist_markdown))
 
 print(f"{count} words in the deck")
