@@ -1,0 +1,79 @@
+#separator:tab
+#html:true
+#tags column:7
+e04c0e58f1ddfb63426c31848710ee06		also	也	Chinese	Ye3	Chinese EN-CN_01-04_Greeting-2
+1e9dd3b3065ac6a3c9dfc08053440d50		I	我	Chinese	Wo3	Chinese EN-CN_01-03_Name
+16253f12a004783c7e7b141fc733725d		you	你	Chinese	Ni	Chinese EN-CN_01-01_Greeting-1
+5207528cbbc3e2495b38e28b810a6e5d		very	很	Chinese	Hen3	Chinese EN-CN_01-04_Greeting-2
+44ea0d229d72317f33c778b1cee6169e		person	人	Chinese	Ren2	Chinese EN-CN_01-08_Nationality
+a9460670604ed2cd4cc58afb23ebecf6		what	什么	Chinese	shen2me	Chinese EN-CN_01-03_Name
+a14c672578c7f1bf79fc56cd0ac65e4c		he	他	Chinese	Ta1	Chinese EN-CN_01-06_Occupation
+c3da205540cc166c67ced204eaee0915		of (genitive marker)	的	Chinese	De	Chinese EN-CN_01-07_Contact
+7944d429f4f1a2fe442326f84dba89d0		one	一	Chinese	yi1	Chinese EN-CN_01-02_Numbers
+97ec7611df2879e5802d048f95f3793f		to eat	吃	Chinese	Chi1	Chinese EN-CN_01-05_Food-1
+571404bf6450d873657090b0dadcee05		we	我们	Chinese	Wo3 Men	Chinese EN-CN_01-06_Occupation
+2e79b4dc9adef79a7ea322214550002b		today	今天	Chinese	Jin1 Tian1	Chinese EN-CN_01-09_Greeting-3
+738b1b9734041064a98890bf930e4171		all	都	Chinese	Dou1	Chinese EN-CN_01-08_Nationality
+d6b5e04d2138cbc1d829158a3f1c3edc		no, not	不	Chinese	Bu4	Chinese EN-CN_01-05_Food-1
+44b2c7a94d445baaea3ba0f3eacad280		(my first name) is	叫	Chinese	Jiao4	Chinese EN-CN_01-03_Name
+b7ffa574391261f0252f163e93e90cb5		how is it	怎么样	Chinese	Zen3 Me Yang4	Chinese EN-CN_01-09_Greeting-3
+2706a7183676568fc4467961d06490b7		she	她	Chinese	Ta1	Chinese EN-CN_01-06_Occupation
+50421b4c64930f1494501dde574c7dc9		how much / many	多少	Chinese	Duo1 Shao3	Chinese EN-CN_01-07_Contact
+2e8b8cff2dd9dfe6cab932be236f4b7b		am, is, are, to be	是	Chinese	Shi4	Chinese EN-CN_01-06_Occupation
+a6aae540086a8eb10779f0dda5e75005		to live	住	Chinese	Zhu4	Chinese EN-CN_01-10_Location-1
+cec266a0da26b391087caad8814dea9c		you (plural)	你们	Chinese	Ni3 Men	Chinese EN-CN_01-06_Occupation
+25b421ad63659e8199493985e9080baf		at, in , to be at/in	在	Chinese	Zai4	Chinese EN-CN_01-10_Location-1
+fc86e574ddf14cb3d94aad41584efa70		Question marker	吗	Chinese	Ma	Chinese EN-CN_01-06_Occupation
+9c69c78e20ae9d00bffe8ca8b92923fe		Taiwan	台湾	Chinese	Tai2 Wan1	Chinese EN-CN_01-10_Location-1
+12a1c70bfd6db10b7a557e58d09ebe3e		to drink	喝	Chinese	He1	Chinese EN-CN_01-05_Food-1
+3e44252a8db8d735209a3aacecf66e56		there	哪儿	Chinese	Na3'r	Chinese EN-CN_01-10_Location-1
+c7f5ddaa11ad1ca6e595004c657020bc		China	中国	Chinese	Zhong1 Guo2	Chinese EN-CN_01-08_Nationality
+cfa96a77b9d22393298dce86743a0f66		house, home	家	Chinese	Jia1	Chinese EN-CN_01-10_Location-1
+d6bf12e4702f969c659337ed847cc26c		plum (popular family name)	李	Chinese	Li3	Chinese EN-CN_01-03_Name
+c5de06d1fc3802b6a5eaeb49028e9763		telephone	电话	Chinese	Dian4 Hua4	Chinese EN-CN_01-07_Contact
+0ec55adaca2080c23930b99d8975f94b		good	好	Chinese	Hao	Chinese EN-CN_01-01_Greeting-1
+26d55e15530916c355c38ec6104a2d63		ten	十	Chinese	Shi2	Chinese EN-CN_01-02_Numbers
+cadc2786f580afa1f7a78a051eed2f54		England / Great Britain	英国	Chinese	Ying1 Guo2	Chinese EN-CN_01-08_Nationality
+c807dadc61900a903f30e34c4a0aca01		tea	茶	Chinese	Cha2	Chinese EN-CN_01-05_Food-1
+334e172d621833458621a02a9860d08a		teacher	老师	Chinese	Lao3 Shi1	Chinese EN-CN_01-06_Occupation
+11c5e09c267b975ffc51596da9500ed0		they (male)	他们	Chinese	Ta1 Men	Chinese EN-CN_01-06_Occupation
+f19c43e8faeb6458c7669ec627a65ba2		morning, tomorrow	明	Chinese	Ming2	Chinese EN-CN_01-03_Name
+93b430c680387b47d2fb11440b059f73		Hongkong	香港	Chinese	Xiang1 Gang3	Chinese EN-CN_01-10_Location-1
+1999b9d2873f7ce7efdbc31b7c04845c		where	哪	Chinese	Na3	Chinese EN-CN_01-08_Nationality
+7e05041b743ee242e64ae7903e9bd55a		food	饭	Chinese	Fan4	Chinese EN-CN_01-05_Food-1
+831c482bf896261e1b200e47fc1c20b9		two	二	Chinese	Er3	Chinese EN-CN_01-02_Numbers
+9ff4aced7493f685c7198930093c7133		doctor	医生	Chinese	Yi1 Sheng1	Chinese EN-CN_01-06_Occupation
+95dba555cdc365304e7ab65300f3f553		New York	纽约	Chinese	Niu3 Yue1	Chinese EN-CN_01-10_Location-1
+fb97b03866852ac8dd6f8dcac47f258a		Peking	北京	Chinese	Bei3 Jing1	Chinese EN-CN_01-10_Location-1
+b85eb4fe8c2f94c62ebbfdc9b31fbda7		student	学生	Chinese	Xue2 Sheng1	Chinese EN-CN_01-06_Occupation
+12126bbdd731360ed3a194173c02ef94		busy	忙	Chinese	Mang2	Chinese EN-CN_01-09_Greeting-3
+cbbc1b234292a2220ed57337ec387002		noodles	面	Chinese	Mian4	Chinese EN-CN_01-05_Food-1
+45ec708ff7c0b35d73f7c6d69f27d21b		king (popular family name)	王	Chinese	Wang2	Chinese EN-CN_01-03_Name
+addcbfc13286ef39f5e0e8e95b05c580		morning	早上	Chinese	Zao3 Shang4	Chinese EN-CN_01-09_Greeting-3
+726bde58ea91d4c908f042bc57f3f23c		six	六	Chinese	Liu4	Chinese EN-CN_01-02_Numbers
+144a733921a563c4b33e805329214eea		eight	八	Chinese	Ba1	Chinese EN-CN_01-02_Numbers
+c4082233546315ef560457b5c3765895		five	五	Chinese	Wu3	Chinese EN-CN_01-02_Numbers
+0aefce15b5008f2871e25cc64497e75f		four	四	Chinese	Si4	Chinese EN-CN_01-02_Numbers
+9f1200070831f7d75f331dd975154097		zero	零	Chinese	Ling2	Chinese EN-CN_01-02_Numbers
+6acb2e88ed43d615974f08537c175903		nine	九	Chinese	Jiu3	Chinese EN-CN_01-02_Numbers
+299e3da52e90734faa755e8bf9b33c50		to know	认识	Chinese	Ren4 Shi	Chinese EN-CN_01-04_Greeting-2
+0a1063929f9b952d82006e58af290f84		water	水	Chinese	Shui3	Chinese EN-CN_01-05_Food-1
+198faae51ded83c6e639aa3b1886dbac		happy	高兴	Chinese	Gao1 Xing4	Chinese EN-CN_01-04_Greeting-2
+bdad439b6fd341c289689dbdadd10e44		they (female)	她们	Chinese	Ta Men	Chinese EN-CN_01-06_Occupation
+3e4b9b8d625567af508ac727ca996d43		How about [you]	呢	Chinese	Ne	Chinese EN-CN_01-03_Name
+16533a7b5c07be040443ec21fbc3ad26		fish	鱼	Chinese	Yu2	Chinese EN-CN_01-05_Food-1
+6856c3320aeb56363943c4b2bdb79bd5		London	伦敦	Chinese	Lun2 Dun1	Chinese EN-CN_01-10_Location-1
+12c8016a4b6a3156c2e433db3d8cff96		Canada	加拿大	Chinese	Jia1 Na2 Da4	Chinese EN-CN_01-08_Nationality
+0b591350a1f8fde2ba1d3c00f2ea45d9		number	号码	Chinese	Hao4 Ma	Chinese EN-CN_01-07_Contact
+27616b2e3c9bb79e2589886664a31c6d		U.S.A	美国	Chinese	Mei3 Guo2	Chinese EN-CN_01-08_Nationality
+b21f7fb7b6d89f80bb8b7e7f5b58d394		three	三	Chinese	San1	Chinese EN-CN_01-02_Numbers
+9edb011930d3cbad7c64b6d1286d9c21		seven	七	Chinese	Qi1	Chinese EN-CN_01-02_Numbers
+2ce9cb594b0142538af4131990905c15		hundred	百	Chinese	Bai3	Chinese EN-CN_01-02_Numbers
+f7f2ecafabdd5b911083cad963cd9e69		Sheet [of paper etc.] (popular surname)	张	Chinese	Zhang1	Chinese EN-CN_01-03_Name
+64f0bef4813d8f747fa3fcd5973db43d		Chinese	华	Chinese	Hua2	Chinese EN-CN_01-03_Name
+0744eced686c9e70da74dd459d9e059e		Good bye	再见	Chinese	Zai Jian	Chinese EN-CN_01-01_Greeting-1
+fb364398227be1e88217a6039ef52011		correct, yes	对	Chinese	Dui4	Chinese EN-CN_01-08_Nationality
+59404726acef5ccacaf635bf9e0838e6		country	国	Chinese	Guo2	Chinese EN-CN_01-08_Nationality
+56ba08a60474088ba5aaca1f9357acf5		name	名字	Chinese	Ming2 Zi4	Chinese EN-CN_01-03_Name
+4a0e7b28c3abe8e63d4754fc804d96e5		yuan (currency)	元	Chinese	Yuan2	Chinese EN-CN_01-02_Numbers
+2f27ec72b5fdc3bc47cc78ddd9be4385		[my family name] is	姓	Chinese	Xing4	Chinese EN-CN_01-03_Name

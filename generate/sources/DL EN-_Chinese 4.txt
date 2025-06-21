@@ -1,0 +1,344 @@
+#separator:tab
+#html:true
+#tags column:7
+b4164e518905554f2403b1a93706b81d		Kung Pao Chicken	宫保鸡丁	Chinese	Gong1 Bao3 Ji1 Ding1	Chinese EN-CN_04-19_Gourmet-2
+4d9eb5cf4295abd36b6211f530930575		Peking duck	北京烤鸭	Chinese	Bei3 Jing1 Kao3 Ya1	Chinese EN-CN_04-19_Gourmet-2
+c4e1c0db6f70fab97adfcf8a59b36b09		bubble milk tea	珍珠奶茶	Chinese	Zhen1 Zhu1 Nai3 Cha2	Chinese EN-CN_04-19_Gourmet-2
+2f6a2b49e176f2d7f6169187703ddcd2		steamed buns	馒头	Chinese	Man2 Tou	Chinese EN-CN_04-19_Gourmet-2
+5ec6d822ae8825cd82eb5bb092ede552		hot and sour soup	酸辣汤	Chinese	Suan1 La4 Tang1	Chinese EN-CN_04-19_Gourmet-2
+d7a99e45b1d9a692e1ec1308d4003d62		braised pork rice	卤肉饭	Chinese	Lu3 Rou4 Fan4	Chinese EN-CN_04-19_Gourmet-2
+b4cd82f4b287de6b1c134ca417235879		tofu pudding	豆花	Chinese	Dou4 Hua1	Chinese EN-CN_04-19_Gourmet-2
+b840930c2073dd3affa9f3f4baef3991		spring rolls	春卷	Chinese	Chun1 Juan3	Chinese EN-CN_04-19_Gourmet-2
+1a094bb58e07b6cc13e632c835c87ac8		red envelope (money wrapped in red as a gift)	红包	Chinese	Hong2 Bao1	Chinese EN-CN_04-18_Festivals
+f2e0bc7ebab9e938571bd9da2e9f6c98		circle, round	圆	Chinese	Yuan2	Chinese EN-CN_04-18_Festivals
+6858bb31610b614950b946e13318efcf		Mid Autumn Festival	中秋节	Chinese	Zhong1 Qiu1 Jie2	Chinese EN-CN_04-18_Festivals
+d565d865346bd9617b46ae55ffd2402d		congratulations	恭喜	Chinese	Gong1 Xi3	Chinese EN-CN_04-18_Festivals
+19ed1ff88e19c2d74b6c2b2557a5ceb7		sticky rice dumpling	粽子	Chinese	Zong4 Zi	Chinese EN-CN_04-18_Festivals
+e6a04e7740c438f34f16e462a5ff3c80		dragon boat	龙舟	Chinese	Long2 Zhou1	Chinese EN-CN_04-18_Festivals
+4338dea490b730ec7479d0b7871db557		mooncake	月饼	Chinese	Yue4 Bing3	Chinese EN-CN_04-18_Festivals
+f3cede67a04d07b3b0aee9283ce2df99		glutinous rice balls	汤圆	Chinese	Tang1 Yuan2	Chinese EN-CN_04-18_Festivals
+919d7134ec9a7a76bf94f4247347c4c8		to row (a bout), to paddle	划	Chinese	Hua2	Chinese EN-CN_04-18_Festivals
+7d26a04812681ac4f49f411f2ed83b82		moon	月亮	Chinese	Yue4 Liang2	Chinese EN-CN_04-18_Festivals
+f67ff7c366a94c1518189967836077e0		Dragon Boat Festival	端午节	Chinese	Duan1 Wu3 Jie2	Chinese EN-CN_04-18_Festivals
+09e82a4f4d535a629b11eb1c0b4b3b21		party, gathering, to meet	聚会	Chinese	Ju4 Hui4	Chinese EN-CN_04-18_Festivals
+9c32711dcb92f30d45046b46a7c12b0d		to get rich	发财	Chinese	Fa1 Cai2	Chinese EN-CN_04-18_Festivals
+f2de2ed3bd802f96452488a4438d2c5b		to agree	同意	Chinese	Tong2 Yi4	Chinese EN-CN_04-17_Work-2
+d65a6171aed4a35f51f1668eb0c66edd		performance	表现	Chinese	Biao3 Xian4	Chinese EN-CN_04-17_Work-2
+bd63ba486217222f15b40bbef504866a		to decide, decision	决定	Chinese	Jue2 Ding4	Chinese EN-CN_04-17_Work-2
+f1306993981152f88f5ceee6ab44b767		to hold a meeting, to attend a meeting	开会	Chinese	Kai1 Hui4	Chinese EN-CN_04-17_Work-2
+995885901ca63f9687a546c37646c802		according to, based on	根据	Chinese	Gen1 Ju4	Chinese EN-CN_04-17_Work-2
+38d83be701b65fbc8f3d9e4f9d9fef17		interview	面试	Chinese	Mian4 Shi4	Chinese EN-CN_04-17_Work-2
+d8d1fb6980610c95dd126a43e1a21e5f		trouble, annoying, tricky	麻烦	Chinese	Ma2 Fan	Chinese EN-CN_04-17_Work-2
+874b98e5aeb4a1471bc1bbb518e83342		to believe, think, assume	认为	Chinese	Ren4 Wei2	Chinese EN-CN_04-17_Work-2
+165bd1c3301123cc521dfed3a69091df		boss	老板	Chinese	Lao3 Ban3	Chinese EN-CN_04-17_Work-2
+8dcefac07e06c7eea133fd0a5ae670c0		to get promoted	升职	Chinese	Sheng1 Zhi2	Chinese EN-CN_04-17_Work-2
+51d07793a6f294952a952387e982da10		to go on a business trip	出差	Chinese	Chu1 Chai1	Chinese EN-CN_04-17_Work-2
+700a993351a238391a4922876fe82c62		to be happy with	满意	Chinese	Man3 Yi4	Chinese EN-CN_04-17_Work-2
+04651bf6e39df267242df0e26f4c390f		(in the) past, former, previous	过去	Chinese	Guo4 Qu4	Chinese EN-CN_04-16_Communication-2
+e72465b1631f0ee577f538a3bae9efba		just now, a moment ago	刚才	Chinese	Gang1 Cai2	Chinese EN-CN_04-16_Communication-2
+555bfca1e6436dcc53c712573e11138b		to return	回	Chinese	Hui2	Chinese EN-CN_04-16_Communication-2
+9f6c306d1e14f5a7640d36b17806daa1		to discuss, talk about	谈	Chinese	Tan2	Chinese EN-CN_04-16_Communication-2
+443d4bb4976a5e0af5e3c6b2a55ce343		e-mail	电子邮件	Chinese	Dian4 Zi3 You2 Jian4	Chinese EN-CN_04-16_Communication-2
+938e54701cbd900b5efbfa14c4d31ce7		actually	其实	Chinese	Qi2 Shi2	Chinese EN-CN_04-16_Communication-2
+17e6b9af48de5d6115124a67b2a39c06		to log in	登录	Chinese	Deng1 Lu4	Chinese EN-CN_04-16_Communication-2
+8002788267bb54564fa038955baae1d3		to send out	发	Chinese	Fa1	Chinese EN-CN_04-16_Communication-2
+18c02e6c1c4294ecd7081a3fe0b5ec43		about, regarding	关于	Chinese	Guan1 Yu2	Chinese EN-CN_04-16_Communication-2
+5498389253cc7a178c951e4013b7fc39		text message, SMS	短信	Chinese	Duan3 Xin4	Chinese EN-CN_04-16_Communication-2
+ce6876f4549c4b7be0b3419d350c4064		mainly	主要	Chinese	Zhu3 Yao4	Chinese EN-CN_04-16_Communication-2
+79f4e8e481ef9e0f53a2f0d1ad235cd8		signal	信号	Chinese	Xin4 Hao4	Chinese EN-CN_04-16_Communication-2
+979be04987adc44a07b55112babe0d26		paragraph, section classifier for stories, periods of time	段	Chinese	Duan4	Chinese EN-CN_04-16_Communication-2
+ee8aa167ef7f4fdd015a8cf82fc2f7a7		password	密码	Chinese	Mi4 Ma3	Chinese EN-CN_04-16_Communication-2
+c7180b5570daaa7d10f61ccd5aac0f78		discuss	商量	Chinese	Shang1 Liang	Chinese EN-CN_04-24_Work-3
+e9ddffe2ab475e498c0367d5f22ab626	<div>条</div>	street	街道	Chinese	Jie1 Dao4	Chinese EN-CN_04-15_Travel-4
+54e9aa3e7eaa1ae03d449e1ec4ba5b8d		jet lag, time difference	时差	Chinese	Shi2 Cha1	Chinese EN-CN_04-15_Travel-4
+c1def5bcb9183811c8d7e95a9b356cad		seaside, by the sea	海边	Chinese	Hai3 Bian1	Chinese EN-CN_04-15_Travel-4
+66c71eb37d3b84efbd118f685ab099f4		to take (out)	拿(出来)	Chinese	Na2 (Chu1 Lai2)	Chinese EN-CN_04-15_Travel-4
+c27378f8afb2885528cc0c5b05d1d7af		to pass (time), to cross, to go over	过	Chinese	Guo4	Chinese EN-CN_04-15_Travel-4
+064a9914a5ce5bac5a5db1f831abc599	条	(to cross a) street	(过)马路	Chinese	(Guo4) Ma3 Lu4	Chinese EN-CN_04-15_Travel-4
+c4e9500a749445bf612782b15a7754be		driver	司机	Chinese	Si1 Ji1	Chinese EN-CN_04-15_Travel-4
+f05747fe3bf7ee264da90d10f13ee903		scenery, landscape	风景	Chinese	Feng1 Jing3	Chinese EN-CN_04-15_Travel-4
+75072fb7045691a86bbd3d238302b281		to visit	参观	Chinese	Can1 Guan1	Chinese EN-CN_04-15_Travel-4
+d3c4c15109450397df60dfab30084cf0		(art) museum	(美术) 博物馆	Chinese	(Mei3 Shu4) Bo2 Wu4 Guan3	Chinese EN-CN_04-15_Travel-4
+44bdb112e8f8f1f0ca4139aecb59031b		to arrange, to plan	安排	Chinese	An1 Pai2	Chinese EN-CN_04-15_Travel-4
+42bc508438473feaca17090e0451b22c		to pick up	接	Chinese	Jie1	Chinese EN-CN_04-15_Travel-4
+24460a30a3be19c40b29fb867f2e9d70		to be careful	小心	Chinese	Xiao3 Xin1	Chinese EN-CN_04-15_Travel-4
+6690a7883e5c7d87a77f8b70cad40c22		to get a cab	打车	Chinese	Da3 Che1	Chinese EN-CN_04-15_Travel-4
+980503c6317d1e2ee32c5f72e2327e5a		to read loud	<div>读出来</div>	Chinese	Du2 Chu1 Lai2	Chinese EN-CN_04-15_Travel-4
+dc8141cff5ca17a0e17c23b338f6ece4		sightseeing	观光	Chinese	Guan1 Guang1	Chinese EN-CN_04-15_Travel-4
+36e3c384a8172d9f7dd1a97327e0fa11		traffic light	红绿灯	Chinese	Hong2 Lü4 Deng1	Chinese EN-CN_04-15_Travel-4
+99f8b24adddde1abb8a9472ade8f029b	张, 本	map	地图	Chinese	Di4 Tu2	Chinese EN-CN_04-15_Travel-4
+3ba2b16801cfe92b02549aa3f3c7da8c		performance, play, show	表演	Chinese	Biao3 Yan3	Chinese EN-CN_04-15_Travel-4
+d7a803ff070f7f7922117c2cc81d392b		free (of charge)	免费	Chinese	Mian3 Fei4	Chinese EN-CN_04-15_Travel-4
+f39c5d2c9f712fdb2b88acde78634b44	项	activity	活动	Chinese	Huo2 Dong4	Chinese EN-CN_04-15_Travel-4
+bdbdacac57a120fc23ef8951ba9828af		lazy	懒	Chinese	Lan3	Chinese EN-CN_04-26_Duo
+04d3a2a1e214aaa17a071bd26af60072		remind	提醒	Chinese	Ti2 Xing1	Chinese EN-CN_04-26_Duo
+25b1b1afc6f844df49ab1cc3ce729626		give up	放弃	Chinese	Fang2 Qi4	Chinese EN-CN_04-26_Duo
+1c48490f3c3c0db85308cba1b06d3a66		encourage	鼓励	Chinese	Gu3 Li4	Chinese EN-CN_04-26_Duo
+2b609b535c5b9fa190ac8d25eecc3adc		Duo	多儿	Chinese	Duo1 Er	Chinese EN-CN_04-26_Duo
+ede62a77e3f62dd5ac2a2068e38d72ca		feathers	羽毛	Chinese	Yu3 Mao2	Chinese EN-CN_04-26_Duo
+f8ca7d7e8ad423301c197222f501269d		orange	橙	Chinese	Cheng2	Chinese EN-CN_04-26_Duo
+29ab9e74b2b8241fc5e4f5e6e323d03a		owl	猫头鹰	Chinese	Mao1 Tou2 Ying1	Chinese EN-CN_04-26_Duo
+d427a39118e64e700616875bf27024c4		temperature	温度	Chinese	Wen1 Du4	Chinese EN-CN_04-25_Weather-2
+308f959330375d5e1ebccec8bd088f3b		approximately	大约	Chinese	Da4 Yue1	Chinese EN-CN_04-25_Weather-2
+134b7700935e8e8a17fc7f26ee354c30		degree	度	Chinese	Du4	Chinese EN-CN_04-25_Weather-2
+1bcbe6c6b580bc55961c608da0fb9ea0		warm	暖和	Chinese	Nuan3 Huo	Chinese EN-CN_04-25_Weather-2
+40cc34669b7da58c7686dc6990a3ac71		cool	凉快	Chinese	Liang2 Kuai4	Chinese EN-CN_04-25_Weather-2
+ff484d202488acf0624bcc60506d1ad8		dry	干燥	Chinese	Gan1 Zao4	Chinese EN-CN_04-25_Weather-2
+e37645f5e55b6b3c5f50c3cffd4417b7		pressure	压力	Chinese	Ya1 Li4	Chinese EN-CN_04-24_Work-3
+3ce35d9e577d7342b95297dc37f2b2bd		salary	工资	Chinese	Gong1 Zi1	Chinese EN-CN_04-24_Work-3
+eaf9eb9f7aa1cf369d458e1755a554dd		I am sorry, apologies	抱歉	Chinese	Bao4 Qian4	Chinese EN-CN_04-24_Work-3
+8306e7bf22b0d67c6d67698cecac3d07		misunderstand	误会	Chinese	Wu4 Hui4	Chinese EN-CN_04-24_Work-3
+f753c02cb8ff2b493c12b2253f8d8d35		forgivre	原谅	Chinese	Yuan2 Liang4	Chinese EN-CN_04-24_Work-3
+17274ad766982cec1834a3354a0e44d3		opinion	意见	Chinese	Yi4 Jian4	Chinese EN-CN_04-24_Work-3
+67207e6c02948a5d8e3a59e9a0b27540		responsibility	责任	Chinese	Ze2 Ren4	Chinese EN-CN_04-24_Work-3
+48135b5cbe17e42e767a4c3f79c2135a		bonus	奖金	Chinese	Jiang3 Jin1	Chinese EN-CN_04-24_Work-3
+06900f6c423340e86b80ae7cf46a5d89		business	生意	Chinese	Sheng1 Yi4	Chinese EN-CN_04-24_Work-3
+476a1a69890a2b38c5a79a773291c710		(work) overtime	加班	Chinese	Jia1 Ban1	Chinese EN-CN_04-24_Work-3
+7ab502bd67c8cc06efb0fb40b1b70a94		matter, thing	事	Chinese	Shi4	Chinese EN-CN_04-23_Emergency
+614d8599f1a5254d9f577c9c632780c3		to happen	发生	Chinese	Fa1 Sheng1	Chinese EN-CN_04-23_Emergency
+6bd4a54be64d1584834da4ae56f1ee6c		police	警察	Chinese	Jing3 Cha2	Chinese EN-CN_04-23_Emergency
+77f32d67c30ea664bac660b835e0253c		to steal	偷	Chinese	Tou1	Chinese EN-CN_04-23_Emergency
+61b3d8f66e1d21486c5d2d84c04cdb50		accident	意外	Chinese	Yi4 Wai4	Chinese EN-CN_04-23_Emergency
+f2d0a43ade049aa756335dfdcb05c1c6		serious	严重	Chinese	Yan2 Zhong4	Chinese EN-CN_04-23_Emergency
+a5e0b93d5af26d6b5215073e22f99ecd		Help!	救命	Chinese	Jiu4 Ming4	Chinese EN-CN_04-23_Emergency
+bdf83798c3e5685a4849870a067cd913		call the police	报警	Chinese	Bao3 Jing4	Chinese EN-CN_04-23_Emergency
+7d0191d079a909d9c60cdbc1394202f5		ambulance	救护车	Chinese	Jiu4 Hu4 Che1	Chinese EN-CN_04-23_Emergency
+34085013ff5023f7af44524ee6ed387c		get injured	受伤	Chinese	Shou4 Shang1	Chinese EN-CN_04-23_Emergency
+19e10db61a69e59959304340f2cb97e3		to share	分享	Chinese	Fen1 Xiang3	Chinese EN-CN_04-20_Internet-Slang
+f6d458abbe0c75221941109ae6544753		colleague	同事	Chinese	Tong2 Shi4	Chinese EN-CN_04-07_Work
+132304405e1afa375eac80d183333266	cooperate	Provide the translation for '合作' from Chinese.	合作	Chinese	He2 Zuo4	Chinese EN-CN_04-22_Business-2
+44cb3ff745bb7e131fe44eed938bae09		to thank	感谢	Chinese	Gan3 Xie4	Chinese EN-CN_04-22_Business-2
+70d95740d0db1672c710944b7ee7a64b		a pleasure, pleasant	愉快	Chinese	Yu2 Kuai4	Chinese EN-CN_04-22_Business-2
+6b6efd541c3e6707d42d326a19f254ab		hard (work)	辛苦	Chinese	Xin1 Ku3	Chinese EN-CN_04-22_Business-2
+2db6ed55bb15526fbea9556d1b0713c0		towards, correct	对	Chinese	Dui4	Chinese EN-CN_04-09_Hobbies-3
+cc2311f9f9dbf7f73566f339977d7436		expensive, dear	贵	Chinese	Gui4	Chinese EN-CN_04-22_Business-2
+b4448338362e97724290bb4176057e10		keep	保持	Chinese	Bao3 Chi2	Chinese EN-CN_04-22_Business-2
+1119778e67ff8c6818810a2b70a58bfc		avoid	免	Chinese	Mian3	Chinese EN-CN_04-22_Business-2
+ee2ee24e6721f38df578b93539633b83		contact, in touch	联系	Chinese	Lian3 Xi4	Chinese EN-CN_04-22_Business-2
+76e641184d8599d13488dc2d249979e1		consultation	咨询	Chinese	Zi1 Xun2	Chinese EN-CN_04-22_Business-2
+c4c263d08d92b5b3bd60ebba6863016e		copyright	版权	Chinese	Ban3 Quan2	Chinese EN-CN_04-22_Business-2
+fcded4a8bb5ebaaefabb4145da235139		lawyer	律师	Chinese	Lu4 Shi1	Chinese EN-CN_04-22_Business-2
+0428748eeef689e9abb4c7c67c08aecf		cost	费用	Chinese	Fei4 Yong4	Chinese EN-CN_04-21_Business-1
+f2355a0dc68bb21863fe5dbee59523ef		invest	投资	Chinese	Tou2 Zi1	Chinese EN-CN_04-22_Business-2
+b560e597f8c721f0f6735b6efb70ea25		risk	风险	Chinese	Feng1 Xian3	Chinese EN-CN_04-22_Business-2
+9d4bf8d8a05f7e796fa2a9779033b871		insurance	保险	Chinese	Bao3 Xian4	Chinese EN-CN_04-22_Business-2
+3616ae556f4fb15cf4c5176fb4414db8		advartisement	广告	Chinese	guang3 Gao4	Chinese EN-CN_04-21_Business-1
+8141cb85bebb48ef9bdf043931e6744f		low	低	Chinese	Di1	Chinese EN-CN_04-21_Business-1
+ba097ebc4b0a5bbe4ba6fcd203f32c3f		budget	预算	Chinese	Yu4 Suan4	Chinese EN-CN_04-21_Business-1
+a9cc3192d09fc40ba02a27f3448bb182		capital	资本	Chinese	Zi1 Ben3	Chinese EN-CN_04-21_Business-1
+dba4921b9a060ab8c039b84b397ae9a4		contract	合同	Chinese	He2 Tong1	Chinese EN-CN_04-21_Business-1
+e23f0797e22c4c6f4f7aacfa17567efd		report	汇报	Chinese	Hui4 Bao4	Chinese EN-CN_04-21_Business-1
+28d71d02395bd4540f69eb01b4c2248a		project	项目	Chinese	Xiang4 Mu4	Chinese EN-CN_04-21_Business-1
+351c93c308d569f8375c9b1a9d218aec		towards	向	Chinese	Xiang4	Chinese EN-CN_04-04_School-2
+3f0103d4ffbe65601eef24fe3d9380a3		signature, to sign	签名	Chinese	Qian1 Ming2	Chinese EN-CN_04-21_Business-1
+22dfd21702fa3414b0c9e8dbfed66739		report	报告	Chinese	Bao4 Gao	Chinese EN-CN_04-21_Business-1
+36fc1e6d2ca49bd0753e722637131321		agreement, contract	协议	Chinese	Xie2 Yi4	Chinese EN-CN_04-21_Business-1
+08da7976d019937366082f2f09d7b915		to reply	回复	Chinese	Hui2 Fu4	Chinese EN-CN_04-21_Business-1
+6453fc78d3694afa8b63db62e9345dd0		as soon as possible	尽快	Chinese	Jin3 Kuai4	Chinese EN-CN_04-21_Business-1
+d86eaee8db34071d06c5c7717dad726e		to hold,&nbsp; contain, particle marking the following noun as a direct object	把	Chinese	Ba3	Chinese EN-CN_04-13_House
+4762814262675224f5f38345578990c9		receipt	收据	Chinese	Shou1 Ju4	Chinese EN-CN_04-21_Business-1
+7a9e9f3930d9f97b8f3b6eb5f2ebab91		reimburse	报销	Chinese	Bao4 Xiao1	Chinese EN-CN_04-21_Business-1
+c09eb54a30338e995d7f8214f4fbfb6c		more	更	Chinese	Geng4	Chinese EN-CN_04-02_Languages-2
+c327344a6a9a3d99162f384b947ad23e		comments, reviews	评论	Chinese	Ping2 Lun4	Chinese EN-CN_04-20_Internet-Slang
+f15660e424838b78c8adc19de40e9b75		fans, vermicelli	粉丝	Chinese	Fen3 Si1	Chinese EN-CN_04-20_Internet-Slang
+32cf6b3707905d6dceb2923948659db5		"praise (""like"")"	赞	Chinese	Zan	Chinese EN-CN_04-20_Internet-Slang
+0d9f623c8a803917ee21c125b1c14563		to click	点	Chinese	Dian3	Chinese EN-CN_04-20_Internet-Slang
+a411eb074f9b42176821079bbf2c11d3		to follow (internet slang)	关注	Chinese	Guan3 Zhu4	Chinese EN-CN_04-20_Internet-Slang
+f02e00635aac328bb49f2ae6a5ff0614		close friend	好友	Chinese	Hao3 You3	Chinese EN-CN_04-20_Internet-Slang
+cef505c83dd8a26a1f146d2e33983b06		to add	加	Chinese	Jia1	Chinese EN-CN_04-20_Internet-Slang
+68e78410ff2f7956c478a3d7fd9e1d1f		to forward	转发	Chinese	Zhuan3 Fa1	Chinese EN-CN_04-20_Internet-Slang
+8d123f50cdc91cb862c451f40530f88f		Weibo (phone app)	微博	Chinese	Wei1 Bo2	Chinese EN-CN_04-20_Internet-Slang
+8f65cbb5ce7838679529f3e09ac541b7		"""We chat"" (phone application)"	微信	Chinese	Wei Xin	Chinese EN-CN_04-20_Internet-Slang
+2555198a9cb389333b8a6129d9e60792		scroll through	刷	Chinese	Shua1	Chinese EN-CN_04-20_Internet-Slang
+2c3cc1f6cec825b8328776109aee14a2		Moments (We Chat)	朋友圈	Chinese	Peng2 You3 Quan1	Chinese EN-CN_04-20_Internet-Slang
+bd000826bcb993db2e864facce2d4498		beautiful girl	美眉	Chinese	Mei3 Mei2	Chinese EN-CN_04-20_Internet-Slang
+6138e82322133f4d1cba9c6562119af7		"""sad face"" (internet slang)"	囧	Chinese	Jiong3	Chinese EN-CN_04-20_Internet-Slang
+a6e6bdaba98ca2d50edf4675df7dc597		tall, rich and handsom	高富帅	Chinese	Gao1 Fu4 Shuai4	Chinese EN-CN_04-20_Internet-Slang
+d0ecc6bb7c6f05acf8384a34803e92bf		beginner	菜鸟	Chinese	Cai4 Niao3	Chinese EN-CN_04-20_Internet-Slang
+7cf378474495a189aab9960c74bdbc0a		cute	萌	Chinese	Meng2	Chinese EN-CN_04-20_Internet-Slang
+60551a9ec66dd5eb04d2d2c6e81afe1d		Meitu (phone app)	美图	Chinese	Mei Tu	Chinese EN-CN_04-20_Internet-Slang
+9955aa424c70dc9e65650c4250f2f34d		selfie	自拍	Chinese	Zi4 Pai1	Chinese EN-CN_04-20_Internet-Slang
+528250e631baf5dd87c4b192aa58279e		foodie	吃货	Chinese	Chi1 Huo2	Chinese EN-CN_04-20_Internet-Slang
+302b996cbe70b56c7e22c8af3b1351cd		provinicial tycoon	土豪	Chinese	Tu3 Hao2	Chinese EN-CN_04-20_Internet-Slang
+cd3204a7cad147d73ccd6f954db20e8c		otaku	宅男	Chinese	Zhai2 Nan2	Chinese EN-CN_04-20_Internet-Slang
+b2e4c18b47af50c049ed7bbdea3ca17e		animal	动物	Chinese	Dong4 Wu4	Chinese EN-CN_04-08_Culture
+737f05c368770327c367adc59926cd55		to clean up, to sweep	打扫	Chinese	Da3 Sao3	Chinese EN-CN_04-13_House
+a796f6e082a98b37125d1b5d245479d0		clean	干净	Chinese	Gan1 Jing4	Chinese EN-CN_04-13_House
+22d9ec60fe55f73e9c76d7727ee2fc5d		to put, to place	放	Chinese	Fang4	Chinese EN-CN_04-13_House
+3d4b64aeffb74fb054d487cc9d80ede3		as, to become / because of, for	为	Chinese	Wei2 / Wei4	Chinese EN-CN_04-14_Exam
+3aaa173c1a59146f19092a582856af20		winter holidays	寒假	Chinese	Han2 Jia4	Chinese EN-CN_04-14_Exam
+344953cb44faebd5aa20748a90e59276		finaly	终于	Chinese	Zhong1 Yu2	Chinese EN-CN_04-14_Exam
+da2abbf363c8acdda4d5a946a10b17a5		worried, anxious	担心	Chinese	Dan1 Xin1	Chinese EN-CN_04-14_Exam
+01f07902d236990bddec6cc523b97182		to finish, to end	结束	Chinese	Jie2 Shu4	Chinese EN-CN_04-14_Exam
+7401379fb7dad14a2a82d31438eda550		to be on vacation, to be off	放假	Chinese	Fang4 Jia4	Chinese EN-CN_04-14_Exam
+72835a456dda6efb5d7234112045d689		speciality, main field of study, major	专业	Chinese	Zhuan1 Ye4	Chinese EN-CN_04-14_Exam
+4ac186ab7508a17369d820e0fc114fe7		grades, score, achievement	成绩	Chinese	Cheng2 Ji4	Chinese EN-CN_04-14_Exam
+4c664e9c83ff11be21f66ed6e63d39fc		university	大学	Chinese	Da4 Xue2	Chinese EN-CN_04-14_Exam
+2739eb72b8193594a40e5f0e2499e603		to remember	记得	Chinese	Ji4 De	Chinese EN-CN_04-14_Exam
+68ddb19e30b6904b12455b1825fcbd84		summer holidays	暑假	Chinese	Shu3 Jia4	Chinese EN-CN_04-14_Exam
+639f23f6323164c0a531ef6740340516		mathematics	数学	Chinese	Shu4 Xue2	Chinese EN-CN_04-14_Exam
+b4dc7b3f9d75766f2a210daa081a4f0a		to review	复习	Chinese	Fu4 Xi2	Chinese EN-CN_04-14_Exam
+7d3a663f7df72690e45a58143ac2cc61		to relax	放松	Chinese	Fang4 Song1	Chinese EN-CN_04-14_Exam
+8452bc3458daf944d9f5b1572f7f4c23		elevator, lift	电梯	Chinese	Dian4 Ti1	Chinese EN-CN_04-13_House
+759e4cfa1e7f4cc35ac97a0a2dda00ba		light	灯	Chinese	Deng3	Chinese EN-CN_04-13_House
+c8ac371e20c32bdcef3eafc79288cf6a	张	painting	画	Chinese	Hua4	Chinese EN-CN_04-13_House
+e23ccbb11235b13806cb3abd748fbdd3		broken	坏	Chinese	huai4	Chinese EN-CN_04-13_House
+099bbef3c2b531e44cde7ca654692de6		by (indicates passive-voice clauses)	被	Chinese	Bei4	Chinese EN-CN_04-13_House
+4aaf075e7eac0cf984044e1c307d73d9		guest, customer	客人	Chinese	Ke4 Ren2	Chinese EN-CN_04-13_House
+77fa33a1cac47fa9a9e302153d51705c		air conditioning	空调	Chinese	Kong4 Tiao2	Chinese EN-CN_04-13_House
+802addbaa496e4c5a9d18c278ac55817	间	living room	客厅	Chinese	Ke4 Ting1	Chinese EN-CN_04-13_House
+de2e4413f2f667082e35eb4331c14088	间	kitchen	厨房	Chinese	Chu2 Fang2	Chinese EN-CN_04-13_House
+075fb84e4ff9301ebd6ae2f6eb0b81bc	间	toilet, bathroom	厕所	Chinese	Ce4 Suo3	Chinese EN-CN_04-13_House
+777b88616c47fc5781244a39e25fe76f		grammar	语法	Chinese	Yu3 Fa3	Chinese EN-CN_04-12_Languages-3
+7585c050059e4dd4f02497839c311b26		Duolingo	多邻国	Chinese	Duo1 Lin2 Guo2	Chinese EN-CN_04-12_Languages-3
+08273fa1e0bc688a50214fa23ce5264e		to answer	回答	Chinese	Hui2 Da2	Chinese EN-CN_04-12_Languages-3
+6bfd4fb575e8978d1e6e502e39842d40		to download	下载	Chinese	Xia4 Zai3	Chinese EN-CN_04-12_Languages-3
+38ef804f1eb65f409d06b0aab70c063c	本	dictionary	词典	Chinese	Ci2 Dian3	Chinese EN-CN_04-12_Languages-3
+60272a111d1b8e0d13f4ac3c0487625d		to translate	翻译	Chinese	Fan1 Yi4	Chinese EN-CN_04-12_Languages-3
+353527f9f6d63bd93cab62000781bc77		simple	简单	Chinese	Jian3 Dan1	Chinese EN-CN_04-12_Languages-3
+f799eea406c4837b6ad3ec8a8af4f91d		application, (computing) app	应用	Chinese	Ying1 Yong4	Chinese EN-CN_04-12_Languages-3
+1c4f51cbd5c164812b11480d46f99dfb		fluent	流利	Chinese	Liu2 Li4	Chinese EN-CN_04-12_Languages-3
+03d9ae84d8865b85ad7227811cce80d4	个	sentence	句子	Chinese	Ju4 Zi	Chinese EN-CN_04-12_Languages-3
+73bde43e45dec92e5458c5b91a4f0a83		to charge (battery)	充电	Chinese	Chong1 Dian4	Chinese EN-CN_04-11_Travel-3
+a1ed2de9ec84553c447e26ef5afaeb72		telephone card	电话卡	Chinese	Dian4 Hua4 Ka3	Chinese EN-CN_04-11_Travel-3
+f653f41a15e5512736eb61d05ff42840		bank	银行	Chinese	Yin2 Hang2	Chinese EN-CN_04-11_Travel-3
+db829ccfa96f298754eaa37032fc3447		counter	柜台	Chinese	Gui4 Tai2	Chinese EN-CN_04-11_Travel-3
+7c002c824a7216e118905b839fb4edb8		tour guid	导游	Chinese	Dao3 You2	Chinese EN-CN_04-11_Travel-3
+96df7af47200ff1e3346c2149c7edb44		domestic	国内	Chinese	Guo2 Nei4	Chinese EN-CN_04-11_Travel-3
+1a1f6775719e8610726d0cca023cb39b		to change money	换钱	Chinese	Huan4 Qian2	Chinese EN-CN_04-11_Travel-3
+6d9957a9b86fc8a45b56d69fd5a5101e		to book a room	订房	Chinese	Ding4 Fang2	Chinese EN-CN_04-11_Travel-3
+cda5845c389d8943900b15a4bf7b64be		(international) roaming	(国际)漫游	Chinese	(Guo2 Ji4) Man4 You2	Chinese EN-CN_04-11_Travel-3
+1c21fd0fb985333f06453bc2afb0760b		to cancel	取消	Chinese	Qu3 Xiao1	Chinese EN-CN_04-11_Travel-3
+0e16ed819123db9230928d7fc41f8be2		to top-up&nbsp;	充值	Chinese	Chong1 Zhi2	Chinese EN-CN_04-11_Travel-3
+c35bb3f83495931861f207493b107a15		to change planes / layover	转机	Chinese	Zhuan3 Ji1	Chinese EN-CN_04-11_Travel-3
+45f54f66bf2fc9b9ef0d576fad65e005		international	国际	Chinese	Guo2 Ji4	Chinese EN-CN_04-11_Travel-3
+a58a1c31129fa91687a0d4a330e24817		to check out (of a hotel room)	退房	Chinese	Tui4 Fang2	Chinese EN-CN_04-11_Travel-3
+ee172682889eef60f7e32aac50a20736		to smoke (a cigarette)	抽烟	Chinese	Chou1 Yan1	Chinese EN-CN_04-10_Health-3
+7d139168724cb95e02c2585435af3aa5		to die	死	Chinese	Si3	Chinese EN-CN_04-10_Health-3
+2994f37ff7bed340b5ad96403530c67f		anxious	着急	Chinese	Zhao2 Ji2	Chinese EN-CN_04-10_Health-3
+cfbfde8bff4a2ca94797cabd0a8d5e75		skinny	瘦	Chinese	Shou4	Chinese EN-CN_04-10_Health-3
+1f74f41a279b3802e70dc4009d153f12		boring	闷	Chinese	Men4	Chinese EN-CN_04-10_Health-3
+b23a234ea0ed719be7b7f0e887bb2d86		to cough	咳嗽	Chinese	Ke2 Sou	Chinese EN-CN_04-10_Health-3
+6c537379502f717fb2538c6c0977ecf3	条	leg	腿	Chinese	Tui3	Chinese EN-CN_04-10_Health-3
+0c6ce87a536cb2f21dc94fe66d5dcc31		kilogram	公斤	Chinese	Gong1 Jin1	Chinese EN-CN_04-10_Health-3
+71f74de0abf450002e4eb1ccfcc5e2e0		to take care of	照顾	Chinese	Zhao4 Gu	Chinese EN-CN_04-10_Health-3
+d12468ea9873b9a4ff2c4428f729cd78		or	或者	Chinese	Huo4 Zhe	Chinese EN-CN_04-09_Hobbies-3
+17b857f84aafb856adeffd0692ed5a2b		interest	兴趣	Chinese	Xing4 Qu4	Chinese EN-CN_04-09_Hobbies-3
+761faa3def968d4e763e30836186d527		be (not) interested in	对...(不)感兴趣	Chinese	Dui4 ... (Bu4) Gan3 Xing4 Qu4	Chinese EN-CN_04-09_Hobbies-3
+85b8158010e679b1f2ec05063a4e755e		culture	文化	Chinese	Wen2 Hua4	Chinese EN-CN_04-09_Hobbies-3
+5243bc24664f9b8e73fdc9ba536c4b55		Mahjong	麻将	Chinese	Ma2 Jiang4	Chinese EN-CN_04-09_Hobbies-3
+bb751d1695cf39cd8556ce0919a4b9f3	辆	bicycle	自行车	Chinese	Zi4 Xing2 Che1	Chinese EN-CN_04-09_Hobbies-3
+e9ab6c78f5de9d57dbeab655c0b954c9		history	历史	Chinese	Li4 Shi3	Chinese EN-CN_04-09_Hobbies-3
+66aa43d978c868632aee3af39800dff9		hiking, to climb a mountain	爬山	Chinese	Pa2 Shan1	Chinese EN-CN_04-09_Hobbies-3
+e6404dab57567961952490ab20a7e2c6		in order to	为了	Chinese	Wei4 Le	Chinese EN-CN_04-09_Hobbies-3
+f830163b6af8ce0057a839a552e5f649		special, particularly	特别	Chinese	Te4 Bie2	Chinese EN-CN_04-09_Hobbies-3
+f9cdbe80fc72498ec4f8e3ab5c6d248a		to understand	了解	Chinese	Liao3 Jie3	Chinese EN-CN_04-09_Hobbies-3
+a5f00f81bbd6070e59d77b3c89a7921a		Kung fu	功夫	Chinese	Gong1 Fu	Chinese EN-CN_04-09_Hobbies-3
+a02bbfac7bab9c3199c20a6fca60fbf3		level, skill	水平	Chinese	Shui3 Ping2	Chinese EN-CN_04-02_Languages-2
+6ee068f83aeef5b3c9a92d3d70697e3c		serious, to take seriously	认真	Chinese	Ren4 Zhen1	Chinese EN-CN_04-05_Future
+4390c2aa5dd1d65282a711aa54c4b1b0		to plan to	打算	Chinese	Da3 Suan4	Chinese EN-CN_04-05_Future
+af60af1c4969477a31f7359bfeff649c		safety, safe	安全	Chinese	An1 Quan2	Chinese EN-CN_04-01_Travel-2
+6d8b070de0a10d45dece44232a3cd1b8		to improve, to raise	提高	Chinese	Ti Gao	Chinese EN-CN_04-02_Languages-2
+cbb8dbc79dbc81b7c39ca49d5c272ba5		to move, (relocate oneself)	搬	Chinese	Ban1	Chinese EN-CN_04-05_Future
+585e609e42113ea953e7505d6be7dce7		paper	纸	Chinese	Zhi3	Chinese EN-CN_04-04_School-2
+1cc129724acd4b73d58185b055d2339d		to depart, to leave	离开	Chinese	li2 Kai2	Chinese EN-CN_04-01_Travel-2
+c6077746fa7f022a92329ed1bc8e31e3		inspection, to inspect	检查	Chinese	Jian3 Cha2	Chinese EN-CN_04-01_Travel-2
+36e10d007e5304cab2204c75adc5d90d		Miss, young lady	小姐	Chinese	Xiao3 Jie	Chinese EN-CN_04-07_Work
+a3999c07e9852641098f522f74d4791b		(long) time	久	Chinese	Jiu3	Chinese EN-CN_04-02_Languages-2
+2e532275c13682ba26546f1d763291c7		to solve, to resolve, to settle	解决	Chinese	Jie3 Jue2	Chinese EN-CN_04-07_Work
+3cd549c0e8ce26970f30c874065b9168		strange	奇怪	Chinese	Qi2 Guai4	Chinese EN-CN_04-03_Personality-and-Feelings
+fcec1e030bc98e288ab20420a4af226f		manager	经理	Chinese	Jing1 Li3	Chinese EN-CN_04-07_Work
+1b4fd0bd1dd1af5588de9fcaecb8aa47		world	世界	Chinese	Shi4 Jie4	Chinese EN-CN_04-08_Culture
+d4a0c0b4f22f9b26ee8c1d898fe1c289		interjection of surprise	啊	Chinese	A1	Chinese EN-CN_04-08_Culture
+20451b5d3eb6a7fc41191a51241daaac		Yangtze River	长江	Chinese	Chang2 Jiang1	Chinese EN-CN_04-08_Culture
+7b84435ec4ae51df71afff65cfb058ad		Xi'an (capital of Shaanxi)	西安	Chinese	Xi1 An1	Chinese EN-CN_04-08_Culture
+d589d743601799b504ceb7263ad27c06		The Great Wall of China	长城	Chinese	Chang2 Cheng2	Chinese EN-CN_04-08_Culture
+f8190fed6fcd8e47d322d3b995eb235c		so much	多么	Chinese	Duo1 Me	Chinese EN-CN_04-08_Culture
+75483ecfa4e540202d5fa982e2bd2e84		the Yellow River	黄河	Chinese	Huang2 He2	Chinese EN-CN_04-08_Culture
+9fa27193df7a99803baa71571bbbb993		panda	熊猫	Chinese	Xiong2 Mao1	Chinese EN-CN_04-08_Culture
+f58cd620fc3a3053f1c8a02e830c2b57		famous	有名	Chinese	You3 Ming2	Chinese EN-CN_04-08_Culture
+a91b3c7ddca315a4dde4a28593fe1546		the Forbidden City	故宫	Chinese	Gu4 Gong1	Chinese EN-CN_04-08_Culture
+1dac9817fd47ca7ace2cb453111ea84b		to forget	忘	Chinese	Wang4	Chinese EN-CN_04-07_Work
+2f4e2b1e6430392d63c8ef68ab3509f1		to believe sb.	相信	Chinese	Xiang1 Xin4	Chinese EN-CN_04-07_Work
+12a1d7c566bf54dfee90d74824d47de7		suddenly	突然	Chinese	Tu1 Ran2	Chinese EN-CN_04-07_Work
+15220ff750c4f2084322107618ce55cb		solution, means, method	办法	Chinese	Ban4 Fa3	Chinese EN-CN_04-07_Work
+68c2130f5b5f89902e7ec85c79a7c8b0		teacher, sir, mister (Mr.)	先生	Chinese	Xian1 Sheng	Chinese EN-CN_04-07_Work
+c83e994ac2410d375d06c180f615c747		important	重要	Chinese	Zhong4 Yao4	Chinese EN-CN_04-07_Work
+2ed382ec6eb620cec4917237358e1822		conference, meeting	会议	Chinese	Hui4 Yi4	Chinese EN-CN_04-07_Work
+35e884ab5d679dd82f88890eea0006f3		convenient	方便	Chinese	Fang1 Bian4	Chinese EN-CN_04-06_Environment
+c4ae222439fb8b3e063ce0e3d02a6b81		sun	太阳	Chinese	Tai4 Yang	Chinese EN-CN_04-06_Environment
+23d10fd44b796fbe503eeada6b28737d		neighbor	邻居	Chinese	Lin2 Ju1	Chinese EN-CN_04-06_Environment
+b49a375c6ebac70508a87cc81b58629a		floor, house with more than 1 story	楼	Chinese	Lou2	Chinese EN-CN_04-06_Environment
+77b7871aebee43f1282f8dc5e23f59f2		to come	来	Chinese	Lai2	Chinese EN-CN_04-06_Environment
+306da6e845fd9d30df41f0eca602042d		flower, to spend (money)	花	Chinese	Hua1	Chinese EN-CN_04-06_Environment
+5fb2bc61b439dcbaaa92401416a61278		quiet	安静	Chinese	An1 Jing4	Chinese EN-CN_04-06_Environment
+bd9312ab1a86e4677c12a76e5d26af2c		to disturb, to affect, influence	影响	Chinese	Ying3 Xiang3	Chinese EN-CN_04-06_Environment
+51e30420ee88ea70ec1e07e6c1f3f256		above, on top	上	Chinese	Shang4	Chinese EN-CN_04-06_Environment
+c6f27c21ec26e58ba4b5ce30e34a68f5		bucket	桶	Chinese	Tong3	Chinese EN-CN_04-06_Environment
+6e0a9845f4ea5d47573890d63c64d367		to lose, put aside, to throw	丢	Chinese	Diu1	Chinese EN-CN_04-06_Environment
+c8a56ae4d00b806a9fbede83ff6c7d5b		down, below	下	Chinese	Xia4	Chinese EN-CN_04-06_Environment
+12cf9e7c76b0c6b46824285c825fd2d1		dirty	脏	Chinese	Zang4	Chinese EN-CN_04-06_Environment
+aeaf4d04f3175a0e6a96f85a848f3dea		trash (can)	垃圾(桶)	Chinese	La1 Ji1(Tong3)	Chinese EN-CN_04-06_Environment
+d78c5c9dea5e461322e87e9c30ce9666		to go	去	Chinese	Qu4	Chinese EN-CN_04-06_Environment
+51df145a1754c9b9e989c4612962ae45		star (in the sky)	星星	Chinese	Xing1 Xing	Chinese EN-CN_04-06_Environment
+e46629e7d97b638614ec02505af6bdc8		environment	环境	Chinese	Huan2 Jing4	Chinese EN-CN_04-06_Environment
+b31a7bdc00489282bdfc275ec31c74ec	个	voice, sound	声音	Chinese	Sheng1 Yin1	Chinese EN-CN_04-06_Environment
+92e10b376c769bb8d3fd1ebf8c08dbf9		floor (of a building)	层	Chinese	Ceng2	Chinese EN-CN_04-06_Environment
+25faed5f7c111271ecdd6afe3bef8cbb		grass	草	Chinese	Cao3	Chinese EN-CN_04-06_Environment
+9996e0576c6e26ab4e335bba24d1d586		to wish, to want, willing	愿意	Chinese	Yuan4 Yi4	Chinese EN-CN_04-05_Future
+27ec4dc904b2dfcdb0987af4a9f56a78		of course	当然	Chinese	Dang1 Ran2	Chinese EN-CN_04-05_Future
+5dd9ff5cb17ef3b52321080ef31abf42		to relax	放心	Chinese	Fang4 Xin1	Chinese EN-CN_04-05_Future
+7c00fe12126581bb5e5bda9e570d3967		to marry, get married	结婚	Chinese	Jie2 Hun1	Chinese EN-CN_04-05_Future
+d27b114b9dc9094ee4c4c8944f530c17		to select, choice	选择	Chinese	Xuan3 Ze2	Chinese EN-CN_04-05_Future
+4e7a933d59ff10436eeb0b062ed520ce	个	opportunity, chance	机会	Chinese	Ji1 Hui4	Chinese EN-CN_04-05_Future
+ab4458841e435d2137fe63e049869adf		to change, change	变化	Chinese	Bian4 Hua4	Chinese EN-CN_04-05_Future
+b81c7bf30b1dfb61f737a0ffffdfa29f		to be afraid	害怕	Chinese	Hai4 Pa4	Chinese EN-CN_04-05_Future
+07410ecb8074d1fd3946a1cb211668d1		to break up [跟&nbsp;- with]	分手	Chinese	Fen1 Shou3	Chinese EN-CN_04-05_Future
+5651f188f08896360356acb6af56755e		to study abroad	留学	Chinese	Liu2 Xue2	Chinese EN-CN_04-05_Future
+70798306ae8c080d2adec97de3e470b3	个	country	国家	Chinese	Guo2 Jia1	Chinese EN-CN_04-05_Future
+078203d1438e086b1b2320044d3af908		to teach	教	Chinese	Jiao4	Chinese EN-CN_04-04_School-2
+27e6f6f1a340ecd165758490f3411eba		to have to, must	必须	Chinese	Bi4 Xu1	Chinese EN-CN_04-04_School-2
+997e0fcdc989beb0f1fc92ef33cd58af		to finish	完成	Chinese	Wan2 Cheng2	Chinese EN-CN_04-04_School-2
+a13c360acb6730712b3021ab4339da6b		blackboard	黑板	Chinese	Hei1 Ban3	Chinese EN-CN_04-04_School-2
+9c14b97e05d98c20d15f36ff33f371f3		cafeteria	食堂	Chinese	Shi2 Tang2	Chinese EN-CN_04-04_School-2
+3e487ea49212347fd9150cb9259bd44a		gym	体育馆	Chinese	Ti3 Yu4 Guan3	Chinese EN-CN_04-04_School-2
+50acd4ebc36990405040612580df8527		notebook	笔记本	Chinese	Bi3 Ji4 Ben3	Chinese EN-CN_04-04_School-2
+0b204618e75c88a7d8a49063db0cbf80		clearly	清楚	Chinese	Qing1 Chu	Chinese EN-CN_04-04_School-2
+2125b1b2155d64cdb33d58baa1277eec		notes	笔记	Chinese	Bi3 Ji4	Chinese EN-CN_04-04_School-2
+910c4036269d369e1c4ef4d97357e6c3		class	班	Chinese	Ban1	Chinese EN-CN_04-04_School-2
+fd4efd71165844ca0c40f8043f1046c7		to request, to require	要求	Chinese	Yao4 Qiu2	Chinese EN-CN_04-04_School-2
+15f948800e573dbe834bed9da57fbffd		homework	作业	Chinese	Zuo4 Ye4	Chinese EN-CN_04-04_School-2
+31d137aae34047e5ed2e58186513ca3f		to lend, to borrow (向 - from)	借	Chinese	Jie4	Chinese EN-CN_04-04_School-2
+2a1ddce511dd467d6771b56a149f6777		pensil	铅笔	Chinese	Qian1 Bi3	Chinese EN-CN_04-04_School-2
+7ff99e6575f9f679002a2b0804d92c66		high school	高中	Chinese	Gao1 Zhong1	Chinese EN-CN_04-04_School-2
+25c98d48da449c0f49b21e9baa2ce18d		school principal	校长	Chinese	Xiao4 Zhang3	Chinese EN-CN_04-04_School-2
+9699e343c85a8741468e3efd24e02ba6		to care about	关心	Chinese	Guan1 Xin1	Chinese EN-CN_04-03_Personality-and-Feelings
+11bb2496af5d8fa74defde3fa387899f		to bump into	遇到	Chinese	Yu4 Dao4	Chinese EN-CN_04-03_Personality-and-Feelings
+1db168e2e63f00861257702ff51fd623		affectionate, warm-hearted	热情	Chinese	Re4 Qing2	Chinese EN-CN_04-03_Personality-and-Feelings
+bb4b89cabadd8306bc6bebc544a12e16		-ly (structural particle)	地	Chinese	De	Chinese EN-CN_04-03_Personality-and-Feelings
+0a0835cd7ef304737c3d74740c0765a4		scary, awful	可怕	Chinese	Ke3 Pa4	Chinese EN-CN_04-03_Personality-and-Feelings
+e63e2fc5259a7c916ffcc32d397b9527		looks as if, to appear to	看起来	Chinese	Kan4 Qi3 Lai	Chinese EN-CN_04-03_Personality-and-Feelings
+c3165377095d5d4004cd0998fa0653f8		to cry	哭	Chinese	Ku1	Chinese EN-CN_04-03_Personality-and-Feelings
+8168ca26eee835c81eecc60b1ca9d290		to miss, to want	想	Chinese	Xiang3	Chinese EN-CN_04-03_Personality-and-Feelings
+525571d38c5831394526a4c2504081f0		to be nervous	紧张	Chinese	Jin3 Zhang1	Chinese EN-CN_04-03_Personality-and-Feelings
+4b51d1bab910cb84218f2d70e705b5e1		funny	好笑	Chinese	Hao3 Xiao4	Chinese EN-CN_04-03_Personality-and-Feelings
+4eea3ae8319094c0974adfc710fae522		angry	生气	Chinese	Sheng1 Qi4	Chinese EN-CN_04-03_Personality-and-Feelings
+507596898ea89075ef1502ea35a9a622		often	经常	Chinese	Jing1 Chang2	Chinese EN-CN_04-03_Personality-and-Feelings
+21bd0c41034476fae0c7f948ea7ab547		sad	难过	Chinese	Nan2 Guo4	Chinese EN-CN_04-03_Personality-and-Feelings
+86e9283c3641bca8e10faa30337331a8		Chinese character	汉字	Chinese	Han4 Zi4	Chinese EN-CN_04-02_Languages-2
+83d8004d65121224bf16eef92f1b5efb	种	language	语言	Chinese	Yu3 Yan2	Chinese EN-CN_04-02_Languages-2
+97139bb72c881b660a9f0f0d6e587f2a		later, afterwards	后来	Chinese	Hou4 Lai2	Chinese EN-CN_04-02_Languages-2
+6e70f6404de97cb9467f89b5fe5ccad2		type, kind	种	Chinese	zhong3	Chinese EN-CN_04-02_Languages-2
+7cb66046763bf793ead1648d4c9d6bdf		easy	容易	Chinese	Rong2 Yi4	Chinese EN-CN_04-02_Languages-2
+4a3b8cfe38b78eb3c20c21c4b192cfbc		to test, to examine	考	Chinese	Kao3	Chinese EN-CN_04-02_Languages-2
+502d4910daff50f47310e2df74aa32c7		to work hard	努力	Chinese	Nu3 Li4	Chinese EN-CN_04-02_Languages-2
+c35fce977f5c65d41200272817626dbb		to learn	学	Chinese	Xue2	Chinese EN-CN_04-02_Languages-2
+94779b42f408ac496f0fce50211da96d		take-off	起飞	Chinese	Qi3 Fei1	Chinese EN-CN_04-01_Travel-2
+bb232782425f61c5fa935545506f6edd		passport	护照	Chinese	Hu4 Zhao4	Chinese EN-CN_04-01_Travel-2
+9e697ecb3771e6e2141dff4cf6a43636		customs	海关	Chinese	Hai3 Guan1	Chinese EN-CN_04-01_Travel-2
+b330211f9bb772c2c0fd0e924f7eb8f1		luggage	行李	Chinese	Xing2 Li	Chinese EN-CN_04-01_Travel-2
+d627d376ba4d8725fa062dabca66c343		to forget	忘记	Chinese	Wang4 Ji4	Chinese EN-CN_04-01_Travel-2
+653a6a9bef77e6da2ade5dbddef854e4		almost	几乎	Chinese	Ji1 Hu1	Chinese EN-CN_04-01_Travel-2
+af1b1ce321ca66784fff0940ba87159b		visa	签证	Chinese	Qian3 Zheng4	Chinese EN-CN_04-01_Travel-2
+c61a1b21a55fb1d94e1dfecad169a93e		to realize	发现	Chinese	Fa1 Xian4	Chinese EN-CN_04-01_Travel-2
+9c31000d13964581b784b9a0b4499e45		to say loud	<div>说出来</div>	Chinese	Du2 Chu1 Lai2	Chinese EN-CN_04-15_Travel-4

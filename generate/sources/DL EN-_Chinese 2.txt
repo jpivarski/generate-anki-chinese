@@ -1,0 +1,277 @@
+#separator:tab
+#html:true
+#tags column:7
+d485c5841565bc68300cfe5b51ecbb2a		not	没	Chinese	Mei2	Chinese EN-CN_02-02_Family-1
+795f52ad35563e56fec76c8f6986cc94		to go	去	Chinese	Qu4	Chinese EN-CN_02-20_Hobbies-2
+72db6b9ade7e9792851348b717a47b91		have, has	有	Chinese	You3	Chinese EN-CN_02-02_Family-1
+3501f303ae0ca22b56f09d10728b17b1		above, on top	上	Chinese	Shang4	Chinese EN-CN_02-17_Location-4
+ffae533c35ca386236f0d653564afa4e		car	车	Chinese	Che1	Chinese EN-CN_02-23_Transportation
+726a14541830a6fa5d930f016842630c		to take (train, bus, etc.)	坐	Chinese	Zuo4	Chinese EN-CN_02-23_Transportation
+2e586d3514917d823ba9596e67cced97		once, one time	一下	Chinese	Yi1 Xia4	Chinese EN-CN_02-18_Restaurant
+6b7690ba7adb92172344cbc8d2f15c0a		ship, boat	船	Chinese	Chuan2	Chinese EN-CN_02-23_Transportation
+02a6b9576282e26fa9f6b96ba150f376		there	那里	Chinese	Na4 Li	Chinese EN-CN_02-12_Location-3
+1acac01ba2ca0b322bab905f293acd2e		can, may, able to	可以	Chinese	Ke3 Yi3	Chinese EN-CN_02-23_Transportation
+e99886a6e4115efe339c641f2a11d8a6		to want	想	Chinese	Xiang3	Chinese EN-CN_02-16_Entertainment
+3b2835c1c25cd04dcd079d043b9aced1		to like	喜欢	Chinese	Xi3 Huan	Chinese EN-CN_02-13_Hobbies-1
+37bffc02f9ac43237f25631fb29dc4aa		to learn	学习	Chinese	Xue2 Xi2	Chinese EN-CN_02-20_Hobbies-2
+be79127792534304421c0112f077fc0f		who	谁	Chinese	Shui2	Chinese EN-CN_02-02_Family-1
+e9b854862f21de63dddc8c52e8497ede		cute	可爱	Chinese	Ke3 Ai4	Chinese EN-CN_02-10_People-1
+600055c66593640ddf250c47b687460a		completed action marker / finish, understand	了	Chinese	Le / Liao3	Chinese EN-CN_02-11_Time-2
+71b8cb0ef2e059631ee6e5619d92de45		general counter	个	Chinese	Ge	Chinese EN-CN_02-02_Family-1
+70454910315e22719347c2596df921a1		love	爱	Chinese	Ai4	Chinese EN-CN_02-02_Family-1
+4f5a3937a773af0bc49a5c0096360ebc		this	这	Chinese	Zhe4	Chinese EN-CN_02-02_Family-1
+3ef867a81a57adfa859958f796c650ad		be able / will	会	Chinese	Hui4	Chinese EN-CN_02-11_Time-2
+b55ea1293cbaf4c20c6e3ad884f2b009		tomorrow	明天	Chinese	Ming2 Tian1	Chinese EN-CN_02-07_Time-1
+de0c80b1ec6f764a5432be0edd979a66		taxi	出租车	Chinese	Chu1 Zu1 Che1	Chinese EN-CN_02-23_Transportation
+a002836f55249af126e90a5fe83b473b		not allowed	不准	Chinese	Bu4 Zhun3	Chinese EN-CN_02-23_Transportation
+5d77151c6c67c7ad9721f19e80d917d5		to get off (a bus, etc.)	下	Chinese	Xia4	Chinese EN-CN_02-23_Transportation
+3db706627cd5512e3d50156273a1a323		car	汽车	Chinese	Qi4 Che1	Chinese EN-CN_02-23_Transportation
+a08d165976c99a3cf6842c54df729054		station, stop	站	Chinese	Zhan4	Chinese EN-CN_02-23_Transportation
+cab9db07aa6b7a198ff9072d5d2e990a		subway	地铁	Chinese	Di4 Tie3	Chinese EN-CN_02-23_Transportation
+4d68863d881cdbaf56b36a6f82723856		hotel	酒店	Chinese	Jiu3 Dian4	Chinese EN-CN_02-23_Transportation
+1720db5569ff44554986d06986cf27c7		public	公共	Chinese	Gong1 Gong4	Chinese EN-CN_02-23_Transportation
+b21ca162675450ad5fcf6ef4af5f8c25		counter for times	次	Chinese	Ci	Chinese EN-CN_02-03_Phrases-2
+c53b864dae1fd017b5da453c165bf059		to help	帮	Chinese	Bang1	Chinese EN-CN_02-19_Supermarket
+9857e10b1e47d975fc211dce4b88eb89		arrive	到	Chinese	Dao4	Chinese EN-CN_02-12_Location-3
+c39f74ad7658e165013b99b68218a804		friend	朋友	Chinese	Peng2 You	Chinese EN-CN_02-10_People-1
+f14b3782410f69e95c5ec14ac417ba58		please	请	Chinese	Qing3	Chinese EN-CN_02-03_Phrases-2
+02947054e09d630e6ebac159f5f55d65		to need	需要	Chinese	Xü1 Yao4	Chinese EN-CN_02-24_Shopping-1
+2018b076dd086f55a9eaf93cea50c795		to do	做	Chinese	Zuo4	Chinese EN-CN_02-14_Daily-Routine-1
+f947f50285a8d56b5688243cda48206c		to help	帮助	Chinese	Bang1 Zhu4	Chinese EN-CN_02-03_Phrases-2
+3454073331ac7c241f479eef7f6a99ed		to ask	问	Chinese	Wen4	Chinese EN-CN_02-03_Phrases-2
+5a463e4aa70b8d0b41a3dc1b6944cf2d		to need	要	Chinese	Yao4	Chinese EN-CN_02-05_Drink
+48ae7ae08d9c99010104126ea3f95f01		to look	看	Chinese	Kan4	Chinese EN-CN_02-13_Hobbies-1
+53896ad1b46045ba896f45fe23e715b9		each	每	Chinese	Mei3	Chinese EN-CN_02-11_Time-2
+799a09bf69609b829741cbb9cc7d8620		work	工作	Chinese	Gong1 Zuo4	Chinese EN-CN_02-22_Health-1
+9aed306ac4a2b692a10d756c32798d43		month	月	Chinese	Yue4	Chinese EN-CN_02-07_Time-1
+e933310f204d512c1096cf6f8606929c		yesterday	昨天	Chinese	Zuo2 Tian1	Chinese EN-CN_02-11_Time-2
+89d389a3c20a5ffae9a0da1eafd70998		evening	晚上	Chinese	Wan3 Shang4	Chinese EN-CN_02-11_Time-2
+9cc009ee83a3a14f08c283add5bc0970		to write	写	Chinese	Xie3	Chinese EN-CN_02-25_Languages
+c901457432e08c8fbcdc78494b395ce6		too (much)	太	Chinese	Tai4	Chinese EN-CN_02-15_Payment
+719dc68603633116e77f3ae1b785e302		inside, interior	里	Chinese	Li3	Chinese EN-CN_02-17_Location-4
+5bae7e836b36477c7850835ec42bb62b		sugar	糖	Chinese	Tang2	Chinese EN-CN_02-19_Supermarket
+200026e02e9d88e7a06781dc328f0666		next year	明年	Chinese	Ming2 Nian2	Chinese EN-CN_02-11_Time-2
+fbe8c6e97622b76e8c676d866548bbfc		the most	最	Chinese	Zui4	Chinese EN-CN_02-13_Hobbies-1
+0c9bf153fe46f3e91ab8f9e7080655e6		to see, to meet	见	Chinese	Jian4	Chinese EN-CN_02-17_Location-4
+f7214e86c033ae38d718033211b6033f		you (honorific)	您	Chinese	Nin2	Chinese EN-CN_02-24_Shopping-1
+bc04cc3395cc36c3599ddaed1bab6c8c		(completed action marker) / to understand	了	Chinese	Le / Liao3	Chinese EN-CN_02-15_Payment
+b036fd707800f01b2f7c1e08dcd812d5		here	这里	Chinese	Zhe4 Li	Chinese EN-CN_02-12_Location-3
+ab0917db848bc09f5ca85a1daf41d21e		room	房间	Chinese	Fang2 Jian1	Chinese EN-CN_02-17_Location-4
+f2297f5c3aa4e0c734dbc67eb9b7cdb5		go	走	Chinese	Zou3	Chinese EN-CN_02-12_Location-3
+c9388855248790d203eeaa0d4be8c4ff		towards	往	Chinese	Wang3	Chinese EN-CN_02-12_Location-3
+49d5b724df8d87f8460a3b404892a162	to look for	to look for	找	Chinese	Zhao3	Chinese EN-CN_02-17_Location-4
+3634d523ea51e519121f3abc7d729405		Chinese language	汉语	Chinese	Han4 Yu3	Chinese EN-CN_02-03_Phrases-2
+9a4ecb88c96b8039f110d4fe21ba4ede		enter, go forward	进	Chinese	Jin4	Chinese EN-CN_02-18_Restaurant
+35da50575ec23d28d04f7b191f62824e		to give	给	Chinese	Gei3	Chinese EN-CN_02-19_Supermarket
+62f2401cb1eb3e54f862b5a764569d31		a little	一点儿	Chinese	Yi1 Dian3 r	Chinese EN-CN_02-09_Telephone
+c10a00a782bbf84297ba4fdc6e6cb332		to wait	等	Chinese	Deng3	Chinese EN-CN_02-18_Restaurant
+29aa99e5474990b63c138dbc66229327		why?	为什么	Chinese	Wei4 Shen2 Me	Chinese EN-CN_02-20_Hobbies-2
+5f1e180234fd66d4b22ef9952fbc9897		return	回	Chinese	Hui2	Chinese EN-CN_02-14_Daily-Routine-1
+ff4f87a8314da985b65536cc3bd6dc7c		do	做	Chinese	Zuo4	Chinese EN-CN_02-11_Time-2
+565d493d1230eaa62ead1d382a8b82f1		to speak	说	Chinese	Shuo1	Chinese EN-CN_02-03_Phrases-2
+1c5ff858fcdf2b218fbeb57cc98cd7d8		Chinese language	中文	Chinese	Zhong1 Wen2	Chinese EN-CN_02-20_Hobbies-2
+71d4a723e3e0ce1dc774fe9f724dbb8e		last year	去年	Chinese	Qu4 Nian2	Chinese EN-CN_02-11_Time-2
+b7be54ba8bb35c24b327461a05fc98ae		English language	英语	Chinese	Ying1 Yu3	Chinese EN-CN_02-03_Phrases-2
+401126e67665b72e7a2760566840f05e		movie	电影	Chinese	Dian4 Ying3	Chinese EN-CN_02-16_Entertainment
+605a85f6c3ad028d9132798e88aa01f9		to begin	开始	Chinese	Kai1 Shi3	Chinese EN-CN_02-22_Health-1
+3c0322c4b06f57087ef94773052aea57		milk	牛奶	Chinese	Niu2 Nai3	Chinese EN-CN_02-05_Drink
+2cd21392401655beeae08c2798f6765e		cat	猫	Chinese	Mao1	Chinese EN-CN_02-08_Family-2
+b6712bf38e0b3a86ee3bdd46ed87efc5		mistake, wrong	错	Chinese	Cuo4	Chinese EN-CN_02-25_Languages
+022c4c8c97a8e11e62ebbfe7b3837a66		to know	知道	Chinese	Zhi1 Dao4	Chinese EN-CN_02-03_Phrases-2
+ce1377bc2ae04948a6940a57468d884c		where	哪里	Chinese	Na3 Li3	Chinese EN-CN_02-12_Location-3
+5bed73fd70971e5bc7d4ab8e1a2d30cd		excuse me	请问	Chinese	Qing3 Wen4	Chinese EN-CN_02-03_Phrases-2
+8ecb59c7825d7d08fbcb076b7e05df1d		(be) fat	胖	Chinese	Pang4	Chinese EN-CN_02-22_Health-1
+0e12ac52a74661c35b82b32f322a0405		to travel	旅游	Chinese	Lü3 You2	Chinese EN-CN_02-20_Hobbies-2
+a843c784f0468ba46e4ccec9579c9417		book	书	Chinese	Shu1	Chinese EN-CN_02-13_Hobbies-1
+8c354d19dd7167e8f1d205490f2439b8		dog	狗	Chinese	Gou3	Chinese EN-CN_02-08_Family-2
+96b94784a18461665561cb1ed615bbb2		and	和	Chinese	He2	Chinese EN-CN_02-02_Family-1
+38e41e89c7b9187ff3fe471db9a363fb		weekend	周末	Chinese	Zhou1 Mo4	Chinese EN-CN_02-11_Time-2
+9dad3fee7ce4340a9c010e6301c353be		to be able / will	会	Chinese	Hui4	Chinese EN-CN_02-13_Hobbies-1
+1e17b5ecb7b92995e3e5bd87d3bded2f		to see	见	Chinese	Jian4	Chinese EN-CN_02-04_Greeting-4
+1d94050b700ab8e932bcbcbb85e69b0c		don't, must not	不要	Chinese	Bu4 Yao4	Chinese EN-CN_02-22_Health-1
+4beb372733d7cf64e36ad7b28aa75d9d		here	这儿	Chinese	Zhe4 r	Chinese EN-CN_02-06_Location-2
+5dbe86fc405dacb91138a1caa5682ca1		mother	妈妈	Chinese	Ma1 Ma	Chinese EN-CN_02-02_Family-1
+7675d5cdcb9f53874aa59fa52ed74aa2		game	游戏	Chinese	You2 Xi4	Chinese EN-CN_02-13_Hobbies-1
+1ab327d2915f9423f0dd30e069378b72		music	音乐	Chinese	Yin1 Yue4	Chinese EN-CN_02-13_Hobbies-1
+0bd9633df5301042fd09a5d50caa8cd5		pretty	漂亮	Chinese	Piao4 Liang	Chinese EN-CN_02-10_People-1
+fecf29fb69766764141dd3e6bbb10b3b		credit card	信用卡	Chinese	Xin4 Yong4 Ka3	Chinese EN-CN_02-15_Payment
+0e447319663ece4e3256e1b742c7503a		there	那儿	Chinese	Na4 r	Chinese EN-CN_02-06_Location-2
+b45e8b345e53c20d5bc2474413ad3378		to use	用	Chinese	Yong4	Chinese EN-CN_02-16_Entertainment
+5bed7adf689db5250a063a5729830c0f		thing, stuff	东西	Chinese	Dong1 Xi	Chinese EN-CN_02-19_Supermarket
+0924c3ee9ce13f3ef2fd2ff3408df027		to buy	买	Chinese	Mai3	Chinese EN-CN_02-15_Payment
+16ddf6ed0c663e2e32c53bbf4033b2b9		from	从	Chinese	Cong2	Chinese EN-CN_02-14_Daily-Routine-1
+2c1563f62d7c9bcd6ce9b87fefbc8cf4		a little, slightly	有点儿	Chinese	You3 Dian3 r	Chinese EN-CN_02-22_Health-1
+da31437669220ae0cdd289156a6d0c10		body, health	身体	Chinese	Shen1 Ti3	Chinese EN-CN_02-22_Health-1
+f067ffe3fc963213489162e507638266		to think	觉得	Chinese	Jue2 De	Chinese EN-CN_02-22_Health-1
+e3e7fa3e31360bf0a2c62be3f9ea8954		health	健康	Chinese	Jian4 Kang1	Chinese EN-CN_02-22_Health-1
+f96d8f105dd31af4f06d23e9a3157e4f		tired	累	Chinese	Lei4	Chinese EN-CN_02-22_Health-1
+6dd5a42826a1af474eff48abfae27720		to pay attention to, to take a note	注意	Chinese	Zhu4 Yi4	Chinese EN-CN_02-22_Health-1
+6640d9c71f39ecdb33bf25fe5b8679d5		to work out, exercise	锻炼	Chinese	Duan4 Lian4	Chinese EN-CN_02-22_Health-1
+f104bfd6167bb6a4c8c3302947dab82d		year	年	Chinese	Nian2	Chinese EN-CN_02-07_Time-1
+60aa6662ea5fa5848465cf52e236b86e		this year	今年	Chinese	Jin1 Nian2	Chinese EN-CN_02-11_Time-2
+02c2571a27bdde0e85bc8cf2b9fed41e		altogether	一共	Chinese	Yi1 Gong4	Chinese EN-CN_02-15_Payment
+875befcbb3eff61e16342b3a5b68ce38		store	商店	Chinese	Shang1 Dian4	Chinese EN-CN_02-24_Shopping-1
+6f7fdb4c68ea41c1675a995c3ac0e702		to welcome	欢迎	Chinese	Huan1 Ying2	Chinese EN-CN_02-24_Shopping-1
+8c6843ddd571faf5a29869ed27a92c1a		it	它	Chinese	Ta1	Chinese EN-CN_02-08_Family-2
+3d43ed15798e2d52ba092c1081ea38ff		therefore, so	所以	Chinese	Suo3 Yi3	Chinese EN-CN_02-20_Hobbies-2
+9832eb8c6f6f4c4030ba91f7c1cfe9b7		two, both	两	Chinese	Liang	Chinese EN-CN_02-08_Family-2
+3e4447f58c703a265fc2ac65cfb55907		again	再	Chinese	Zai4	Chinese EN-CN_02-03_Phrases-2
+cccfd6b60f70c659fbe229b89b3315e3		Japan	日本	Chinese	Ri4 Ben3	Chinese EN-CN_02-21_Dining-1
+83ea856238639f0f9886a4d76ce78c75		week	星期	Chinese	Xing1 Qi1	Chinese EN-CN_02-07_Time-1
+119dbfc8ea2a1b15b8576c709f5624dd		day, heaven	天	Chinese	Tian1	Chinese EN-CN_02-11_Time-2
+5308bcefd2c1da605755469e80d590c0		fast	快	Chinese	Kuai4	Chinese EN-CN_02-09_Telephone
+c7a7db5e77579f48ca97d0a83f3a1047		hot	热	Chinese	Re4	Chinese EN-CN_02-05_Drink
+76623939ee140671b200a450ad3e4636		afternoon	下午	Chinese	Xia4 Wu3	Chinese EN-CN_02-11_Time-2
+de89dcfc155a932b7958640855a44b3f		above, upon	上	Chinese	Shang4	Chinese EN-CN_02-11_Time-2
+a2f8a6364284321532c22f8cfa5586e8	woman	woman	女	Chinese	Nü3	Chinese EN-CN_02-10_People-1
+6463c8e9b188f1f6b3fda49bb762aa8d		child	孩子	Chinese	Hai2 Zi	Chinese EN-CN_02-08_Family-2
+f23390b1db69e25cc8260d5ff066dfad		wife	妻子	Chinese	Qi1 Zi	Chinese EN-CN_02-08_Family-2
+626a9a2094a391ae911a668e7a1a4287		day, heaven	天	Chinese	Tian1	Chinese EN-CN_02-07_Time-1
+c098b52ea2e184f43f76ced116cd6466		older brother	哥哥	Chinese	Ge1 Ge	Chinese EN-CN_02-02_Family-1
+66af6779fb1702936b393a86e7d6336d		noon	中午	Chinese	Zhong1 Wu3	Chinese EN-CN_02-11_Time-2
+495e232a2a45dcfa52f2369892ee5149		family	家人	Chinese	Jia1 Ren2	Chinese EN-CN_02-02_Family-1
+88aa483f55513a8cc4e39119568d0863		coffee	咖啡	Chinese	Ka1 Fei1	Chinese EN-CN_02-05_Drink
+6b203aed102fd0a83126252ac1238c2a		hospital	医院	Chinese	Yi1 Yuan4	Chinese EN-CN_02-06_Location-2
+4d1c85aac65a9c66d0ce9fdfa9d5b4df		point, dot	点	Chinese	Dian3	Chinese EN-CN_02-07_Time-1
+4b7a310653670f3f70b6cc5b5fe28163		morning	上午	Chinese	Shang4 Wu3	Chinese EN-CN_02-11_Time-2
+831331a98562836627c46123cf708243		minute	分	Chinese	Fen1	Chinese EN-CN_02-11_Time-2
+592610e9a5246f59ecf78aebda7cd047		which	几	Chinese	Ji3	Chinese EN-CN_02-07_Time-1
+b4c33e992805543412e67a635e960b20		now	现在	Chinese	Xian4 Zai4	Chinese EN-CN_02-07_Time-1
+b7dee5d63205998cf268c3f0859f8789		younger sister	妹妹	Chinese	Mei4 Mei	Chinese EN-CN_02-02_Family-1
+552369f282d3df52eb30666ae6c2b9d9		to have to	得	Chinese	Dei3	Chinese EN-CN_02-09_Telephone
+b5cbd4f1bfb69c14db9d2337c213818a		ice	冰	Chinese	Bing1	Chinese EN-CN_02-05_Drink
+8c338198e6535fa40ff979e950624b30		supermarket	超市	Chinese	Chao1 Shi4	Chinese EN-CN_02-19_Supermarket
+ccc1714a0febbc0ee8c2a257a65d41cf		that	那	Chinese	Na4	Chinese EN-CN_02-02_Family-1
+93ff430056a00102af6eb197a4e0e980		dear, expensive	贵	Chinese	Gui4	Chinese EN-CN_02-15_Payment
+6acb0bd9e5498992d4b3b727060f43ab		to go to work	上班	Chinese	Shang4 Ban1	Chinese EN-CN_02-14_Daily-Routine-1
+9841b3d646f4b295b511b64df70daae4		item, classifier (events, things, clothes)	件	Chinese	Jian4	Chinese EN-CN_02-24_Shopping-1
+5807a8a91ec330b3e7334d68f5463d4e		only / classifier for birds and certain animals	只	Chinese	Zhi	Chinese EN-CN_02-15_Payment
+a8940687a727b1100ae3e662f359bef9		dish, vegetable, cuisine	菜	Chinese	Cai4	Chinese EN-CN_02-21_Dining-1
+061613d19ee09d6183e423050b578e23		to listen	听	Chinese	Ting1	Chinese EN-CN_02-13_Hobbies-1
+a931bfe225f942d312fd4b96fa09576e		daughter	女儿	Chinese	Nu3 Er2	Chinese EN-CN_02-08_Family-2
+1fd748884857d01e38a0118c1618de90	very	very	非常	Chinese	Fei1 Chang1	Chinese EN-CN_02-10_People-1
+778913dc238cd0c65e64c5ba690e2f19		short	矮	Chinese	Ai3	Chinese EN-CN_02-10_People-1
+7ab98ec845dd171f9539be9d4bd4bc23		younger brother	弟弟	Chinese	Di4 Di	Chinese EN-CN_02-02_Family-1
+e0211c7be89e0ddde191b051377875b0		male	男	Chinese	Nan2	Chinese EN-CN_02-10_People-1
+f0a17d25843bc2f60623f1d554f11ef8		tall, high	高	Chinese	Gao1	Chinese EN-CN_02-10_People-1
+1291736c6c0e4ffeb44062a6faaf10e7		to understand	明白	Chinese	Ming2 Bai	Chinese EN-CN_02-09_Telephone
+04854ab86ca50d24f13bd52e00cc6b3f		slow	慢	Chinese	Man4	Chinese EN-CN_02-09_Telephone
+58dd6631be8430f512e79638434a989f		Hello!	喂	Chinese	Wei2	Chinese EN-CN_02-09_Telephone
+7502527cb5d67a558f6163bc0d2ea4e3		sorry	对不起	Chinese	Dui4 Bu Qi	Chinese EN-CN_02-01_Phrases-1
+81c809f7a2b508bd40f58b24b3907311		money	钱	Chinese	Qian2	Chinese EN-CN_02-15_Payment
+4b03015cc75b8ff0516599ba4d5b0252		recently	最近	Chinese	Zui4 Jin4	Chinese EN-CN_02-04_Greeting-4
+23c1fced2d6f360d2acc0df5328de399		older sister	姐姐	Chinese	Jie3 Jie	Chinese EN-CN_02-02_Family-1
+988874d95e1f9fc7677e9b94c6125497		father	爸爸	Chinese	Ba4 Ba	Chinese EN-CN_02-02_Family-1
+90fbe72008265630380d68e444298cc5		restaurant	饭馆	Chinese	Fan4 Guan3	Chinese EN-CN_02-06_Location-2
+b1f4c3d54595ef0fa4bf6ace85581850		bathroom	洗手间	Chinese	Xi3 Shou3 Jian4	Chinese EN-CN_02-06_Location-2
+0f15b2240833d845112eb66979feb1d4		school	学校	Chinese	Xue2 Xiao4	Chinese EN-CN_02-12_Location-3
+50e1eb969fe3d212e6552d0b9f4ba5c9		refrigerator	冰箱	Chinese	Bing1 Xiang1	Chinese EN-CN_02-17_Location-4
+d7d189aba47c50d142ecdc872845b315		new	新	Chinese	Xin1	Chinese EN-CN_02-20_Hobbies-2
+b274047ee62c505a6eb6cbc2cb176a5a		meat	肉	Chinese	Rou4	Chinese EN-CN_02-21_Dining-1
+3466f103d9713e1b51342ef33e36ea65		once	一会儿	Chinese	Yi2 Hui r	Chinese EN-CN_02-04_Greeting-4
+38aacb8799af87143f76522b64887636		right side / to the right	右边	Chinese	You4 Bian	Chinese EN-CN_02-12_Location-3
+a2f9e12f024477e2ef0bbbae7f5c5ed3		newspaper	报纸	Chinese	Bao4 Zhi3	Chinese EN-CN_02-16_Entertainment
+4a991ba929d2ff61b657fe22598e8c34		left side, to the left	左边	Chinese	Zuo3 Bian	Chinese EN-CN_02-12_Location-3
+d302b95849ff95e104a6d81813a30af9		clothes	衣服	Chinese	Yi1 Fu	Chinese EN-CN_02-24_Shopping-1
+353a32212695b14a7a673861ea97f2d1		dinner	晚饭	Chinese	Wan3 Fan4	Chinese EN-CN_02-14_Daily-Routine-1
+b65c200719b8f2065c821abc95c300c2		difficult	难	Chinese	Nan2	Chinese EN-CN_02-25_Languages
+18ac6f0164cba15c06d8be6130e1fab0		at, (to be) in	在	Chinese	Zai4	Chinese EN-CN_02-13_Hobbies-1
+8dff1ac26b59bd07a868d1dd446a6759		beside	旁边	Chinese	Pang2 Bian1	Chinese EN-CN_02-12_Location-3
+284163226bc4aae3079fb4a5b1b3d131		some, a few	些	Chinese	Xie1	Chinese EN-CN_02-19_Supermarket
+d1d7584fb2eb0f61e6e8420f87ea848a		a bit, a little	一点儿	Chinese	Yi1 Dian3 r	Chinese EN-CN_02-25_Languages
+69c2ed9ef8759ea7899a48e46ccff718		to open	开	Chinese	Kai1	Chinese EN-CN_02-24_Shopping-1
+c49f333af3740c0d61bf1c8226a412ae		door, gate	门	Chinese	Men2	Chinese EN-CN_02-24_Shopping-1
+fbfdf527bb31718a8095f7cd9b6744df		to help	帮忙	Chinese	Bang1 Mang2	Chinese EN-CN_02-24_Shopping-1
+24b240d90cc1627d0e52c6e97da4f91e		letter, symbol, character	字	Chinese	Zi4	Chinese EN-CN_02-25_Languages
+a1b05569377c85f8c466f41d5b11b1a4		to close	关	Chinese	Guan1	Chinese EN-CN_02-24_Shopping-1
+996068f9458e640af0d829177e8daa9d		to read	读	Chinese	Du2	Chinese EN-CN_02-25_Languages
+eb55bb131a0231e20dea900a8d5f559c		as one wishes	随便	Chinese	Sui2 Bian4	Chinese EN-CN_02-24_Shopping-1
+d02850a5f20f429b4947caca526491fa		meaning	意思	Chinese	Yi4 Si	Chinese EN-CN_02-25_Languages
+b9ceb3886419f04beb3ff655db28e0d5		to play	玩	Chinese	Wan2	Chinese EN-CN_02-13_Hobbies-1
+749cf093172d0d924812c9139a43441b		Spain	西班牙	Chinese	Xi1 Ban1 Ya2	Chinese EN-CN_02-20_Hobbies-2
+37df032d20922f14307c00b213c63366		or	还是	Chinese	Hai2 Shi	Chinese EN-CN_02-21_Dining-1
+d6e4c2eaa2788e1b3414f922bdf09967		beef	牛肉	Chinese	Niu2 Rou4	Chinese EN-CN_02-21_Dining-1
+257a5472f3bfb29613d8893367e645e2		pork	猪肉	Chinese	Zhu1 Rou4	Chinese EN-CN_02-21_Dining-1
+87bcb9a9f50a232b39a2bb14a08481fd		how	怎么	Chinese	Zen3 Me	Chinese EN-CN_02-12_Location-3
+84b4f207487af64df5a2dc9bbd6e405a		mutton	羊肉	Chinese	Yang1 Rou4	Chinese EN-CN_02-21_Dining-1
+df1420de2c9e21dd76cb7ac0c820835b		number	号	Chinese	Hao4	Chinese EN-CN_02-07_Time-1
+8f7b7b089d2653bf7c9f5f4f1759b490		son	儿子	Chinese	Er2 Zi	Chinese EN-CN_02-08_Family-2
+7c68b402fd97bfd06ad79aa8a981bfb3		cheap	便宜	Chinese	Pian2 Yi	Chinese EN-CN_02-15_Payment
+38076e48f3751970ad0251e2565042a2		computer	电脑	Chinese	Dian4 Nao3	Chinese EN-CN_02-13_Hobbies-1
+4abbc2037088f4f258a77cd52a876c45		position, classifier for persons (honorific)	位	Chinese	Wei4	Chinese EN-CN_02-18_Restaurant
+5d8e27fc9d00a8cfb980e3b60d0ad9da		Shanghai	上海	Chinese	Shang4 Hai3	Chinese EN-CN_02-21_Dining-1
+aee4df3a9fddf8f15efcf26f62fbb8cd		to sit, to take (a bus, airplane etc.)	坐	Chinese	Zuo4	Chinese EN-CN_02-18_Restaurant
+e559845d5209a0fa2a3ba4935f8189e4		India	印度	Chinese	Yin4 Du4	Chinese EN-CN_02-20_Hobbies-2
+39cca713e131b5a254854800af4b751b		to pay the restaurant bill, check please!	买单	Chinese	Mai3 Dan1	Chinese EN-CN_02-18_Restaurant
+d236fcce66708f334a2ee5f54873d477		news	新闻	Chinese	Xin1 Wen2	Chinese EN-CN_02-16_Entertainment
+773878cfe6aeb1e56b3812760fe35919		table, desk	桌子	Chinese	Zhuo1 Zi	Chinese EN-CN_02-17_Location-4
+b2a4e1d73410a9d22024925d25f87fff		apple	苹果	Chinese	Ping2 Guo3	Chinese EN-CN_02-19_Supermarket
+cb992b42b5940b1761c45f63949fcb44		camera	照相机	Chinese	Zhao4 Xiang4 Ji1	Chinese EN-CN_02-20_Hobbies-2
+acb7e43cae745337b2f38a80b1b58374		cash	现金	Chinese	Xian4 Jin1	Chinese EN-CN_02-15_Payment
+507c51b949e64ad253b3ecf3d077c953		cell phone	手机	Chinese	Shou3 Ji1	Chinese EN-CN_02-16_Entertainment
+5bada5f757226694f8aab343cd2d4ec0		to receive	收	Chinese	Shou1	Chinese EN-CN_02-15_Payment
+a03f39cba5da919a344582a67cdc8619		menu	菜单	Chinese	Cai4 Dan1	Chinese EN-CN_02-18_Restaurant
+8b9eeacba720735172b54fa4a9910ad3		chuck, currency unit	块	Chinese	Kuai4	Chinese EN-CN_02-15_Payment
+ab5cc5d50539d726aad9406479359d06		thousand	千	Chinese	Qian1	Chinese EN-CN_02-15_Payment
+02d54549894de795f1426c8c7e489baa		down, below	下	Chinese	Xia4	Chinese EN-CN_02-11_Time-2
+52faf8eee302cb4b14a52124b937c86e		half	半	Chinese	Ban4	Chinese EN-CN_02-07_Time-1
+c0a70aaabfbc6d4d65f8239a9effe612		to sleep	睡觉	Chinese	Shui4 jiao4	Chinese EN-CN_02-14_Daily-Routine-1
+326723c443ab810bcda5791f85cdeaad		because	因为	Chinese	Yin1 Wei4	Chinese EN-CN_02-20_Hobbies-2
+de60550f96219aae51583cacabe58fac		watermelon	西瓜	Chinese	Xi1 Gua1	Chinese EN-CN_02-19_Supermarket
+2d77f19fbc5d3037696334004f1771e0		television	电视	Chinese	Dian4 Shi4	Chinese EN-CN_02-16_Entertainment
+8b6ab70cc9fcc9021bda100638ef81e8		to get off work, to finish work	下班	Chinese	Xia4 Ban1	Chinese EN-CN_02-14_Daily-Routine-1
+83ba1e91bb8e1743f54300dcbf67f8e1		lunch	午饭	Chinese	Wu3 Fan4	Chinese EN-CN_02-14_Daily-Routine-1
+190470fbab052dadd4dc0461a8a934e6		to dance	跳舞	Chinese	Tiao4 Wu3	Chinese EN-CN_02-13_Hobbies-1
+ddb87986c8f089a2555702e77898e4d7		to go to school, to attend school	上学	Chinese	Shang4 Xue2	Chinese EN-CN_02-14_Daily-Routine-1
+a220db92d45b6024830c31f3a7899a68		not bad	不错	Chinese	Bu2 Cuo4	Chinese EN-CN_02-04_Greeting-4
+b67becdcfb8199f549f17762169ac9eb		down, below	下	Chinese	Xia4	Chinese EN-CN_02-17_Location-4
+a6d5e0c4aafe3c6e1eea366b9e3b6a46		outside	外	Chinese	Wai4	Chinese EN-CN_02-17_Location-4
+8f790378d90eb19588f7ab4584760094		online	上网	Chinese	Shang4 Wang3	Chinese EN-CN_02-16_Entertainment
+febe265a75fd68f43942850a4e545f24		(cooked) rice	米饭	Chinese	Mi3 Fan4	Chinese EN-CN_02-21_Dining-1
+a9270be7c72d088b63f5b9d821254a03		waiter	服务员	Chinese	Fu2 Wu4 Yuan2	Chinese EN-CN_02-18_Restaurant
+4eca926d42094b1fd70fb8f32a3c236e		fruit	水果	Chinese	Shui3 Guo3	Chinese EN-CN_02-19_Supermarket
+bbbbb6b69de3c94e6aae86a216fb9209		thank you	谢谢	Chinese	Xie4 Xie4	Chinese EN-CN_02-01_Phrases-1
+dfb2335a6e6555cff099342a5850422c		hobby	爱好	Chinese	Ai4 Hao	Chinese EN-CN_02-20_Hobbies-2
+abff4760e54f51d8611677b1dd5e3a9a		chicken meat	鸡肉	Chinese	Ji1 Rou4	Chinese EN-CN_02-21_Dining-1
+fed44795f3614b524ed6f1d40132718d		photography	拍照	Chinese	Pai1 Zhao4	Chinese EN-CN_02-20_Hobbies-2
+a159e25d01608385509ef9c97d81bc4b		to relax	轻松	Chinese	Qing1 Song1	Chinese EN-CN_02-20_Hobbies-2
+a7fc8b7667f599c38a505000b64944dc		beverage, drink	饮料	Chinese	Yin1 Liao4	Chinese EN-CN_02-21_Dining-1
+aae2dd97d209d2f933bbac6767bdd05d		Spanish language	西班牙语	Chinese	Xi1 Ban1 Ya2 Yu3	Chinese EN-CN_02-20_Hobbies-2
+8755127feca78a3d7257b1bf049efac7		noodles	面条	Chinese	Mian4 Tiao2	Chinese EN-CN_02-21_Dining-1
+75c80677fa7234fb0d36ab7c808cb118		to wrap, to cover	包	Chinese	Bao1	Chinese EN-CN_02-19_Supermarket
+8c311e548ba8e3666ccf8f8efcc5ca2b		English language	英文	Chinese	Ying1 Wen2	Chinese EN-CN_02-18_Restaurant
+74121ebca460549678d0b9ce03bbc835		bag	袋	Chinese	Dai4	Chinese EN-CN_02-19_Supermarket
+a57be3bb8832844609329406a8be51fd		make a reservation	订位	Chinese	Ding4 Wei4	Chinese EN-CN_02-18_Restaurant
+f9055a06c54d98ef7bbcc03f5d73b854		(chicken) egg	鸡蛋	Chinese	Ji1 Dan4	Chinese EN-CN_02-19_Supermarket
+8dc634ccc946ff45c5b64e75dde193c2		bread	面包	Chinese	Mian4 Bao1	Chinese EN-CN_02-19_Supermarket
+863124adabc7f71f62d852da3c861ff1		fresh	新鲜	Chinese	Xin1 Xian1	Chinese EN-CN_02-19_Supermarket
+f129f11f3a4fae1848f3396b50e0ac47		vegetable	蔬菜	Chinese	Shu1 Cai4	Chinese EN-CN_02-19_Supermarket
+df9efb976fd0151063ea7a6440b6f052		to order (in a restaurant)	点菜	Chinese	Dian3 Cai4	Chinese EN-CN_02-18_Restaurant
+9f38ac831707e4fcb4b918ccff0cf73b		rice (uncooked)	米	Chinese	Mi3	Chinese EN-CN_02-19_Supermarket
+18f7dc14f4bda825b29e5beef07572e6		program	节目	Chinese	Jie2 Mu4	Chinese EN-CN_02-16_Entertainment
+ae5058d776d4a3cc61b01cac83720faa		chair	椅子	Chinese	Yi3 Zi	Chinese EN-CN_02-17_Location-4
+caf272295159bbdb9ccd239d870c326a		sports	体育	Chinese	Ti3 Yu4	Chinese EN-CN_02-16_Entertainment
+7ff735e801d8ea2e67f0afad60c6bbc3		to do	干	Chinese	Gan1	Chinese EN-CN_02-16_Entertainment
+d51651e0f21ab283efd706b83237ba22		Korea	韩国	Chinese	Han2 Guo2	Chinese EN-CN_02-16_Entertainment
+d0504d982aee6238846de28c809ea38d		celebrity	明星	Chinese	Ming2 Xing1	Chinese EN-CN_02-16_Entertainment
+e8beaca056af1d520c81679881340c04		breakfast	早饭	Chinese	Zao3 Fan4	Chinese EN-CN_02-14_Daily-Routine-1
+f20f4c5a013ef748eff7cbd3372a97c1		to get up	起床	Chinese	Qi3 Chuang2	Chinese EN-CN_02-14_Daily-Routine-1
+2e6f09df9a9ee8d4de0dc9d7d81ca2ee		ten thousand	万	Chinese	wan4	Chinese EN-CN_02-15_Payment
+a0ee17fb3e7dac26ab20d6b010786349		to go	行	Chinese	Xing2	Chinese EN-CN_02-15_Payment
+2a6633b1f5d7bf05d47978d6ff5ca5f2		minute	分	Chinese	Fen1	Chinese EN-CN_02-15_Payment
+9f25a05480a01fdec2f6f212875fab17		1/10 yuan	毛	Chinese	Mao2	Chinese EN-CN_02-15_Payment
+b55f9a580e13dae55cb06a08669858d6		to finish school	放学	Chinese	Fang4 Xue2	Chinese EN-CN_02-14_Daily-Routine-1
+f9a9adc4709d806cf67aa93f561ffd58		to sing	歌	Chinese	Ge1	Chinese EN-CN_02-13_Hobbies-1
+71451669e4464dda7dd569b52bc84bf1		song	唱	Chinese	Chang2	Chinese EN-CN_02-13_Hobbies-1
+6662ae88993848844eee89f2d2d186c6		road	路	Chinese	Lu4	Chinese EN-CN_02-12_Location-3
+abedc9e8b74a5ffe75217f0e44fcb22f		behind	后面	Chinese	Hou4 Mian	Chinese EN-CN_02-12_Location-3
+685bdb0cee1e3f8ab22ae76de3358f5f		in front, ahead	前面	Chinese	Qian2 Mian1	Chinese EN-CN_02-12_Location-3
+a3eabd4fc8d64f0fa259806a5cd908d5		husband	丈夫	Chinese	Zhang4 Fu	Chinese EN-CN_02-08_Family-2
+74607929eefe606a05088ff0159378bd		you are welcome	不客气	Chinese	Bu2 Ke4 Qi	Chinese EN-CN_02-01_Phrases-1
+404c6bf599ecc5eca51a302e5a221441		no worries	没关系	Chinese	Mei2 Guan1 Xi4	Chinese EN-CN_02-01_Phrases-1
+55eb3a0b7bc83a48d6e89e0fa3244b6e		age	岁	Chinese	Sui4	Chinese EN-CN_02-08_Family-2
+cce9ea97f8db00de923f3f7331ceefd5		sun, day	日	Chinese	Ri4	Chinese EN-CN_02-07_Time-1
+5c6d0b4492781b355e19d12d30821527		zero	〇	Chinese	ling2	Chinese EN-CN_02-07_Time-1
+55c239c2cb342ff146f6c077a10a8f30		long time no see	好久不见	Chinese	Hao3 Jiu3 Bu Jian4	Chinese EN-CN_02-04_Greeting-4
+f8df58bef3dfcc1e69ef97885d716203		good night	晚安	Chinese	Wan3 An1	Chinese EN-CN_02-04_Greeting-4
+773575e29ae035ff89d3361157b4d979		good morning	早安	Chinese	Zao3 An1	Chinese EN-CN_02-04_Greeting-4

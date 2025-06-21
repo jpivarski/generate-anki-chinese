@@ -1,0 +1,335 @@
+#separator:tab
+#html:true
+#tags column:7
+195c57ead92cd6a97c55bbd01e0655d5		with	跟	Chinese	Gen1	Chinese EN-CN_03-07_Invitation-2
+9fcd99e166051059fab6f58232cd5d45		early, prior, former, first	先	Chinese	Xian1	Chinese EN-CN_03-26_Location-6
+bcbef073ed1dec8a5fda55a1b9710e70		many	多	Chinese	Duo1	Chinese EN-CN_03-07_Invitation-2
+10e9867d8a0501a38964a8c8076ac0f8		to give	给	Chinese	Gei3	Chinese EN-CN_03-05_Invitation-1
+97567b6389af7f00130aaea3b2d6a312		only / classifier for birds or certain animals	只	Chinese	Zhi3 / Zhi1	Chinese EN-CN_03-03_Existence
+e9dcd9f3562d0078eba0126026cc5740		weather	天气	Chinese	Tian1 Qi4	Chinese EN-CN_03-12_Weather
+06c0882c3d38fa92e4925d54b025cb24		to compare, more	比	Chinese	Bi3	Chinese EN-CN_03-09_Shopping-2
+2d99cf57be4fe467c5c682db8a77c21b		certainly, surely	一定	Chinese	Yi1 Ding4	Chinese EN-CN_03-06_Health-2
+e8e9761247a7319f81c6792ac2ae3791		can, be able to	能	Chinese	Neng2	Chinese EN-CN_03-07_Invitation-2
+71ec4be97403c5aa291c0d202b174498		time, length of time	时候	Chinese	Shi2 Hou	Chinese EN-CN_03-05_Invitation-1
+400fda699fd56e94037c7a31d4c32b6a		everyone	大家	Chinese	Da4 Jia1	Chinese EN-CN_03-07_Invitation-2
+38a3d7fcdd9652aaa1818f1020897905		photograph, picture	照片	Chinese	Zhao4 Pian4	Chinese EN-CN_03-03_Existence
+8b0b1a0e79574111ec5bd3e615faaea4		classifier for flat objects (pictures); sheet	张	Chinese	Zhang1	Chinese EN-CN_03-03_Existence
+44c3034664ad10125b114ee3d1e760f3		together, with	一起	Chinese	Yi1 Qi3	Chinese EN-CN_03-05_Invitation-1
+2e08ee481006bd718db94d46c86f317c		ought to / should	应该	Chinese	Ying1 Gai1	Chinese EN-CN_03-06_Health-2
+7fb3622444bae9fcaab7089e7c58fa83		question, problem	问题	Chinese	Wen4 Ti2	Chinese EN-CN_03-17_School
+d9fee17155df8ae398a41cabccb7a9d0		city, town	城市	Chinese	Cheng2 Shi4	Chinese EN-CN_03-21_Location-5
+e5486447f980be25688f310da85ec282		company, firm	公司	Chinese	Gong1 Si1	Chinese EN-CN_03-07_Invitation-2
+8aebb16eb21fd87fa62763b0e8022492		to finish	完	Chinese	Wan2	Chinese EN-CN_03-08_Dining-3
+494e650ae0292fe8a90c644166986986		to cross, pass (time); experienced action marker	过	Chinese	Guo	Chinese EN-CN_03-05_Invitation-1
+244a50ac2cbc9bd2d4e2cf05ca2de605		match, competition	比赛	Chinese	Bi3 Sai4	Chinese EN-CN_03-16_Sports-2
+29beb5367627c769856167b47427d383		to participate, join	参加	Chinese	Can1 Jia1	Chinese EN-CN_03-16_Sports-2
+6a33857ba43bdd749d760c7145d2a1c6		to wear&nbsp;	穿	Chinese	Chuan1	Chinese EN-CN_03-13_Shopping-3
+0cf422650695cc8617a66cc6906b55b4		Spring Festival (Chinese New Year)	春节	Chinese	Chun1 Jie2	Chinese EN-CN_03-15_Celebration
+86c022384e67073023e35aeb23864776		cup	杯子	Chinese	Bei1 Zi	Chinese EN-CN_03-02_Dining-2
+1093a6abd7594fcde5814e8272c643ef		took keep (doing), straight	一直	Chinese	Yi1 Zhi2	Chinese EN-CN_03-26_Location-6
+d36cdf248b804713ba5ce144f7c5dd6a		after, then, afterwards	然后	Chinese	Ran2 Hou4	Chinese EN-CN_03-26_Location-6
+ffb08a5b392229cee6862f3e22b144ed		before, front, ahead	前	Chinese	Qian2	Chinese EN-CN_03-26_Location-6
+a4ef00e1a0a08ba4b925d8b2e3d572c2		don't!	别	Chinese	Bie2	Chinese EN-CN_03-06_Health-2
+de02efba5ebc7e43afe8d5faf7063af7		early	早	Chinese	Zao3	Chinese EN-CN_03-01_Time-3
+618c7d2a96b33f46fe38e5a7fba81664		to wear, belt	带	Chinese	Dai4	Chinese EN-CN_03-12_Weather
+ceffb4419f90ce0237a94f243d316531		to return, pay back	还	Chinese	Huan2	Chinese EN-CN_03-09_Shopping-2
+f06884802d218d35a1acf80c715c5314		exam, to take an exam	考试	Chinese	Kao3 Shi4	Chinese EN-CN_03-17_School
+07ec750149071836780f538df6e6d03d		sport	运动	Chinese	Yun4 Dong4	Chinese EN-CN_03-04_Sports-1
+3ebf06d1ba54f82417691ef75278342b		to swim	游泳	Chinese	You2 Yong3	Chinese EN-CN_03-04_Sports-1
+fa315f8c02a47160366a7f36457125ad		already	已经	Chinese	Yi3 Jing1	Chinese EN-CN_03-08_Dining-3
+63873593c6238e3be8e9b5db4e27d38a		modal paticle indicating suggestion or surmise	吧	Chinese	Ba	Chinese EN-CN_03-05_Invitation-1
+cbfb3e06e3ef3a968cd40e5c9ebc20f5		classifier for books, source, origin	本	Chinese	Ben3	Chinese EN-CN_03-03_Existence
+5c96f7201b45a3a361a5a4a5be88d50a		Completed action marker / finish, understand	了	Chinese	Le / Liao3	Chinese EN-CN_03-06_Health-2
+37f88e79422c32b623ae68e8c1405600		hand	手	Chinese	Shou3	Chinese EN-CN_03-10_Body-Parts
+600e9617f75cec353c565ae986a68a94		alone, by oneself	一个人	Chinese	Yi1 Ge4 Ren2	Chinese EN-CN_03-27_Daily-Routine-3
+61c90742e784b5947dd6215b12bf1535		to ride (a horse, bicycle)	骑	Chinese	Qi2	Chinese EN-CN_03-04_Sports-1
+1278a314e303c13c109e6dd5078f2c9a		library	图书馆	Chinese	Tu2 Shu1 Guan3	Chinese EN-CN_03-21_Location-5
+995401ac499aee27e61aaab0ff46b01b		big	大	Chinese	Da4	Chinese EN-CN_03-09_Shopping-2
+a8ad0cc79d5d11deede50668f87e192c		to speak, say	说话	Chinese	Shuo1 Hua4	Chinese EN-CN_03-14_People-2
+e331068243669f96c92a506d58e52bb2		by oneself	自己	Chinese	Zi4 Ji	Chinese EN-CN_03-27_Daily-Routine-3
+a557849ec4ef965db6991429cb4b29d3		airport	机场	Chinese	Ji1 Chang3	Chinese EN-CN_03-11_Travel
+c55d119d2e1510b215061f96549e2b05		other	其他	Chinese	Qi2 Ta1	Chinese EN-CN_03-24_Food-3
+0b46037995b4666c0cdb112232d381de		nearby, in the vicinity (of)	附近	Chinese	Fu4 Jin4	Chinese EN-CN_03-21_Location-5
+3fc963e5fb6c994d56057bc3c081d6f5		thing	事情	Chinese	Shi4 Qing	Chinese EN-CN_03-07_Invitation-2
+975a3d2d22f60bdac19ab4dcc335b64f		above, to attend (class etc.)	上	Chinese	Shang4	Chinese EN-CN_03-17_School
+5443a362eff6e88114bf32ae268489a2		usually, generally	一般	Chinese	Yi1 Ban1	Chinese EN-CN_03-27_Daily-Routine-3
+0f61e5415b90855f0eb1bdb68bf6a506		primary school	小学	Chinese	Xiao3 Xue2	Chinese EN-CN_03-25_People-3
+f418751e308542c658fbedc98c752988		beer	啤酒	Chinese	Pi2 Jiu3	Chinese EN-CN_03-02_Dining-2
+cf3ab7094c0e20dc72198e5500e620dd		Germany	德国	Chinese	De2 Guo3	Chinese EN-CN_03-02_Dining-2
+5487875e3f533e13173fed35118b19f6		south, south side, to the south of	南边	Chinese	Nan2 Bian	Chinese EN-CN_03-26_Location-6
+9fc884514d6148072873001507e7ec9f		west, west side, to the west of	西边	Chinese	Xi1 Bian	Chinese EN-CN_03-26_Location-6
+dedab7cb18f9e6570204dae773e5a503		to meet, to see each other	见面	Chinese	Jian4 Mian4	Chinese EN-CN_03-27_Daily-Routine-3
+89f178838e5225d6d9aba8bcd893f40f		park	公园	Chinese	Gong1 Yuan2	Chinese EN-CN_03-21_Location-5
+7846dd8f08f587f15b488f9973bec0fb		parents	父母	Chinese	Fu4 Mu3	Chinese EN-CN_03-18_Family-3
+cc300660ea0e8af10ec2b8717a7b8318		to go out	出去	Chinese	Chu1 Qu4	Chinese EN-CN_03-05_Invitation-1
+41f0885e84f438847e8195f3a5813f18		birthday	生日	Chinese	Sheng1 Ri4	Chinese EN-CN_03-07_Invitation-2
+9f1138423dab93ae7e59f3120eb89288		to chat	聊天	Chinese	Liao2 Tian1	Chinese EN-CN_03-27_Daily-Routine-3
+af6172c35732e6a611ffe66e51edd366		to get lost	迷路	Chinese	Mi2 Lu4	Chinese EN-CN_03-26_Location-6
+a042e19a9ec7ceae1eba14a4280e2dd6		right (-hand)	右	Chinese	You4	Chinese EN-CN_03-26_Location-6
+85049aab9ebf909dd3fe940b2b92343f		left (-hand)	左	Chinese	Zuo3	Chinese EN-CN_03-26_Location-6
+0b722bc6291757bfc82de0211b327303		around	周围	Chinese	Zhou1 Wei2	Chinese EN-CN_03-26_Location-6
+6c1f02cf44e14e350a84f6e818822b62		address	地址	Chinese	Di4 Zhi3	Chinese EN-CN_03-26_Location-6
+341be5b9e4f743938b4adf85309e2252		after, afterwards, behind	后	Chinese	Hou4	Chinese EN-CN_03-26_Location-6
+d9d0c47c6405e5fb9ede2efa1c18d35d		finally, last	最后	Chinese	Zui4 Hou4	Chinese EN-CN_03-26_Location-6
+8274d95997c9fab0e2623e7533eb6182		north, north side to the north of	北边	Chinese	Bei3 Bian1	Chinese EN-CN_03-26_Location-6
+b0816f77faff994766ee6bb0fc925ee1		east, east side, to the east of	东边	Chinese	Dong1 Bian1	Chinese EN-CN_03-26_Location-6
+df4a801c767d5a8cb6512531634bac83		long	长	Chinese	Chang2	Chinese EN-CN_03-25_People-3
+ef3fee2a039c1bd3e662861d2eb39cdd		grade (school)	年级	Chinese	Nian2 Ji2	Chinese EN-CN_03-25_People-3
+d69d5050ac872df7bdb4f5638adb7579		to compare, relatively, more	比较	Chinese	Bi3 Jiao4	Chinese EN-CN_03-25_People-3
+c46232680095039574338bcaad674c4b		glasses	眼镜	Chinese	Yan3 Jing4	Chinese EN-CN_03-25_People-3
+d9780e431854429c0d2065ca27fea7f0		young	年轻	Chinese	Nian2 Qing1	Chinese EN-CN_03-25_People-3
+b92ba0971f50ce3da3f682120cf86d8a		old (person)	老	Chinese	Lao3	Chinese EN-CN_03-25_People-3
+c46c8fd5177932bbe40d9dd17586bb03		to put on, to wear (glasses, hat, gloves, etc.)	戴	Chinese	Dai4	Chinese EN-CN_03-25_People-3
+ead0296805d44019fa8306907127b4ca		junior high school / middle school	初中	Chinese	Chu1 Zhong1	Chinese EN-CN_03-25_People-3
+268bd8a2e8265458c1e6cdf7f191df43		height	个子	Chinese	Ge4 Zi	Chinese EN-CN_03-25_People-3
+79aa9fc3114cff944c3f016d5faea50c		teeth brushing	刷牙	Chinese	Shua1 Ya2	Chinese EN-CN_03-23_Daily-Routine-2
+c9ec92a4380567121422fa39a897ac60		besides, apart from	除了	Chinese	Chu2 Le	Chinese EN-CN_03-24_Food-3
+db9e52d43ca6d13050664a8a7ff22728		later, after	以后	Chinese	Yi3 Hou4	Chinese EN-CN_03-23_Daily-Routine-2
+367608b548b2155f84e5a4bef4ab22aa		between	中间	Chinese	Zhong1 Jian1	Chinese EN-CN_03-21_Location-5
+ac434e3ed191f682d64b8646cf899cd2		immediately, at once	马上	Chinese	Ma3 Shang4	Chinese EN-CN_03-23_Daily-Routine-2
+bdd6f0bffc3b6ef52600c764e4258e98		behind, after, rear	后	Chinese	Hou4	Chinese EN-CN_03-20_Time-4
+ba00d4e9ec9dca7ce831b7ddb76bbc6f		to come	来	Chinese	Lai2	Chinese EN-CN_03-05_Invitation-1
+fec57b40766959c597ae1ef82553ddf6		terrible (taste), unpalatable	难吃	Chinese	Nan2 Chi1	Chinese EN-CN_03-24_Food-3
+3f62a3ef9d08feacd86fb85ef562cd3f		extremely, utmost, top	极	Chinese	Ji2	Chinese EN-CN_03-24_Food-3
+3687ba1e82a78393f7ca3087075aefa5		salt	盐	Chinese	Yan2	Chinese EN-CN_03-24_Food-3
+a18daeab8b53a733cfea06d30cf27492		sweet	甜	Chinese	Tian2	Chinese EN-CN_03-24_Food-3
+4247d94093f49c27fdc581cc27a589cf		bitter	苦	Chinese	Ku3	Chinese EN-CN_03-24_Food-3
+98cf6a3084181d908a69a0b242510f26		salty	咸	Chinese	Xian2	Chinese EN-CN_03-24_Food-3
+00ab9892f7f994abf689bb721c911dcb		spicy	辣	Chinese	La4	Chinese EN-CN_03-24_Food-3
+cee7385b73915cc8d3038765846d9dea		south, the southern part of the country	南方	Chinese	Nan2 Fang1	Chinese EN-CN_03-24_Food-3
+b28b965a90c439e40445592e091e12cf		dumplings	饺子	Chinese	Jiao3 Zi	Chinese EN-CN_03-24_Food-3
+452a8a6fdcd1863db723914e4ef9cfc0		north, the northern part of the country	北方	Chinese	Bei3 Fang1	Chinese EN-CN_03-24_Food-3
+a011611e77f04e0e2437b7fb42e6a21e		to shower	洗澡	Chinese	Xi3 Zao4	Chinese EN-CN_03-23_Daily-Routine-2
+b0089987bb542c3fd89a56353bada52b		before, previous	以前	Chinese	Yi3 Qian2	Chinese EN-CN_03-23_Daily-Routine-2
+d0c4035a2c03538540c8bab2c9845d91		on the one hand / on the other hand	一边	Chinese	Yi1 Bian1	Chinese EN-CN_03-23_Daily-Routine-2
+8c65dc668bc6a7cf7adfdb35c19e9f29		ta speak	讲	Chinese	Jiang3	Chinese EN-CN_03-23_Daily-Routine-2
+2a9f23aae9e352ea6b74b0fece43fd65		to dream	做梦	Chinese	Zuo4 Meng4	Chinese EN-CN_03-23_Daily-Routine-2
+55f1b7f56a1a40882577b2d951e4d792		story, tale	故事	Chinese	Gu4 Shi	Chinese EN-CN_03-23_Daily-Routine-2
+5d2ba9acff39a623b9d1f0e74a5c1b4b		always	总是	Chinese	Zong3 Shi4	Chinese EN-CN_03-23_Daily-Routine-2
+dab06a26642f20ecde4f30c92b6e8c5e		custom, to be used to	习惯	Chinese	Xi2 Guan4	Chinese EN-CN_03-23_Daily-Routine-2
+d5e2f243f6c90aa90d3254977a4d91c1		leather shoes	皮鞋	Chinese	Pi2 Xie2	Chinese EN-CN_03-22_Shopping-4
+844cc0875cb4a5c8413d0ab0f103b9fc		to spend (money, time), flower	花	Chinese	Hua1	Chinese EN-CN_03-22_Shopping-4
+0c022d92717f50a3fb383d82fce12f5b		old	旧	Chinese	Jiu4	Chinese EN-CN_03-22_Shopping-4
+c2130b1506f99028abbc669d8e42aaf9		discounted	打折	Chinese	Da3 Zhe2	Chinese EN-CN_03-22_Shopping-4
+b15e490391dac93cb9418172c3b231d3		bag	袋子	Chinese	Dai4 Zi	Chinese EN-CN_03-22_Shopping-4
+ab32fd832d0f6af73ed5df0559f90388		to return (merchandise)	退货	Chinese	Tui4 Huo4	Chinese EN-CN_03-22_Shopping-4
+ee64fb35a61c987fea9c33c507e0f493		refund	退款	Chinese	Tui4 Kuan3	Chinese EN-CN_03-22_Shopping-4
+9c329cb216621f9a14aed5d98302336c		to exchange, change (clothes)	换	Chinese	Huan4	Chinese EN-CN_03-22_Shopping-4
+e1cd6af0424720c2e02065a50fcbea31		to pass by	经过	Chinese	Jing1 Guo4	Chinese EN-CN_03-22_Shopping-4
+76cbc9d0efee2d25b1394656d04ce7e8		angle, 1/10 yuan (currency)	角	Chinese	Jiao3	Chinese EN-CN_03-22_Shopping-4
+fcd9f06caa964e1715a672aed3399c50		café	咖啡馆	Chinese	Ka1 fei1 Guan3	Chinese EN-CN_03-21_Location-5
+d729816afd417f832eb542b259b93f70		below under	下面	Chinese	Xia4 Mian4	Chinese EN-CN_03-21_Location-5
+aabe8efb32c9fcb877037df61bfb9840		on top of, above mentioned	上面	Chinese	Shang4 Mian4	Chinese EN-CN_03-21_Location-5
+e4bac4ac80a103648815b399b0cb1177		place, area, space	地方	Chinese	Di4 Fang	Chinese EN-CN_03-21_Location-5
+fe28717fd95875ba25073f3ea5e999e4		spring	春	Chinese	Chun1	Chinese EN-CN_03-20_Time-4
+dd2f03026a50d21fe3019c07f286224f		punctual, on time	准时	Chinese	Zhun3 Shi2	Chinese EN-CN_03-20_Time-4
+8e1ac9fc92ff712136bcd2c3ff3e4ce3		the day before yesterday	前天	Chinese	Qian2 Tian1	Chinese EN-CN_03-20_Time-4
+9b5331bb2b65c7112dc3c07a656951ef		Australia	澳大利亚	Chinese	Ao4 Da4 Li4 Ya4	Chinese EN-CN_03-20_Time-4
+10bf34885557893e2ed209dea888ec13		traffic jam	堵车	Chinese	Du3 Che1	Chinese EN-CN_03-20_Time-4
+e97c349d066e1d2c332c129740bdc110		just	刚	Chinese	Gang1	Chinese EN-CN_03-20_Time-4
+8382a889311b200c3813c08acf0cbeaf		more and more	越来越	Chinese	Yue4 Lai2 Yue4	Chinese EN-CN_03-20_Time-4
+397d534f957eb0ba74c7c5b8a80db7d4		the day after tomorrow	后天	Chinese	Hou4 Tian1	Chinese EN-CN_03-20_Time-4
+33cbcbaf5892403cd867ad9b75231115		Autumn	秋	Chinese	Qiu1	Chinese EN-CN_03-20_Time-4
+7ef9b40eac772513b79ed498b6428378		season	季节	Chinese	Ji4 Jie2	Chinese EN-CN_03-20_Time-4
+fa6b5909d342a2786fc61e6edce2424c		before, front, ahead	前	Chinese	Qian2	Chinese EN-CN_03-20_Time-4
+1f921f4282bf0e57b1d67f4d67eefd20		winter	冬	Chinese	Dong1	Chinese EN-CN_03-20_Time-4
+0e01ee7bd3135ae8fd152529130b3c87		summer	夏	Chinese	Xia4	Chinese EN-CN_03-20_Time-4
+eff3fef6f8decd85249713b20ccb9ab1		probably, almost	大概	Chinese	Da4 Gai4	Chinese EN-CN_03-20_Time-4
+8cfd610047a1983e971fa8901cec267a		to prepare	准备	Chinese	Zhun3 Bei4	Chinese EN-CN_03-17_School
+84a7e1b14ca6f3c39a0c6b9174b4492d		deep fried dough stick	油条	Chinese	You2 Tiao2	Chinese EN-CN_03-19_Gourmet-1
+20b199933e821dfb36cfbd38a4d8679c		fried rice	炒饭	Chinese	Chao3 Fan4	Chinese EN-CN_03-19_Gourmet-1
+61d6a4605bf9d4de0090d2d411aae749		ramen, pulled noodles	拉面	Chinese	La1 Mian4	Chinese EN-CN_03-19_Gourmet-1
+f701c231edcb5764d131d67fc1ec38f8		hot pot	火锅	Chinese	Huo3 Guo1	Chinese EN-CN_03-19_Gourmet-1
+55d842ae6688a68120504e62692fb704		porridge	粥	Chinese	Zhou1	Chinese EN-CN_03-19_Gourmet-1
+1d624b5372525a1feb51dbf5afe16234		dim sum	点心	Chinese	Dian3 Xin	Chinese EN-CN_03-19_Gourmet-1
+500091a583fe54fb5e9c2b9caa7007ad		soup dumplings	小笼包	Chinese	Xiao3 Long2 Bao1	Chinese EN-CN_03-19_Gourmet-1
+9aa758d1a51e1353cac7d3ed89f2e25d		bun	包子	Chinese	Bao1 Zi	Chinese EN-CN_03-19_Gourmet-1
+55518907fa31b75a298227fb9262e5c1		soy milk	豆浆	Chinese	Dou4 Jiang1	Chinese EN-CN_03-19_Gourmet-1
+f30e25c6a9f8b5d48ced184da4c4ea6c		aunt	阿姨	Chinese	A1 Yi2	Chinese EN-CN_03-18_Family-3
+544fdf82df04a41dd93e2cb29fcbec48		relatives	亲戚	Chinese	Qin1 Qi	Chinese EN-CN_03-18_Family-3
+98d008a9a2689c0252f8de8ab13852fe		grandfather	爷爷	Chinese	Ye2 Ye	Chinese EN-CN_03-18_Family-3
+d3f7441f248792f68604f24239fa939f		siblings	兄弟姐妹	Chinese	Xiong1 Di4 Jie3 Mei4	Chinese EN-CN_03-18_Family-3
+383a42dc9a15f38fd5eb3aeb9cd12643		grandmother	奶奶	Chinese	Nai3 Nai	Chinese EN-CN_03-18_Family-3
+118e326956f786d72761cfea293b2946		the same	一样	Chinese	Yi1 Yang4	Chinese EN-CN_03-18_Family-3
+35284352b9de0556cdb5fc0aaad8e418		relations	关系	Chinese	Guan1 Xi	Chinese EN-CN_03-18_Family-3
+0254601d06d2c953f40531ea997b33ae		to resemble	像	Chinese	Xiang4	Chinese EN-CN_03-18_Family-3
+026e8390e07e61a0d36da0582334f7f3		uncle	叔叔	Chinese	Shu1 Shu	Chinese EN-CN_03-18_Family-3
+183c001f747a551f556173ff10cc19ca		geography	地理	Chinese	Di4 Li3	Chinese EN-CN_03-17_School
+e92e72d280cd8a18c0fc3f92551f6169		science	科学	Chinese	Ke1 Xue2	Chinese EN-CN_03-17_School
+f27647fade280e18d575b9855083d2dc		to finish class	下课	Chinese	Xia Ke	Chinese EN-CN_03-17_School
+c708614bed04cb99ca1828f65ab4b3d8		classroom	教室	Chinese	Jiao4 Shi4	Chinese EN-CN_03-17_School
+805ac30cdf71266dfb32ffafee3ac9d2		lesson, class	课	Chinese	Ke4	Chinese EN-CN_03-17_School
+9801ff2509779a58e0ba00e2881303d7		topic, subject	题	Chinese	Ti2	Chinese EN-CN_03-17_School
+41d45796d732296575fd0f430af68267		art, fine arts	美术	Chinese	Mei3 Shu4	Chinese EN-CN_03-17_School
+fba67b4535748d56dc793ed7c872707a		to understand	懂	Chinese	Dong3	Chinese EN-CN_03-17_School
+f878947353f4cd7913dc7ef0d140eb2f		classmate	同学	Chinese	Tong2 Xue2	Chinese EN-CN_03-17_School
+40eb4bca4e4cdd116dec5d55b979b50f		pen	笔	Chinese	Bi3	Chinese EN-CN_03-17_School
+560f4401b758d08c26b965ca9225d702		to leave	离	Chinese	li2	Chinese EN-CN_03-11_Travel
+c4681dc5d51c14d8810b0520a2b8ab31		near	近	Chinese	Jin4	Chinese EN-CN_03-11_Travel
+8dd1d351c1407126c11a5202add29646		to get sick	生病	Chinese	Sheng1 Bing4	Chinese EN-CN_03-06_Health-2
+4b3a10789fe2aa751f777e1a47d79f6a		but, however	但是	Chinese	Dan4 Shi4	Chinese EN-CN_03-13_Shopping-3
+22e0f6a40be2524c1e9da01b0abc5e7e		to take a day off	请假	Chinese	Qing3 Jia4	Chinese EN-CN_03-06_Health-2
+7c1dfdf482a7da1a66b51c645723d883		maybe	可能	Chinese	Ke3 Neng2	Chinese EN-CN_03-12_Weather
+8ce5b3e08a0f2e044bb87f9131911d53		although, even though	虽然	Chinese	Sui1 Ran2	Chinese EN-CN_03-13_Shopping-3
+e7004c01a704df3c9948bb7e17aeb4d0		handsome	帅	Chinese	Shuai4	Chinese EN-CN_03-14_People-2
+d9aa35b9a4f7fabe0aedd089d2e1af10		intelligent, smart	聪明	Chinese	Cong1 Ming2	Chinese EN-CN_03-14_People-2
+45363bc0815ce41af4dec18f32939ac4		good-looking	好看	Chinese	Hao3 Kan4	Chinese EN-CN_03-09_Shopping-2
+e9e1f8b0c16d00b42229fa06798ba3fc		shirt	衬衫	Chinese	Chen4 Shan1	Chinese EN-CN_03-09_Shopping-2
+9029da36120917e7524eb5661b60f036		to practice	练习	Chinese	Lian4 Xi2	Chinese EN-CN_03-16_Sports-2
+0e0135b879cda09b1ca75d2acff61bea		to introduce	介绍	Chinese	Jie4 Shao4	Chinese EN-CN_03-14_People-2
+a5bba747c843ad0141fe055c092964f5		(not only ...) but also, moreover	而且	Chinese	Er3 Qie3	Chinese EN-CN_03-14_People-2
+e2644de705b75bc5c6339288d5d5cd78		home, family	家	Chinese	Jia1	Chinese EN-CN_03-05_Invitation-1
+b91e497df6ada54416d126da899d32f5		not only (... but also ...)	不但	Chinese	Bu2 Dan4	Chinese EN-CN_03-14_People-2
+4d49f75cb381525f23ff355d8279b330		Cheers!	干杯	Chinese	Gan1 Bei1	Chinese EN-CN_03-15_Celebration
+adea9e6d660403ae4f4a37980705c90f		to lose (a game)	输	Chinese	Shu1	Chinese EN-CN_03-16_Sports-2
+ded8ab767f29540561614d3a9f3b5daf		to lose hope, be disappointed	失望	Chinese	Shi1 Wang4	Chinese EN-CN_03-16_Sports-2
+4327cfd74c2c4432aed70a740759e4a7		table tennis	乒乓球	Chinese	Ping1 Pang1 Qiu2	Chinese EN-CN_03-16_Sports-2
+8d32987054a0acccdaa86d9fad97ca32		(prefix indicating ordinal number)	第	Chinese	Di4	Chinese EN-CN_03-16_Sports-2
+6110e84fe75c8f9de65839b38a2ee723		luckily	好在	Chinese	Hao3 Zai4	Chinese EN-CN_03-16_Sports-2
+115b42b797b12c84ef0456aa5207b594		volleyball	排球	Chinese	Pai1 Qiu2	Chinese EN-CN_03-16_Sports-2
+33b97242bfdb78bf78a4a4f70defc410		tennis	网球	Chinese	Wang3 Qiu2	Chinese EN-CN_03-16_Sports-2
+6299ff47d24823e8eb1fb4cea3f90411		confidence, faith (in sb or sth)	信心	Chinese	Xin4 Xin1	Chinese EN-CN_03-16_Sports-2
+30c9401724251f1eb0c871d2cfd59987		Come on!	加油	Chinese	Jia You	Chinese EN-CN_03-16_Sports-2
+7ed4171df1af5d8eb025d06821853922		to win	赢	Chinese	Ying2	Chinese EN-CN_03-16_Sports-2
+09a08586938c68c0ac24ce0d82c66932		to deliver, to send	送	Chinese	Song4	Chinese EN-CN_03-15_Celebration
+e55e9d58c2bf4d69470de5128123b1ac		New Year	新年	Chinese	Xin1 Nian2	Chinese EN-CN_03-15_Celebration
+f3dc1a3b83a4b7c1646c0aff7eae0730		baijiu, white wine	白酒	Chinese	Bai1 Jiu2	Chinese EN-CN_03-15_Celebration
+c5102345e334f156c46c3e13f982527c		red wine	红酒	Chinese	Hong2 Jiu2	Chinese EN-CN_03-15_Celebration
+7edcf81c1b144a1533dbfe959824d213		bottle	瓶	Chinese	Ping2	Chinese EN-CN_03-15_Celebration
+276fcc3b190f6f4c4b9cb059e14d115f		present, gift	礼物	Chinese	Li3 Wu4	Chinese EN-CN_03-15_Celebration
+dc27a4581d2ed207cf6572b7418f17b1		France	法国	Chinese	Fa3 Guo2	Chinese EN-CN_03-15_Celebration
+2a89d9822a5494e8156f50c20f68a568		to celebrate (a holiday)	过	Chinese	Guo4	Chinese EN-CN_03-15_Celebration
+1ce3b20ec6f79a4102bea97119ddb922		to wish	祝	Chinese	Zhu4	Chinese EN-CN_03-15_Celebration
+86a5cf2f42032fc498b71834a782c4cf		happy, merry	快乐	Chinese	Kuai4 Le4	Chinese EN-CN_03-15_Celebration
+11e9ddbccfcf24819af9b4c178d5d03a		holiday, festival	节日	Chinese	Jie2 Ri4	Chinese EN-CN_03-15_Celebration
+d80a4a1bdb566d2206f5ce18587a550e		tasty, delicious	好吃	Chinese	Hao3 Chi1	Chinese EN-CN_03-08_Dining-3
+20696e03584381c1cc6d1a7648122584		small	小	Chinese	Xiao3	Chinese EN-CN_03-09_Shopping-2
+f3e42da92a56392f5f4ba04e6c2a1429		pair	双	Chinese	Shuang1	Chinese EN-CN_03-09_Shopping-2
+6bcd959877ea6d820d48e24806087404		shoe	鞋子	Chinese	Xie2 Zi	Chinese EN-CN_03-09_Shopping-2
+bd5c8397f27336240b5c3c2af1eed68e		time	时间	Chinese	Shi2 Jian1	Chinese EN-CN_03-05_Invitation-1
+3e79afff14841f62338220aefdf45ff2		to laugh	笑	Chinese	Xiao4	Chinese EN-CN_03-14_People-2
+c674912d2461b4bbcb2e88bf0cc4442b		others, other people	别人	Chinese	Bie2 Ren2	Chinese EN-CN_03-14_People-2
+a5394379bcc40c13a90d585e8c6b9287		yellow	黄	Chinese	Huang2	Chinese EN-CN_03-13_Shopping-3
+d1168edfb024a620ca4d6a6e478333f0		to wash	洗	Chinese	Xi3	Chinese EN-CN_03-13_Shopping-3
+790dce5c79d3d55c22f6060bd6a35f37		hat	帽子	Chinese	Mao4 Zi	Chinese EN-CN_03-13_Shopping-3
+5dfa498e18a1c909d8e8279c96886d5a		to sell	卖	Chinese	Mai4	Chinese EN-CN_03-13_Shopping-3
+0d230779247fb362fdb7419bb50efdb5		purple	紫	Chinese	Zi3	Chinese EN-CN_03-13_Shopping-3
+07bf6fcac0c212fe3e2701b92fea1309		short	短	Chinese	Duan3	Chinese EN-CN_03-13_Shopping-3
+cbd30701fdb9bcc4023e6347a2625f93		red	红	Chinese	Hong2	Chinese EN-CN_03-13_Shopping-3
+984140060709b18dbd951ef73d4163c2		color	颜色	Chinese	Yan2 Se4	Chinese EN-CN_03-13_Shopping-3
+b82971bfd0960e75ae7ab87c5d2d9a97		wristwatch	手表	Chinese	Shou3 Biao3	Chinese EN-CN_03-13_Shopping-3
+6e9ea4b24570d1b2b617dd1d6bd366b3		white	白	Chinese	Bai2	Chinese EN-CN_03-13_Shopping-3
+e2b43414018dbc10a3eb9c86c680fb3c		long	长	Chinese	Chang2	Chinese EN-CN_03-13_Shopping-3
+49569e54ea2271dc01825ffe158608b7		snow	雪	Chinese	Xue3	Chinese EN-CN_03-12_Weather
+5dfbb3d4133eecd07a35cc24a96790e1		at once, right away, only, just (emphasis)	就	Chinese	Jiu4	Chinese EN-CN_03-12_Weather
+6371285b1870cd4cdf440eccdc03adcf		never (in negative sentences)	从来	Chinese	Cong2 Lai2	Chinese EN-CN_03-12_Weather
+3dae98455e89e095246fda3eb44c3d8b		wind	风	Chinese	Feng1	Chinese EN-CN_03-12_Weather
+445c7b4a840f12dfe9188c17273a17c2		aspect particle indicating progress	着	Chinese	Zhe	Chinese EN-CN_03-12_Weather
+1992c0f1cff58dbf34ea012e05bdcfa0		clear, fine (weather)	晴	Chinese	Qing2	Chinese EN-CN_03-12_Weather
+aca01b8f52576baf10ab2a82c844e28a		cloudy, moon	阴	Chinese	Yin1	Chinese EN-CN_03-12_Weather
+46c63a4d3999a8b1ed959d01f00b5c65		cold	冷	Chinese	Leng3	Chinese EN-CN_03-12_Weather
+6f47a43c34a72fc9a972837e8c64e9e6		inside	里面	Chinese	Li3 Mian4	Chinese EN-CN_03-12_Weather
+9dfdf3e2115e6ca30407386041378d5c		rain	雨	Chinese	Yu3	Chinese EN-CN_03-12_Weather
+d3d2ba8e82dce2a3a32618cacd61dad7		if, in case	如果	Chinese	Ru2 Guo3	Chinese EN-CN_03-12_Weather
+ce7c1090d894b75650066ce0e3149bb2		to blow (wind)	刮	Chinese	Gua1	Chinese EN-CN_03-12_Weather
+edd1c17eee1e778aefd3f7bae250fbea		outside	外面	Chinese	Wai4 Mian4	Chinese EN-CN_03-12_Weather
+a9d47930d5d635b25959c6f59289297a		umbrella	伞	Chinese	San3	Chinese EN-CN_03-12_Weather
+d64d5179c65dab6e916f31c1916cc489		down, below	下	Chinese	Xia4	Chinese EN-CN_03-12_Weather
+1d5337868e806153a03516aa6d8dbaf2		to drive a car	开车	Chinese	Kai1 Che1	Chinese EN-CN_03-11_Travel
+5228c261ef9bffa3ea81bd5bde8922f1		far	远	Chinese	Yuan3	Chinese EN-CN_03-11_Travel
+91360e6428f14943b78d19a8c7c08eb0		train	火车	Chinese	Huo3 Che1	Chinese EN-CN_03-11_Travel
+f8c06cb5df8c45759e35da016dfd6822		airplane	飞机	Chinese	Fei1 Ji1	Chinese EN-CN_03-11_Travel
+d70c8727fd04322de60d067954e69a24		to lean on, to depend on	靠	Chinese	Kao4	Chinese EN-CN_03-11_Travel
+3cfaa29c0b311e04506a4af78b3221ca		air ticket	机票	Chinese	Ji1 Piao4	Chinese EN-CN_03-11_Travel
+688cf5bbd28d7bc1d2834e4ae4947572		to stop	停	Chinese	Ting2	Chinese EN-CN_03-11_Travel
+3d64a3ac0b40b353cd5fffe34f3711b4		what's to be done	怎么办	Chinese	Zen3 Me Ban4	Chinese EN-CN_03-11_Travel
+c1de579e0aecc4505c3c1bcb3769787e		to walk	走路	Chinese	Zou3 Lu4	Chinese EN-CN_03-11_Travel
+23c5b8d39939d5bffa28577954607a2f		to have to	得	Chinese	Dei3	Chinese EN-CN_03-11_Travel
+dd29e7d17440103ab6cdd90049d4fea9		ticket	票	Chinese	Piao4	Chinese EN-CN_03-11_Travel
+118a91a2b4f2df0a3ea921e6088299eb		be late	迟到	Chinese	Chi2 Dao4	Chinese EN-CN_03-11_Travel
+91a6f685983877c129499a5708ac965e		above	上	Chinese	Shang4	Chinese EN-CN_03-11_Travel
+7279863902930138fdcfb462a4f064ba		to permit, let sb do sth	让	Chinese	Rang4	Chinese EN-CN_03-11_Travel
+973f83b7e191aec4724fa4dc2cb32379		to run	跑步	Chinese	Pao3 Bu4	Chinese EN-CN_03-04_Sports-1
+92b670dc808b42aee7acb96ed80da8c6		eye	眼睛	Chinese	Yan3 Jing1	Chinese EN-CN_03-10_Body-Parts
+b63b8e9d64872e436f8535e54104b88c		to hope, to wish for	希望	Chinese	Xi1 Wang4	Chinese EN-CN_03-07_Invitation-2
+7ecb895519795b276667aa5e871494cf		to try	试	Chinese	Shi4	Chinese EN-CN_03-09_Shopping-2
+ed922db6a96878b726e19893eb5b9075		foot	脚	Chinese	Jiao3	Chinese EN-CN_03-10_Body-Parts
+75f6e269aa7e8cdb18be11ea2a83a45d		face	脸	Chinese	Lian3	Chinese EN-CN_03-10_Body-Parts
+c074980653b148830e2532207b2b9d47		classifier for long thing things (trousers), dogs	条	Chinese	Tiao2	Chinese EN-CN_03-09_Shopping-2
+9fd65608072e1336d647e0ef31802330		blue	蓝	Chinese	Lan2	Chinese EN-CN_03-09_Shopping-2
+9a775c12cbc720407c9321c4c5d2c75d		green	绿	Chinese	Lü4	Chinese EN-CN_03-10_Body-Parts
+e0992206ea4309851e04e5816153e715		trousers	裤子	Chinese	Ku4 Zi	Chinese EN-CN_03-09_Shopping-2
+e7b882dd90381d5e126af2a88c259ead		also / both ... and ...	又	Chinese	You4	Chinese EN-CN_03-10_Body-Parts
+4011c4fc1229e63e0608972dc4fbe930		hair (on the head)	头发	Chinese	Tou2 Fa	Chinese EN-CN_03-10_Body-Parts
+89c9479ed6c1d7406c0b4ee733138c64		Italy / Italian	意大利	Chinese	Yi4 Da4 Li4	Chinese EN-CN_03-09_Shopping-2
+25b284dbd74237473b5b4407c8ca6325		nose	鼻子	Chinese	Bi2 Zi	Chinese EN-CN_03-10_Body-Parts
+6323de569ad9516921d5a62bc816583b		black	黑	Chinese	Hei1	Chinese EN-CN_03-10_Body-Parts
+34fc08b0708cec058fd05498aea0688a		ear	耳朵	Chinese	Er3 Duo	Chinese EN-CN_03-10_Body-Parts
+6ee46b1917ae959a03bc9b2d6d2d3860		skirt	裙子	Chinese	Qun2 Zi	Chinese EN-CN_03-09_Shopping-2
+ed79c737740afdddf43723a5fa4340c5		quality	质量	Chinese	Zhi4 Liang4	Chinese EN-CN_03-09_Shopping-2
+6a5f4ff8a0942e028ef76d6abb96b097		moutn	嘴巴	Chinese	Zui3 Ba	Chinese EN-CN_03-10_Body-Parts
+c0f0714d6c95ec94fc793ee510ad5d84		color	色	Chinese	Se4	Chinese EN-CN_03-09_Shopping-2
+9ffa5d8ab9edc432e5669c5dcacd2144		to dress up, decorate	打扮	Chinese	Da3 Ban4	Chinese EN-CN_03-07_Invitation-2
+31b77fa787b52acb65a274242942cfd8		taste	味道	Chinese	Wei4 Dao4	Chinese EN-CN_03-08_Dining-3
+ad1c890d4306781e4fbcdaf2c5403860		to eat till full	饱	Chinese	Bao3	Chinese EN-CN_03-08_Dining-3
+fb6704909001f63d9c0b6709856e9184		tip, gratuity	小费	Chinese	Xiao3 Fei4	Chinese EN-CN_03-08_Dining-3
+ccaa67da923ec4888e674c3f898db02a		party	派对	Chinese	Pai4 Dui4	Chinese EN-CN_03-07_Invitation-2
+f2c472ff3db4d6b44f94d6a72652e900		really	真	Chinese	Zhen1	Chinese EN-CN_03-08_Dining-3
+9b9770e4dabecc84254d4db0724323c7		tasty (drink)	好喝	Chinese	Hao3 He1	Chinese EN-CN_03-08_Dining-3
+1d743479294cf224462979d2fd303a43		alcohol	酒	Chinese	Jiu3	Chinese EN-CN_03-08_Dining-3
+6d09dba052462146444c09c3b2f38aae		just now, only	才	Chinese	Cai2	Chinese EN-CN_03-07_Invitation-2
+c79d56449acd969f7de86d161ac23b53		to invite, please (do sth)	请	Chinese	Qing3	Chinese EN-CN_03-08_Dining-3
+fb44798822dd883fccd39372966d364e		just at (that time) / right in (that place)	正在	Chinese	Zheng4 Zai4	Chinese EN-CN_03-07_Invitation-2
+80950dec625c27c45e632d073915919c		hungry	饿	Chinese	E4	Chinese EN-CN_03-08_Dining-3
+524cb051b4e89f9d1f488619428c8bf3		dessert	甜点	Chinese	Tian2 Dian3	Chinese EN-CN_03-08_Dining-3
+140f5f435e5841529b32a6ff2b322039		thirsty	渴	Chinese	Ke3	Chinese EN-CN_03-08_Dining-3
+cfdba07447b61f508603deffcf6f6940		few, less	少	Chinese	Shao3	Chinese EN-CN_03-08_Dining-3
+d27998ca01bc915206521fb9939086fe		chocolate	巧克力	Chinese	Qiao3 Ke4 Li4	Chinese EN-CN_03-08_Dining-3
+3c943f98c34d078fec6044c7c2cec046		appointment	约会	Chinese	Yue1 Hui4	Chinese EN-CN_03-05_Invitation-1
+2092378f93be1fd1696e85c071c33314		to have fever	发烧	Chinese	Fa1 Shao1	Chinese EN-CN_03-06_Health-2
+0b590611a59a06ca110bfb12ec2dc626		belly	肚子	Chinese	Du4 Zi	Chinese EN-CN_03-06_Health-2
+4088c210f27117f25181aacf6233acef		romantic	浪漫	Chinese	Lang4 Man4	Chinese EN-CN_03-05_Invitation-1
+19dfd4cee9c7f34996412e0f114c3558		medicine, drug	药	Chinese	Yao4	Chinese EN-CN_03-06_Health-2
+1f83fae521ce02251804418d6a379cb5		(to catch) cold	感冒	Chinese	Gan3 Mao4	Chinese EN-CN_03-06_Health-2
+365d726b58d4f9f57162c03ef34a8e36		free time, leisure, empty	空	Chinese	Kong4	Chinese EN-CN_03-05_Invitation-1
+93ff5916d294ed0ff4a28c4253f17062		to ask, please (do sth)	请	Chinese	Qing3	Chinese EN-CN_03-05_Invitation-1
+e6252a883abfea7f11bb69645b89c39c		to feel embarassed, to be sorry	不好意思	Chinese	Bu4 Hao3 Yi4 Si	Chinese EN-CN_03-05_Invitation-1
+f7404736adfefee91e3c9a8018193cfb		to leave	留	Chinese	Liu2	Chinese EN-CN_03-06_Health-2
+dc28bb4c48197b3c4e7196de8a2de3b6		rest, to rest	休息	Chinese	Xiu1 Xi	Chinese EN-CN_03-06_Health-2
+ebc1007a9639f35878b8c8fe36128ed5		comfortable / feeling well	舒服	Chinese	Shu1 Fu	Chinese EN-CN_03-06_Health-2
+1fd45ddf73b607e5a81f13cb34ebe33c		head	头	Chinese	Tou2	Chinese EN-CN_03-06_Health-2
+a544a674fed1d9b424644da2a372af75		to tell	告诉	Chinese	Gao4 Su	Chinese EN-CN_03-05_Invitation-1
+e1db8375b68ee428fe3fb618f778ad04		(it) hurts, sore	疼	Chinese	Teng2	Chinese EN-CN_03-06_Health-2
+17dbd6cca7a1440bd99ae2cb1ed17853		horse	马	Chinese	Ma3	Chinese EN-CN_03-04_Sports-1
+61d50a2af47b0b86ce60435df41a09af		to swim	游	Chinese	You2	Chinese EN-CN_03-04_Sports-1
+c80683801038be84549599c2d2bce8b2		soccer	足球	Chinese	Zu2 Qiu2	Chinese EN-CN_03-04_Sports-1
+22a9e6ef113d7924fe9784c175710c33		bird	鸟	Chinese	Niao3	Chinese EN-CN_03-03_Existence
+343f0aa9a604949b6b33698097eb17f6		tree	树	Chinese	Shu4	Chinese EN-CN_03-03_Existence
+1bbde0bdf912a1a6e1af5c19f832449c		bottle	瓶子	Chinese	Ping2 Zi	Chinese EN-CN_03-03_Existence
+63b6aba9a515cf5b7f0b47021fa79dbc		basketball	篮球	Chinese	Lan2 Qiu2	Chinese EN-CN_03-04_Sports-1
+c1e850dc78fc571eaddce79771a30c77		to run	跑	Chinese	Pao3	Chinese EN-CN_03-04_Sports-1
+ee9d00c81bc98978bebe0e12b9320bdc		to hit, play (a game)	打	Chinese	Da3	Chinese EN-CN_03-04_Sports-1
+c791669bb78f932f832488f1445a3772		office	办公室	Chinese	Ban4 Gong1 Shi4	Chinese EN-CN_03-03_Existence
+6d345fbdb12f9a05b13d8746f99c8360		to kick	踢	Chinese	Ti1	Chinese EN-CN_03-04_Sports-1
+4c2428bcd8eef77593a84511fe5066dc		step, pace	步	Chinese	Bu4	Chinese EN-CN_03-04_Sports-1
+0c61e1a57dfc234fb0ce471e58582062		to swim	泳	Chinese	Yong3	Chinese EN-CN_03-04_Sports-1
+d057aa50b83c895134acf072c45feb7f		classifier for vehicles	辆	Chinese	Liang4	Chinese EN-CN_03-03_Existence
+382621eda220cea2baad787e168541c3		banana	香蕉	Chinese	Xiang1 Jiao1	Chinese EN-CN_03-02_Dining-2
+fc9feb3d132ea90fb410172b386fcdbf		cake	蛋糕	Chinese	Dan4 Gao1	Chinese EN-CN_03-02_Dining-2
+0a4d79cf3b8e0c8327d189ee44e0e672		difference	差	Chinese	Cha1	Chinese EN-CN_03-01_Time-3
+ccbdfc30017f2d70bd688578408908c5		spoon	勺子	Chinese	Shao2 Zi	Chinese EN-CN_03-02_Dining-2
+52f2053709b813463ae6cf317ec817bc		minute	分钟	Chinese	Fen1 Zhong1	Chinese EN-CN_03-01_Time-3
+2f5aad39f13b17dc7aa4a039102205c4		second (unit of time)	秒	Chinese	Miao3	Chinese EN-CN_03-01_Time-3
+d23e344f6b1357168d96f9de990f45f9		knife	刀	Chinese	Dao1	Chinese EN-CN_03-02_Dining-2
+96ea1093e3a273d31f2672e9b74425c1		sharp (o' clock)	整	Chinese	Zheng3	Chinese EN-CN_03-01_Time-3
+5b31d3d01d98962d55e6ac51c4aa8d16		juice	果汁	Chinese	Guo3 Zhi1	Chinese EN-CN_03-02_Dining-2
+ef69b258ab46bc899f9222100bee326b		bowl	碗	Chinese	Wan3	Chinese EN-CN_03-02_Dining-2
+e849331041659d8045e93723bcccf658		fork	叉	Chinese	Cha1	Chinese EN-CN_03-02_Dining-2
+4e5b980bf84a2757480e0f00166ad2af		hour	小时	Chinese	Xiao3 Shi2	Chinese EN-CN_03-01_Time-3
+71914eab3955c70ffd2b072d757ddf0f		evening	晚	Chinese	Wan3	Chinese EN-CN_03-01_Time-3
+a84418d06426970d6b4944bcd2c70054		classifier for glasses, cups etc.	杯	Chinese	Bei1	Chinese EN-CN_03-02_Dining-2
+86b0565f274eb23722fd9e70f858251c		quarter (of an hour)	刻	Chinese	Ke4	Chinese EN-CN_03-01_Time-3
+f54628b913ffc85d035060b7c69b19d1		piece	块	Chinese	Kuai4	Chinese EN-CN_03-02_Dining-2
+ff094ecd5d8839a4cc19677df9cb8be5		plate	盘子	Chinese	Pan2 Zi	Chinese EN-CN_03-02_Dining-2
+0d74863afda7314b2f92982798adf7f8		chopsticks	筷子	Chinese	Kuai4 Zi	Chinese EN-CN_03-02_Dining-2
+fbeeb715d60da1c9dd83c468055b1da8		clock, o'clock	钟	Chinese	Zhong1	Chinese EN-CN_03-01_Time-3
