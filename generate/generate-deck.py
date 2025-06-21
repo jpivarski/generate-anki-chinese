@@ -260,16 +260,16 @@ for word in all_words:
         )
 
         if current_group != word.group:
-            gist_markdown.append(f"""## {word.group}
+            gist_markdown.append(f"""# {word.group}
 """)
             toc.append(f"- [{word.group}](#{word.group.lower()})")
         current_group = word.group
 
-        stroke_order = [f"![](https://img.zdic.net/kai/jbh/{hex(ord(char))[2:].upper()}.gif)" for char in word.hanzi]
+        stroke_order = [f"<img src=\"https://img.zdic.net/kai/jbh/{hex(ord(char))[2:].upper()}.gif\" width=\"149\">" for char in word.hanzi]
 
-        gist_markdown.append(f"""### {word.hanzi} :: {content['better_definition']}
+        gist_markdown.append(f"""## {word.hanzi} :: {content['better_definition']}
 
-{' '.join(stroke_order)}
+{''.join(stroke_order)}
 
 “{content['sentence_translation']}”
 

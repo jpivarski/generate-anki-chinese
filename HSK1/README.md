@@ -25,11 +25,11 @@
 - [HSK1_025](#hsk1_025)
 - [HSK1_026](#hsk1_026)
 
-## HSK1_001
+# HSK1_001
 
-### 的 :: particle used to show emphasis or confirmation in a sentence
+## 的 :: particle used to show emphasis or confirmation in a sentence
 
-![](https://img.zdic.net/kai/jbh/7684.gif)
+<img src="https://img.zdic.net/kai/jbh/7684.gif" width="149">
 
 “This is true.”
 
@@ -37,9 +37,9 @@
 
 ![](images-verysmall/HSK1_001-00-的.png)
 
-### 我 :: I; me (used by the speaker to refer to themselves)
+## 我 :: I; me (used by the speaker to refer to themselves)
 
-![](https://img.zdic.net/kai/jbh/6211.gif)
+<img src="https://img.zdic.net/kai/jbh/6211.gif" width="149">
 
 “I like milk.”
 
@@ -47,9 +47,9 @@
 
 ![](images-verysmall/HSK1_001-01-我.png)
 
-### 你 :: you (referring to the person being spoken to)
+## 你 :: you (referring to the person being spoken to)
 
-![](https://img.zdic.net/kai/jbh/4F60.gif)
+<img src="https://img.zdic.net/kai/jbh/4F60.gif" width="149">
 
 “You are at home.”
 
@@ -57,9 +57,9 @@
 
 ![](images-verysmall/HSK1_001-02-你.png)
 
-### 是 :: to be; is, am, are
+## 是 :: to be; is, am, are
 
-![](https://img.zdic.net/kai/jbh/662F.gif)
+<img src="https://img.zdic.net/kai/jbh/662F.gif" width="149">
 
 “I am a student.”
 
@@ -67,9 +67,9 @@
 
 ![](images-verysmall/HSK1_001-03-是.png)
 
-### 了 :: indicates a completed action
+## 了 :: indicates a completed action
 
-![](https://img.zdic.net/kai/jbh/4E86.gif)
+<img src="https://img.zdic.net/kai/jbh/4E86.gif" width="149">
 
 “I have eaten.”
 
@@ -77,9 +77,9 @@
 
 ![](images-verysmall/HSK1_001-04-了.png)
 
-### 不 :: no; not
+## 不 :: no; not
 
-![](https://img.zdic.net/kai/jbh/4E0D.gif)
+<img src="https://img.zdic.net/kai/jbh/4E0D.gif" width="149">
 
 “I don't like it.”
 
@@ -87,9 +87,9 @@
 
 ![](images-verysmall/HSK1_001-05-不.png)
 
-### 在 :: in; at; on (to show location or time)
+## 在 :: in; at; on (to show location or time)
 
-![](https://img.zdic.net/kai/jbh/5728.gif)
+<img src="https://img.zdic.net/kai/jbh/5728.gif" width="149">
 
 “I am at home.”
 
@@ -97,9 +97,9 @@
 
 ![](images-verysmall/HSK1_001-06-在.png)
 
-### 他 :: he; him
+## 他 :: he; him
 
-![](https://img.zdic.net/kai/jbh/4ED6.gif)
+<img src="https://img.zdic.net/kai/jbh/4ED6.gif" width="149">
 
 “He is at home.”
 
@@ -107,9 +107,9 @@
 
 ![](images-verysmall/HSK1_001-07-他.png)
 
-### 我们 :: we; us (refers to the speaker and at least one other person)
+## 我们 :: we; us (refers to the speaker and at least one other person)
 
-![](https://img.zdic.net/kai/jbh/6211.gif) ![](https://img.zdic.net/kai/jbh/4EEC.gif)
+<img src="https://img.zdic.net/kai/jbh/6211.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4EEC.gif" width="149">
 
 “We like to eat.”
 
@@ -117,9 +117,9 @@
 
 ![](images-verysmall/HSK1_001-08-我们.png)
 
-### 好 :: good
+## 好 :: good
 
-![](https://img.zdic.net/kai/jbh/597D.gif)
+<img src="https://img.zdic.net/kai/jbh/597D.gif" width="149">
 
 “This rice is good.”
 
@@ -127,11 +127,11 @@
 
 ![](images-verysmall/HSK1_001-09-好.png)
 
-## HSK1_002
+# HSK1_002
 
-### 有 :: to have; to possess
+## 有 :: to have; to possess
 
-![](https://img.zdic.net/kai/jbh/6709.gif)
+<img src="https://img.zdic.net/kai/jbh/6709.gif" width="149">
 
 “I have a book.”
 
@@ -139,9 +139,9 @@
 
 ![](images-verysmall/HSK1_002-00-有.png)
 
-### 这 :: this (refers to something nearby or just mentioned)
+## 这 :: this (refers to something nearby or just mentioned)
 
-![](https://img.zdic.net/kai/jbh/8FD9.gif)
+<img src="https://img.zdic.net/kai/jbh/8FD9.gif" width="149">
 
 “This is water.”
 
@@ -149,9 +149,9 @@
 
 ![](images-verysmall/HSK1_002-01-这.png)
 
-### 就 :: then; right away; an indicator to stress the result or evaluation
+## 就 :: then; right away; an indicator to stress the result or evaluation
 
-![](https://img.zdic.net/kai/jbh/5C31.gif)
+<img src="https://img.zdic.net/kai/jbh/5C31.gif" width="149">
 
 “She left, then I left.”
 
@@ -159,9 +159,9 @@
 
 ![](images-verysmall/HSK1_002-02-就.png)
 
-### 会 :: can (to be able to do something); will (future tense)
+## 会 :: can (to be able to do something); will (future tense)
 
-![](https://img.zdic.net/kai/jbh/4F1A.gif)
+<img src="https://img.zdic.net/kai/jbh/4F1A.gif" width="149">
 
 “They can sing.”
 
@@ -169,9 +169,9 @@
 
 ![](images-verysmall/HSK1_002-03-会.png)
 
-### 吗 :: Particle used to form a yes-no question.
+## 吗 :: Particle used to form a yes-no question.
 
-![](https://img.zdic.net/kai/jbh/5417.gif)
+<img src="https://img.zdic.net/kai/jbh/5417.gif" width="149">
 
 “How are you?”
 
@@ -179,9 +179,9 @@
 
 ![](images-verysmall/HSK1_002-04-吗.png)
 
-### 要 :: to want or need to do something; must
+## 要 :: to want or need to do something; must
 
-![](https://img.zdic.net/kai/jbh/8981.gif)
+<img src="https://img.zdic.net/kai/jbh/8981.gif" width="149">
 
 “I want to go.”
 
@@ -189,9 +189,9 @@
 
 ![](images-verysmall/HSK1_002-05-要.png)
 
-### 什么 :: what; used to ask about something unknown
+## 什么 :: what; used to ask about something unknown
 
-![](https://img.zdic.net/kai/jbh/4EC0.gif) ![](https://img.zdic.net/kai/jbh/4E48.gif)
+<img src="https://img.zdic.net/kai/jbh/4EC0.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4E48.gif" width="149">
 
 “What do you have?”
 
@@ -199,9 +199,9 @@
 
 ![](images-verysmall/HSK1_002-06-什么.png)
 
-### 说 :: to speak or talk
+## 说 :: to speak or talk
 
-![](https://img.zdic.net/kai/jbh/8BF4.gif)
+<img src="https://img.zdic.net/kai/jbh/8BF4.gif" width="149">
 
 “She speaks.”
 
@@ -209,9 +209,9 @@
 
 ![](images-verysmall/HSK1_002-07-说.png)
 
-### 她 :: she; her (refers to a woman or girl)
+## 她 :: she; her (refers to a woman or girl)
 
-![](https://img.zdic.net/kai/jbh/5979.gif)
+<img src="https://img.zdic.net/kai/jbh/5979.gif" width="149">
 
 “She is at school.”
 
@@ -219,9 +219,9 @@
 
 ![](images-verysmall/HSK1_002-08-她.png)
 
-### 想 :: to think or want to do something
+## 想 :: to think or want to do something
 
-![](https://img.zdic.net/kai/jbh/60F3.gif)
+<img src="https://img.zdic.net/kai/jbh/60F3.gif" width="149">
 
 “I want to eat.”
 
@@ -229,11 +229,11 @@
 
 ![](images-verysmall/HSK1_002-09-想.png)
 
-## HSK1_003
+# HSK1_003
 
-### 一 :: the number one
+## 一 :: the number one
 
-![](https://img.zdic.net/kai/jbh/4E00.gif)
+<img src="https://img.zdic.net/kai/jbh/4E00.gif" width="149">
 
 “I have one book.”
 
@@ -241,9 +241,9 @@
 
 ![](images-verysmall/HSK1_003-00-一.png)
 
-### 很 :: very; quite (used for emphasis before adjectives)
+## 很 :: very; quite (used for emphasis before adjectives)
 
-![](https://img.zdic.net/kai/jbh/5F88.gif)
+<img src="https://img.zdic.net/kai/jbh/5F88.gif" width="149">
 
 “I am very happy.”
 
@@ -251,9 +251,9 @@
 
 ![](images-verysmall/HSK1_003-01-很.png)
 
-### 知道 :: to know; to be aware of
+## 知道 :: to know; to be aware of
 
-![](https://img.zdic.net/kai/jbh/77E5.gif) ![](https://img.zdic.net/kai/jbh/9053.gif)
+<img src="https://img.zdic.net/kai/jbh/77E5.gif" width="149"><img src="https://img.zdic.net/kai/jbh/9053.gif" width="149">
 
 “I know.”
 
@@ -261,9 +261,9 @@
 
 ![](images-verysmall/HSK1_003-02-知道.png)
 
-### 人 :: person; people
+## 人 :: person; people
 
-![](https://img.zdic.net/kai/jbh/4EBA.gif)
+<img src="https://img.zdic.net/kai/jbh/4EBA.gif" width="149">
 
 “They are Chinese people.”
 
@@ -271,9 +271,9 @@
 
 ![](images-verysmall/HSK1_003-03-人.png)
 
-### 吧 :: particle used to make suggestions or soften commands
+## 吧 :: particle used to make suggestions or soften commands
 
-![](https://img.zdic.net/kai/jbh/5427.gif)
+<img src="https://img.zdic.net/kai/jbh/5427.gif" width="149">
 
 “Let's eat together.”
 
@@ -281,9 +281,9 @@
 
 ![](images-verysmall/HSK1_003-04-吧.png)
 
-### 那 :: that (used to refer to something far from the speaker)
+## 那 :: that (used to refer to something far from the speaker)
 
-![](https://img.zdic.net/kai/jbh/90A3.gif)
+<img src="https://img.zdic.net/kai/jbh/90A3.gif" width="149">
 
 “That is my book.”
 
@@ -291,9 +291,9 @@
 
 ![](images-verysmall/HSK1_003-05-那.png)
 
-### 来 :: to come
+## 来 :: to come
 
-![](https://img.zdic.net/kai/jbh/6765.gif)
+<img src="https://img.zdic.net/kai/jbh/6765.gif" width="149">
 
 “You come.”
 
@@ -301,9 +301,9 @@
 
 ![](images-verysmall/HSK1_003-06-来.png)
 
-### 都 :: all; every; both
+## 都 :: all; every; both
 
-![](https://img.zdic.net/kai/jbh/90FD.gif)
+<img src="https://img.zdic.net/kai/jbh/90FD.gif" width="149">
 
 “We are all at home.”
 
@@ -311,9 +311,9 @@
 
 ![](images-verysmall/HSK1_003-07-都.png)
 
-### 个 :: piece (a measure word for things and people)
+## 个 :: piece (a measure word for things and people)
 
-![](https://img.zdic.net/kai/jbh/4E2A.gif)
+<img src="https://img.zdic.net/kai/jbh/4E2A.gif" width="149">
 
 “One person.”
 
@@ -321,9 +321,9 @@
 
 ![](images-verysmall/HSK1_003-08-个.png)
 
-### 能 :: can; to be able to
+## 能 :: can; to be able to
 
-![](https://img.zdic.net/kai/jbh/80FD.gif)
+<img src="https://img.zdic.net/kai/jbh/80FD.gif" width="149">
 
 “I can smile.”
 
@@ -331,11 +331,11 @@
 
 ![](images-verysmall/HSK1_003-09-能.png)
 
-## HSK1_004
+# HSK1_004
 
-### 去 :: to go
+## 去 :: to go
 
-![](https://img.zdic.net/kai/jbh/53BB.gif)
+<img src="https://img.zdic.net/kai/jbh/53BB.gif" width="149">
 
 “We go to school.”
 
@@ -343,9 +343,9 @@
 
 ![](images-verysmall/HSK1_004-00-去.png)
 
-### 没 :: not; not have; without
+## 没 :: not; not have; without
 
-![](https://img.zdic.net/kai/jbh/6CA1.gif)
+<img src="https://img.zdic.net/kai/jbh/6CA1.gif" width="149">
 
 “I don't have money.”
 
@@ -353,9 +353,9 @@
 
 ![](images-verysmall/HSK1_004-01-没.png)
 
-### 和 :: and; with (used to connect words or people)
+## 和 :: and; with (used to connect words or people)
 
-![](https://img.zdic.net/kai/jbh/548C.gif)
+<img src="https://img.zdic.net/kai/jbh/548C.gif" width="149">
 
 “I walk with you.”
 
@@ -363,9 +363,9 @@
 
 ![](images-verysmall/HSK1_004-02-和.png)
 
-### 他们 :: they; them (referring to a group of people)
+## 他们 :: they; them (referring to a group of people)
 
-![](https://img.zdic.net/kai/jbh/4ED6.gif) ![](https://img.zdic.net/kai/jbh/4EEC.gif)
+<img src="https://img.zdic.net/kai/jbh/4ED6.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4EEC.gif" width="149">
 
 “They are at school.”
 
@@ -373,9 +373,9 @@
 
 ![](images-verysmall/HSK1_004-03-他们.png)
 
-### 到 :: to arrive; to reach (a place or point in time)
+## 到 :: to arrive; to reach (a place or point in time)
 
-![](https://img.zdic.net/kai/jbh/5230.gif)
+<img src="https://img.zdic.net/kai/jbh/5230.gif" width="149">
 
 “We arrive home.”
 
@@ -383,9 +383,9 @@
 
 ![](images-verysmall/HSK1_004-04-到.png)
 
-### 对 :: correct; right
+## 对 :: correct; right
 
-![](https://img.zdic.net/kai/jbh/5BF9.gif)
+<img src="https://img.zdic.net/kai/jbh/5BF9.gif" width="149">
 
 “You are right.”
 
@@ -393,9 +393,9 @@
 
 ![](images-verysmall/HSK1_004-05-对.png)
 
-### 也 :: also; too
+## 也 :: also; too
 
-![](https://img.zdic.net/kai/jbh/4E5F.gif)
+<img src="https://img.zdic.net/kai/jbh/4E5F.gif" width="149">
 
 “I also like it.”
 
@@ -403,9 +403,9 @@
 
 ![](images-verysmall/HSK1_004-06-也.png)
 
-### 还 :: still; also; in addition
+## 还 :: still; also; in addition
 
-![](https://img.zdic.net/kai/jbh/8FD8.gif)
+<img src="https://img.zdic.net/kai/jbh/8FD8.gif" width="149">
 
 “I still have books.”
 
@@ -413,9 +413,9 @@
 
 ![](images-verysmall/HSK1_004-07-还.png)
 
-### 做 :: to make or do
+## 做 :: to make or do
 
-![](https://img.zdic.net/kai/jbh/505A.gif)
+<img src="https://img.zdic.net/kai/jbh/505A.gif" width="149">
 
 “I cook food.”
 
@@ -423,9 +423,9 @@
 
 ![](images-verysmall/HSK1_004-08-做.png)
 
-### 给 :: to give; to hand over (something to someone)
+## 给 :: to give; to hand over (something to someone)
 
-![](https://img.zdic.net/kai/jbh/7ED9.gif)
+<img src="https://img.zdic.net/kai/jbh/7ED9.gif" width="149">
 
 “I give you a book.”
 
@@ -433,11 +433,11 @@
 
 ![](images-verysmall/HSK1_004-09-给.png)
 
-## HSK1_005
+# HSK1_005
 
-### 上 :: on; above
+## 上 :: on; above
 
-![](https://img.zdic.net/kai/jbh/4E0A.gif)
+<img src="https://img.zdic.net/kai/jbh/4E0A.gif" width="149">
 
 “The book is on the table.”
 
@@ -445,9 +445,9 @@
 
 ![](images-verysmall/HSK1_005-00-上.png)
 
-### 你们 :: you (plural); you all
+## 你们 :: you (plural); you all
 
-![](https://img.zdic.net/kai/jbh/4F60.gif) ![](https://img.zdic.net/kai/jbh/4EEC.gif)
+<img src="https://img.zdic.net/kai/jbh/4F60.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4EEC.gif" width="149">
 
 “You all are here.”
 
@@ -455,9 +455,9 @@
 
 ![](images-verysmall/HSK1_005-01-你们.png)
 
-### 过 :: used to show an action happened in the past
+## 过 :: used to show an action happened in the past
 
-![](https://img.zdic.net/kai/jbh/8FC7.gif)
+<img src="https://img.zdic.net/kai/jbh/8FC7.gif" width="149">
 
 “He has been here before.”
 
@@ -465,9 +465,9 @@
 
 ![](images-verysmall/HSK1_005-02-过.png)
 
-### 没有 :: not have; there is not
+## 没有 :: not have; there is not
 
-![](https://img.zdic.net/kai/jbh/6CA1.gif) ![](https://img.zdic.net/kai/jbh/6709.gif)
+<img src="https://img.zdic.net/kai/jbh/6CA1.gif" width="149"><img src="https://img.zdic.net/kai/jbh/6709.gif" width="149">
 
 “I don't have money.”
 
@@ -475,9 +475,9 @@
 
 ![](images-verysmall/HSK1_005-03-没有.png)
 
-### 看 :: to see or look at
+## 看 :: to see or look at
 
-![](https://img.zdic.net/kai/jbh/770B.gif)
+<img src="https://img.zdic.net/kai/jbh/770B.gif" width="149">
 
 “I see you.”
 
@@ -485,9 +485,9 @@
 
 ![](images-verysmall/HSK1_005-04-看.png)
 
-### 真 :: really; truly
+## 真 :: really; truly
 
-![](https://img.zdic.net/kai/jbh/771F.gif)
+<img src="https://img.zdic.net/kai/jbh/771F.gif" width="149">
 
 “It's really big here.”
 
@@ -495,9 +495,9 @@
 
 ![](images-verysmall/HSK1_005-05-真.png)
 
-### 着 :: a particle showing ongoing action (like "-ing")
+## 着 :: a particle showing ongoing action (like "-ing")
 
-![](https://img.zdic.net/kai/jbh/7740.gif)
+<img src="https://img.zdic.net/kai/jbh/7740.gif" width="149">
 
 “He is singing.”
 
@@ -505,9 +505,9 @@
 
 ![](images-verysmall/HSK1_005-06-着.png)
 
-### 事 :: thing; matter; event
+## 事 :: thing; matter; event
 
-![](https://img.zdic.net/kai/jbh/4E8B.gif)
+<img src="https://img.zdic.net/kai/jbh/4E8B.gif" width="149">
 
 “What is this thing?”
 
@@ -515,9 +515,9 @@
 
 ![](images-verysmall/HSK1_005-07-事.png)
 
-### 怎么 :: how; in what way
+## 怎么 :: how; in what way
 
-![](https://img.zdic.net/kai/jbh/600E.gif) ![](https://img.zdic.net/kai/jbh/4E48.gif)
+<img src="https://img.zdic.net/kai/jbh/600E.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4E48.gif" width="149">
 
 “How do you go home?”
 
@@ -525,9 +525,9 @@
 
 ![](images-verysmall/HSK1_005-08-怎么.png)
 
-### 现在 :: now; at this moment
+## 现在 :: now; at this moment
 
-![](https://img.zdic.net/kai/jbh/73B0.gif) ![](https://img.zdic.net/kai/jbh/5728.gif)
+<img src="https://img.zdic.net/kai/jbh/73B0.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5728.gif" width="149">
 
 “We are at home now.”
 
@@ -535,11 +535,11 @@
 
 ![](images-verysmall/HSK1_005-09-现在.png)
 
-## HSK1_006
+# HSK1_006
 
-### 点 :: measure word for a small amount or a dot
+## 点 :: measure word for a small amount or a dot
 
-![](https://img.zdic.net/kai/jbh/70B9.gif)
+<img src="https://img.zdic.net/kai/jbh/70B9.gif" width="149">
 
 “There is a little water here.”
 
@@ -547,9 +547,9 @@
 
 ![](images-verysmall/HSK1_006-00-点.png)
 
-### 呢 :: particle used at the end of a sentence to turn it into a question or to emphasize something already mentioned
+## 呢 :: particle used at the end of a sentence to turn it into a question or to emphasize something already mentioned
 
-![](https://img.zdic.net/kai/jbh/5462.gif)
+<img src="https://img.zdic.net/kai/jbh/5462.gif" width="149">
 
 “And you?”
 
@@ -557,9 +557,9 @@
 
 ![](images-verysmall/HSK1_006-01-呢.png)
 
-### 不客气 :: you're welcome (polite reply to 'thank you')
+## 不客气 :: you're welcome (polite reply to 'thank you')
 
-![](https://img.zdic.net/kai/jbh/4E0D.gif) ![](https://img.zdic.net/kai/jbh/5BA2.gif) ![](https://img.zdic.net/kai/jbh/6C14.gif)
+<img src="https://img.zdic.net/kai/jbh/4E0D.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5BA2.gif" width="149"><img src="https://img.zdic.net/kai/jbh/6C14.gif" width="149">
 
 “Thank you! You're welcome.”
 
@@ -567,9 +567,9 @@
 
 ![](images-verysmall/HSK1_006-02-不客气.png)
 
-### 别 :: don't (used to tell someone not to do something)
+## 别 :: don't (used to tell someone not to do something)
 
-![](https://img.zdic.net/kai/jbh/522B.gif)
+<img src="https://img.zdic.net/kai/jbh/522B.gif" width="149">
 
 “Don't go.”
 
@@ -577,9 +577,9 @@
 
 ![](images-verysmall/HSK1_006-03-别.png)
 
-### 走 :: to walk or to go
+## 走 :: to walk or to go
 
-![](https://img.zdic.net/kai/jbh/8D70.gif)
+<img src="https://img.zdic.net/kai/jbh/8D70.gif" width="149">
 
 “I walk.”
 
@@ -587,9 +587,9 @@
 
 ![](images-verysmall/HSK1_006-04-走.png)
 
-### 太 :: too; extremely
+## 太 :: too; extremely
 
-![](https://img.zdic.net/kai/jbh/592A.gif)
+<img src="https://img.zdic.net/kai/jbh/592A.gif" width="149">
 
 “He is too happy.”
 
@@ -597,9 +597,9 @@
 
 ![](images-verysmall/HSK1_006-05-太.png)
 
-### 里 :: inside; in a space or area
+## 里 :: inside; in a space or area
 
-![](https://img.zdic.net/kai/jbh/91CC.gif)
+<img src="https://img.zdic.net/kai/jbh/91CC.gif" width="149">
 
 “The book is inside.”
 
@@ -607,9 +607,9 @@
 
 ![](images-verysmall/HSK1_006-06-里.png)
 
-### 跟 :: with; to follow; together with
+## 跟 :: with; to follow; together with
 
-![](https://img.zdic.net/kai/jbh/8DDF.gif)
+<img src="https://img.zdic.net/kai/jbh/8DDF.gif" width="149">
 
 “You come with me.”
 
@@ -617,9 +617,9 @@
 
 ![](images-verysmall/HSK1_006-07-跟.png)
 
-### 女孩儿 :: girl (with erhua, a northern accent)
+## 女孩儿 :: girl (with erhua, a northern accent)
 
-![](https://img.zdic.net/kai/jbh/5973.gif) ![](https://img.zdic.net/kai/jbh/5B69.gif) ![](https://img.zdic.net/kai/jbh/513F.gif)
+<img src="https://img.zdic.net/kai/jbh/5973.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5B69.gif" width="149"><img src="https://img.zdic.net/kai/jbh/513F.gif" width="149">
 
 “The girl is smiling.”
 
@@ -627,9 +627,9 @@
 
 ![](images-verysmall/HSK1_006-08-女孩儿.png)
 
-### 告诉 :: to tell or inform (someone)
+## 告诉 :: to tell or inform (someone)
 
-![](https://img.zdic.net/kai/jbh/544A.gif) ![](https://img.zdic.net/kai/jbh/8BC9.gif)
+<img src="https://img.zdic.net/kai/jbh/544A.gif" width="149"><img src="https://img.zdic.net/kai/jbh/8BC9.gif" width="149">
 
 “You tell him.”
 
@@ -637,11 +637,11 @@
 
 ![](images-verysmall/HSK1_006-09-告诉.png)
 
-## HSK1_007
+# HSK1_007
 
-### 再 :: again
+## 再 :: again
 
-![](https://img.zdic.net/kai/jbh/518D.gif)
+<img src="https://img.zdic.net/kai/jbh/518D.gif" width="149">
 
 “Please say it again.”
 
@@ -649,9 +649,9 @@
 
 ![](images-verysmall/HSK1_007-00-再.png)
 
-### 听 :: to listen
+## 听 :: to listen
 
-![](https://img.zdic.net/kai/jbh/542C.gif)
+<img src="https://img.zdic.net/kai/jbh/542C.gif" width="149">
 
 “They are listening to songs.”
 
@@ -659,9 +659,9 @@
 
 ![](images-verysmall/HSK1_007-01-听.png)
 
-### 这里 :: here; this place
+## 这里 :: here; this place
 
-![](https://img.zdic.net/kai/jbh/8FD9.gif) ![](https://img.zdic.net/kai/jbh/91CC.gif)
+<img src="https://img.zdic.net/kai/jbh/8FD9.gif" width="149"><img src="https://img.zdic.net/kai/jbh/91CC.gif" width="149">
 
 “They are here.”
 
@@ -669,9 +669,9 @@
 
 ![](images-verysmall/HSK1_007-02-这里.png)
 
-### 快 :: fast; quick
+## 快 :: fast; quick
 
-![](https://img.zdic.net/kai/jbh/5FEB.gif)
+<img src="https://img.zdic.net/kai/jbh/5FEB.gif" width="149">
 
 “He is fast.”
 
@@ -679,9 +679,9 @@
 
 ![](images-verysmall/HSK1_007-03-快.png)
 
-### 谁 :: who; which person
+## 谁 :: who; which person
 
-![](https://img.zdic.net/kai/jbh/8C01.gif)
+<img src="https://img.zdic.net/kai/jbh/8C01.gif" width="149">
 
 “Who is at home?”
 
@@ -689,9 +689,9 @@
 
 ![](images-verysmall/HSK1_007-04-谁.png)
 
-### 多 :: many; much; a lot
+## 多 :: many; much; a lot
 
-![](https://img.zdic.net/kai/jbh/591A.gif)
+<img src="https://img.zdic.net/kai/jbh/591A.gif" width="149">
 
 “There are many people here.”
 
@@ -699,9 +699,9 @@
 
 ![](images-verysmall/HSK1_007-05-多.png)
 
-### 用 :: to use
+## 用 :: to use
 
-![](https://img.zdic.net/kai/jbh/7528.gif)
+<img src="https://img.zdic.net/kai/jbh/7528.gif" width="149">
 
 “I use a phone.”
 
@@ -709,9 +709,9 @@
 
 ![](images-verysmall/HSK1_007-06-用.png)
 
-### 时候 :: moment; time
+## 时候 :: moment; time
 
-![](https://img.zdic.net/kai/jbh/65F6.gif) ![](https://img.zdic.net/kai/jbh/5019.gif)
+<img src="https://img.zdic.net/kai/jbh/65F6.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5019.gif" width="149">
 
 “Now is the time.”
 
@@ -719,9 +719,9 @@
 
 ![](images-verysmall/HSK1_007-07-时候.png)
 
-### 下 :: under; below
+## 下 :: under; below
 
-![](https://img.zdic.net/kai/jbh/4E0B.gif)
+<img src="https://img.zdic.net/kai/jbh/4E0B.gif" width="149">
 
 “The water is under the table.”
 
@@ -729,9 +729,9 @@
 
 ![](images-verysmall/HSK1_007-08-下.png)
 
-### 谢谢 :: thank you
+## 谢谢 :: thank you
 
-![](https://img.zdic.net/kai/jbh/8C22.gif) ![](https://img.zdic.net/kai/jbh/8C22.gif)
+<img src="https://img.zdic.net/kai/jbh/8C22.gif" width="149"><img src="https://img.zdic.net/kai/jbh/8C22.gif" width="149">
 
 “Thank you.”
 
@@ -739,11 +739,11 @@
 
 ![](images-verysmall/HSK1_007-09-谢谢.png)
 
-## HSK1_008
+# HSK1_008
 
-### 觉得 :: to think or to feel (about something)
+## 觉得 :: to think or to feel (about something)
 
-![](https://img.zdic.net/kai/jbh/89C9.gif) ![](https://img.zdic.net/kai/jbh/5F97.gif)
+<img src="https://img.zdic.net/kai/jbh/89C9.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5F97.gif" width="149">
 
 “I think (it is) good.”
 
@@ -751,9 +751,9 @@
 
 ![](images-verysmall/HSK1_008-00-觉得.png)
 
-### 天 :: day
+## 天 :: day
 
-![](https://img.zdic.net/kai/jbh/5929.gif)
+<img src="https://img.zdic.net/kai/jbh/5929.gif" width="149">
 
 “Today's weather is very good.”
 
@@ -761,9 +761,9 @@
 
 ![](images-verysmall/HSK1_008-01-天.png)
 
-### 请进 :: please come in
+## 请进 :: please come in
 
-![](https://img.zdic.net/kai/jbh/8BF7.gif) ![](https://img.zdic.net/kai/jbh/8FDB.gif)
+<img src="https://img.zdic.net/kai/jbh/8BF7.gif" width="149"><img src="https://img.zdic.net/kai/jbh/8FDB.gif" width="149">
 
 “Please come in.”
 
@@ -771,9 +771,9 @@
 
 ![](images-verysmall/HSK1_008-02-请进.png)
 
-### 从 :: from (indicates starting point in time or space)
+## 从 :: from (indicates starting point in time or space)
 
-![](https://img.zdic.net/kai/jbh/4ECE.gif)
+<img src="https://img.zdic.net/kai/jbh/4ECE.gif" width="149">
 
 “I come from home.”
 
@@ -781,9 +781,9 @@
 
 ![](images-verysmall/HSK1_008-03-从.png)
 
-### 先生 :: Mr.; sir; a polite way to address a man
+## 先生 :: Mr.; sir; a polite way to address a man
 
-![](https://img.zdic.net/kai/jbh/5148.gif) ![](https://img.zdic.net/kai/jbh/751F.gif)
+<img src="https://img.zdic.net/kai/jbh/5148.gif" width="149"><img src="https://img.zdic.net/kai/jbh/751F.gif" width="149">
 
 “Mr. is at home.”
 
@@ -791,9 +791,9 @@
 
 ![](images-verysmall/HSK1_008-04-先生.png)
 
-### 找 :: to look for; to try to find
+## 找 :: to look for; to try to find
 
-![](https://img.zdic.net/kai/jbh/627E.gif)
+<img src="https://img.zdic.net/kai/jbh/627E.gif" width="149">
 
 “He is looking for his phone.”
 
@@ -801,9 +801,9 @@
 
 ![](images-verysmall/HSK1_008-05-找.png)
 
-### 最 :: most; to the highest degree
+## 最 :: most; to the highest degree
 
-![](https://img.zdic.net/kai/jbh/6700.gif)
+<img src="https://img.zdic.net/kai/jbh/6700.gif" width="149">
 
 “I like singing the most.”
 
@@ -811,9 +811,9 @@
 
 ![](images-verysmall/HSK1_008-06-最.png)
 
-### 喜欢 :: to like or love something or someone
+## 喜欢 :: to like or love something or someone
 
-![](https://img.zdic.net/kai/jbh/559C.gif) ![](https://img.zdic.net/kai/jbh/6B22.gif)
+<img src="https://img.zdic.net/kai/jbh/559C.gif" width="149"><img src="https://img.zdic.net/kai/jbh/6B22.gif" width="149">
 
 “I like bread.”
 
@@ -821,9 +821,9 @@
 
 ![](images-verysmall/HSK1_008-07-喜欢.png)
 
-### 大 :: big or large
+## 大 :: big or large
 
-![](https://img.zdic.net/kai/jbh/5927.gif)
+<img src="https://img.zdic.net/kai/jbh/5927.gif" width="149">
 
 “Big tree.”
 
@@ -831,9 +831,9 @@
 
 ![](images-verysmall/HSK1_008-08-大.png)
 
-### 次 :: time (of an event); occurrence; next
+## 次 :: time (of an event); occurrence; next
 
-![](https://img.zdic.net/kai/jbh/6B21.gif)
+<img src="https://img.zdic.net/kai/jbh/6B21.gif" width="149">
 
 “May I ask, when is the next time?”
 
@@ -841,11 +841,11 @@
 
 ![](images-verysmall/HSK1_008-09-次.png)
 
-## HSK1_009
+# HSK1_009
 
-### 出 :: to come out; to go out
+## 出 :: to come out; to go out
 
-![](https://img.zdic.net/kai/jbh/51FA.gif)
+<img src="https://img.zdic.net/kai/jbh/51FA.gif" width="149">
 
 “He comes out.”
 
@@ -853,9 +853,9 @@
 
 ![](images-verysmall/HSK1_009-00-出.png)
 
-### 干 :: to do or to work
+## 干 :: to do or to work
 
-![](https://img.zdic.net/kai/jbh/5E72.gif)
+<img src="https://img.zdic.net/kai/jbh/5E72.gif" width="149">
 
 “They are working.”
 
@@ -863,9 +863,9 @@
 
 ![](images-verysmall/HSK1_009-01-干.png)
 
-### 们 :: used after pronouns or person nouns to make them plural
+## 们 :: used after pronouns or person nouns to make them plural
 
-![](https://img.zdic.net/kai/jbh/4EEC.gif)
+<img src="https://img.zdic.net/kai/jbh/4EEC.gif" width="149">
 
 “We are at school.”
 
@@ -873,9 +873,9 @@
 
 ![](images-verysmall/HSK1_009-02-们.png)
 
-### 话 :: spoken words or speech
+## 话 :: spoken words or speech
 
-![](https://img.zdic.net/kai/jbh/8BDD.gif)
+<img src="https://img.zdic.net/kai/jbh/8BDD.gif" width="149">
 
 “He can speak.”
 
@@ -883,9 +883,9 @@
 
 ![](images-verysmall/HSK1_009-03-话.png)
 
-### 东西 :: thing; object
+## 东西 :: thing; object
 
-![](https://img.zdic.net/kai/jbh/4E1C.gif) ![](https://img.zdic.net/kai/jbh/897F.gif)
+<img src="https://img.zdic.net/kai/jbh/4E1C.gif" width="149"><img src="https://img.zdic.net/kai/jbh/897F.gif" width="149">
 
 “There is a thing on the table.”
 
@@ -893,9 +893,9 @@
 
 ![](images-verysmall/HSK1_009-04-东西.png)
 
-### 孩子 :: child; kid
+## 孩子 :: child; kid
 
-![](https://img.zdic.net/kai/jbh/5B69.gif) ![](https://img.zdic.net/kai/jbh/5B50.gif)
+<img src="https://img.zdic.net/kai/jbh/5B69.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5B50.gif" width="149">
 
 “The child is at home.”
 
@@ -903,9 +903,9 @@
 
 ![](images-verysmall/HSK1_009-05-孩子.png)
 
-### 起来 :: to get up; to rise
+## 起来 :: to get up; to rise
 
-![](https://img.zdic.net/kai/jbh/8D77.gif) ![](https://img.zdic.net/kai/jbh/6765.gif)
+<img src="https://img.zdic.net/kai/jbh/8D77.gif" width="149"><img src="https://img.zdic.net/kai/jbh/6765.gif" width="149">
 
 “The student gets up.”
 
@@ -913,9 +913,9 @@
 
 ![](images-verysmall/HSK1_009-06-起来.png)
 
-### 这些 :: these (used for multiple things or people close to the speaker)
+## 这些 :: these (used for multiple things or people close to the speaker)
 
-![](https://img.zdic.net/kai/jbh/8FD9.gif) ![](https://img.zdic.net/kai/jbh/4E9B.gif)
+<img src="https://img.zdic.net/kai/jbh/8FD9.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4E9B.gif" width="149">
 
 “These books are good to read.”
 
@@ -923,9 +923,9 @@
 
 ![](images-verysmall/HSK1_009-07-这些.png)
 
-### 两 :: two
+## 两 :: two
 
-![](https://img.zdic.net/kai/jbh/4E24.gif)
+<img src="https://img.zdic.net/kai/jbh/4E24.gif" width="149">
 
 “Two students are here.”
 
@@ -933,9 +933,9 @@
 
 ![](images-verysmall/HSK1_009-08-两.png)
 
-### 小孩儿 :: child; young child (with '儿' added at the end)
+## 小孩儿 :: child; young child (with '儿' added at the end)
 
-![](https://img.zdic.net/kai/jbh/5C0F.gif) ![](https://img.zdic.net/kai/jbh/5B69.gif) ![](https://img.zdic.net/kai/jbh/513F.gif)
+<img src="https://img.zdic.net/kai/jbh/5C0F.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5B69.gif" width="149"><img src="https://img.zdic.net/kai/jbh/513F.gif" width="149">
 
 “The child is at home.”
 
@@ -943,11 +943,11 @@
 
 ![](images-verysmall/HSK1_009-09-小孩儿.png)
 
-## HSK1_010
+# HSK1_010
 
-### 错 :: wrong; incorrect
+## 错 :: wrong; incorrect
 
-![](https://img.zdic.net/kai/jbh/9519.gif)
+<img src="https://img.zdic.net/kai/jbh/9519.gif" width="149">
 
 “This is not right, it is wrong.”
 
@@ -955,9 +955,9 @@
 
 ![](images-verysmall/HSK1_010-00-错.png)
 
-### 还有 :: also; in addition
+## 还有 :: also; in addition
 
-![](https://img.zdic.net/kai/jbh/8FD8.gif) ![](https://img.zdic.net/kai/jbh/6709.gif)
+<img src="https://img.zdic.net/kai/jbh/8FD8.gif" width="149"><img src="https://img.zdic.net/kai/jbh/6709.gif" width="149">
 
 “I have rice, and also water.”
 
@@ -965,9 +965,9 @@
 
 ![](images-verysmall/HSK1_010-01-还有.png)
 
-### 小 :: small or little
+## 小 :: small or little
 
-![](https://img.zdic.net/kai/jbh/5C0F.gif)
+<img src="https://img.zdic.net/kai/jbh/5C0F.gif" width="149">
 
 “The small girl is at home.”
 
@@ -975,9 +975,9 @@
 
 ![](images-verysmall/HSK1_010-02-小.png)
 
-### 中 :: center; middle
+## 中 :: center; middle
 
-![](https://img.zdic.net/kai/jbh/4E2D.gif)
+<img src="https://img.zdic.net/kai/jbh/4E2D.gif" width="149">
 
 “I am in the center.”
 
@@ -985,9 +985,9 @@
 
 ![](images-verysmall/HSK1_010-03-中.png)
 
-### 叫 :: to be called; to have as a name
+## 叫 :: to be called; to have as a name
 
-![](https://img.zdic.net/kai/jbh/53EB.gif)
+<img src="https://img.zdic.net/kai/jbh/53EB.gif" width="149">
 
 “She is called little friend.”
 
@@ -995,9 +995,9 @@
 
 ![](images-verysmall/HSK1_010-04-叫.png)
 
-### 等 :: and so on; etc.
+## 等 :: and so on; etc.
 
-![](https://img.zdic.net/kai/jbh/7B49.gif)
+<img src="https://img.zdic.net/kai/jbh/7B49.gif" width="149">
 
 “I have bread, milk, and so on.”
 
@@ -1005,9 +1005,9 @@
 
 ![](images-verysmall/HSK1_010-05-等.png)
 
-### 一起 :: together; at the same time
+## 一起 :: together; at the same time
 
-![](https://img.zdic.net/kai/jbh/4E00.gif) ![](https://img.zdic.net/kai/jbh/8D77.gif)
+<img src="https://img.zdic.net/kai/jbh/4E00.gif" width="149"><img src="https://img.zdic.net/kai/jbh/8D77.gif" width="149">
 
 “We walk together.”
 
@@ -1015,9 +1015,9 @@
 
 ![](images-verysmall/HSK1_010-06-一起.png)
 
-### 拿 :: to take or hold something
+## 拿 :: to take or hold something
 
-![](https://img.zdic.net/kai/jbh/62FF.gif)
+<img src="https://img.zdic.net/kai/jbh/62FF.gif" width="149">
 
 “I take (hold) the cup.”
 
@@ -1025,9 +1025,9 @@
 
 ![](images-verysmall/HSK1_010-07-拿.png)
 
-### 帮 :: to help
+## 帮 :: to help
 
-![](https://img.zdic.net/kai/jbh/5E2E.gif)
+<img src="https://img.zdic.net/kai/jbh/5E2E.gif" width="149">
 
 “I help you.”
 
@@ -1035,9 +1035,9 @@
 
 ![](images-verysmall/HSK1_010-08-帮.png)
 
-### 打 :: to hit, to strike, or to play (by hitting)
+## 打 :: to hit, to strike, or to play (by hitting)
 
-![](https://img.zdic.net/kai/jbh/6253.gif)
+<img src="https://img.zdic.net/kai/jbh/6253.gif" width="149">
 
 “He plays ball.”
 
@@ -1045,11 +1045,11 @@
 
 ![](images-verysmall/HSK1_010-09-打.png)
 
-## HSK1_011
+# HSK1_011
 
-### 爱 :: to love or like
+## 爱 :: to love or like
 
-![](https://img.zdic.net/kai/jbh/7231.gif)
+<img src="https://img.zdic.net/kai/jbh/7231.gif" width="149">
 
 “I love mom.”
 
@@ -1057,9 +1057,9 @@
 
 ![](images-verysmall/HSK1_011-00-爱.png)
 
-### 时间 :: time; a period or moment
+## 时间 :: time; a period or moment
 
-![](https://img.zdic.net/kai/jbh/65F6.gif) ![](https://img.zdic.net/kai/jbh/95F4.gif)
+<img src="https://img.zdic.net/kai/jbh/65F6.gif" width="149"><img src="https://img.zdic.net/kai/jbh/95F4.gif" width="149">
 
 “Time is important.”
 
@@ -1067,9 +1067,9 @@
 
 ![](images-verysmall/HSK1_011-01-时间.png)
 
-### 年 :: year
+## 年 :: year
 
-![](https://img.zdic.net/kai/jbh/5E74.gif)
+<img src="https://img.zdic.net/kai/jbh/5E74.gif" width="149">
 
 “Today is one year.”
 
@@ -1077,9 +1077,9 @@
 
 ![](images-verysmall/HSK1_011-02-年.png)
 
-### 请 :: please; to ask or invite someone politely
+## 请 :: please; to ask or invite someone politely
 
-![](https://img.zdic.net/kai/jbh/8BF7.gif)
+<img src="https://img.zdic.net/kai/jbh/8BF7.gif" width="149">
 
 “Please sit.”
 
@@ -1087,9 +1087,9 @@
 
 ![](images-verysmall/HSK1_011-03-请.png)
 
-### 回 :: to return; to go back
+## 回 :: to return; to go back
 
-![](https://img.zdic.net/kai/jbh/56DE.gif)
+<img src="https://img.zdic.net/kai/jbh/56DE.gif" width="149">
 
 “I go home.”
 
@@ -1097,9 +1097,9 @@
 
 ![](images-verysmall/HSK1_011-04-回.png)
 
-### 工作 :: work; job
+## 工作 :: work; job
 
-![](https://img.zdic.net/kai/jbh/5DE5.gif) ![](https://img.zdic.net/kai/jbh/4F5C.gif)
+<img src="https://img.zdic.net/kai/jbh/5DE5.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4F5C.gif" width="149">
 
 “He likes work.”
 
@@ -1107,9 +1107,9 @@
 
 ![](images-verysmall/HSK1_011-05-工作.png)
 
-### 见 :: to see or meet someone
+## 见 :: to see or meet someone
 
-![](https://img.zdic.net/kai/jbh/89C1.gif)
+<img src="https://img.zdic.net/kai/jbh/89C1.gif" width="149">
 
 “I see her.”
 
@@ -1117,9 +1117,9 @@
 
 ![](images-verysmall/HSK1_011-06-见.png)
 
-### 钱 :: money; cash
+## 钱 :: money; cash
 
-![](https://img.zdic.net/kai/jbh/94B1.gif)
+<img src="https://img.zdic.net/kai/jbh/94B1.gif" width="149">
 
 “I have money.”
 
@@ -1127,9 +1127,9 @@
 
 ![](images-verysmall/HSK1_011-07-钱.png)
 
-### 一样 :: same; alike
+## 一样 :: same; alike
 
-![](https://img.zdic.net/kai/jbh/4E00.gif) ![](https://img.zdic.net/kai/jbh/6837.gif)
+<img src="https://img.zdic.net/kai/jbh/4E00.gif" width="149"><img src="https://img.zdic.net/kai/jbh/6837.gif" width="149">
 
 “The two bags are the same.”
 
@@ -1137,9 +1137,9 @@
 
 ![](images-verysmall/HSK1_011-08-一样.png)
 
-### 吃 :: to eat; to have food or a meal
+## 吃 :: to eat; to have food or a meal
 
-![](https://img.zdic.net/kai/jbh/5403.gif)
+<img src="https://img.zdic.net/kai/jbh/5403.gif" width="149">
 
 “They are eating a meal.”
 
@@ -1147,11 +1147,11 @@
 
 ![](images-verysmall/HSK1_011-09-吃.png)
 
-## HSK1_012
+# HSK1_012
 
-### 开 :: to open or turn on
+## 开 :: to open or turn on
 
-![](https://img.zdic.net/kai/jbh/5F00.gif)
+<img src="https://img.zdic.net/kai/jbh/5F00.gif" width="149">
 
 “Turn on the TV.”
 
@@ -1159,9 +1159,9 @@
 
 ![](images-verysmall/HSK1_012-00-开.png)
 
-### 家 :: home or family
+## 家 :: home or family
 
-![](https://img.zdic.net/kai/jbh/5BB6.gif)
+<img src="https://img.zdic.net/kai/jbh/5BB6.gif" width="149">
 
 “We are at home.”
 
@@ -1169,9 +1169,9 @@
 
 ![](images-verysmall/HSK1_012-01-家.png)
 
-### 非常 :: very; extremely
+## 非常 :: very; extremely
 
-![](https://img.zdic.net/kai/jbh/975E.gif) ![](https://img.zdic.net/kai/jbh/5E38.gif)
+<img src="https://img.zdic.net/kai/jbh/975E.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5E38.gif" width="149">
 
 “This movie is very good to watch.”
 
@@ -1179,9 +1179,9 @@
 
 ![](images-verysmall/HSK1_012-02-非常.png)
 
-### 看到 :: to see; to catch sight of
+## 看到 :: to see; to catch sight of
 
-![](https://img.zdic.net/kai/jbh/770B.gif) ![](https://img.zdic.net/kai/jbh/5230.gif)
+<img src="https://img.zdic.net/kai/jbh/770B.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5230.gif" width="149">
 
 “I see her.”
 
@@ -1189,9 +1189,9 @@
 
 ![](images-verysmall/HSK1_012-03-看到.png)
 
-### 那些 :: those (refers to several people or things far from the speaker)
+## 那些 :: those (refers to several people or things far from the speaker)
 
-![](https://img.zdic.net/kai/jbh/90A3.gif) ![](https://img.zdic.net/kai/jbh/4E9B.gif)
+<img src="https://img.zdic.net/kai/jbh/90A3.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4E9B.gif" width="149">
 
 “Those students are at the school.”
 
@@ -1199,9 +1199,9 @@
 
 ![](images-verysmall/HSK1_012-04-那些.png)
 
-### 哪 :: which (used to ask about one or more from a group)
+## 哪 :: which (used to ask about one or more from a group)
 
-![](https://img.zdic.net/kai/jbh/54EA.gif)
+<img src="https://img.zdic.net/kai/jbh/54EA.gif" width="149">
 
 “Which book is good?”
 
@@ -1209,9 +1209,9 @@
 
 ![](images-verysmall/HSK1_012-05-哪.png)
 
-### 行 :: to go; OK; to travel
+## 行 :: to go; OK; to travel
 
-![](https://img.zdic.net/kai/jbh/884C.gif)
+<img src="https://img.zdic.net/kai/jbh/884C.gif" width="149">
 
 “We go together.”
 
@@ -1219,9 +1219,9 @@
 
 ![](images-verysmall/HSK1_012-06-行.png)
 
-### 朋友 :: friend
+## 朋友 :: friend
 
-![](https://img.zdic.net/kai/jbh/670B.gif) ![](https://img.zdic.net/kai/jbh/53CB.gif)
+<img src="https://img.zdic.net/kai/jbh/670B.gif" width="149"><img src="https://img.zdic.net/kai/jbh/53CB.gif" width="149">
 
 “A friend is here.”
 
@@ -1229,9 +1229,9 @@
 
 ![](images-verysmall/HSK1_012-07-朋友.png)
 
-### 妈妈 :: mother; mom
+## 妈妈 :: mother; mom
 
-![](https://img.zdic.net/kai/jbh/5988.gif) ![](https://img.zdic.net/kai/jbh/5988.gif)
+<img src="https://img.zdic.net/kai/jbh/5988.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5988.gif" width="149">
 
 “Mother is at home.”
 
@@ -1239,9 +1239,9 @@
 
 ![](images-verysmall/HSK1_012-08-妈妈.png)
 
-### 前 :: the front; the area ahead or in front
+## 前 :: the front; the area ahead or in front
 
-![](https://img.zdic.net/kai/jbh/524D.gif)
+<img src="https://img.zdic.net/kai/jbh/524D.gif" width="149">
 
 “There is a girl at the front.”
 
@@ -1249,11 +1249,11 @@
 
 ![](images-verysmall/HSK1_012-09-前.png)
 
-## HSK1_013
+# HSK1_013
 
-### 这儿 :: here; this place
+## 这儿 :: here; this place
 
-![](https://img.zdic.net/kai/jbh/8FD9.gif) ![](https://img.zdic.net/kai/jbh/513F.gif)
+<img src="https://img.zdic.net/kai/jbh/8FD9.gif" width="149"><img src="https://img.zdic.net/kai/jbh/513F.gif" width="149">
 
 “I am here.”
 
@@ -1261,9 +1261,9 @@
 
 ![](images-verysmall/HSK1_013-00-这儿.png)
 
-### 今天 :: today
+## 今天 :: today
 
-![](https://img.zdic.net/kai/jbh/4ECA.gif) ![](https://img.zdic.net/kai/jbh/5929.gif)
+<img src="https://img.zdic.net/kai/jbh/4ECA.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5929.gif" width="149">
 
 “Today is good.”
 
@@ -1271,9 +1271,9 @@
 
 ![](images-verysmall/HSK1_013-01-今天.png)
 
-### 明白 :: to understand; to know clearly
+## 明白 :: to understand; to know clearly
 
-![](https://img.zdic.net/kai/jbh/660E.gif) ![](https://img.zdic.net/kai/jbh/767D.gif)
+<img src="https://img.zdic.net/kai/jbh/660E.gif" width="149"><img src="https://img.zdic.net/kai/jbh/767D.gif" width="149">
 
 “I understand.”
 
@@ -1281,9 +1281,9 @@
 
 ![](images-verysmall/HSK1_013-02-明白.png)
 
-### 车 :: car; vehicle
+## 车 :: car; vehicle
 
-![](https://img.zdic.net/kai/jbh/8F66.gif)
+<img src="https://img.zdic.net/kai/jbh/8F66.gif" width="149">
 
 “The car is big.”
 
@@ -1291,9 +1291,9 @@
 
 ![](images-verysmall/HSK1_013-03-车.png)
 
-### 地方 :: place; area; space; location
+## 地方 :: place; area; space; location
 
-![](https://img.zdic.net/kai/jbh/5730.gif) ![](https://img.zdic.net/kai/jbh/65B9.gif)
+<img src="https://img.zdic.net/kai/jbh/5730.gif" width="149"><img src="https://img.zdic.net/kai/jbh/65B9.gif" width="149">
 
 “This is a place.”
 
@@ -1301,9 +1301,9 @@
 
 ![](images-verysmall/HSK1_013-04-地方.png)
 
-### 几 :: how many; a few
+## 几 :: how many; a few
 
-![](https://img.zdic.net/kai/jbh/51E0.gif)
+<img src="https://img.zdic.net/kai/jbh/51E0.gif" width="149">
 
 “A few students are sitting at the table.”
 
@@ -1311,9 +1311,9 @@
 
 ![](images-verysmall/HSK1_013-05-几.png)
 
-### 回来 :: to come back; to return
+## 回来 :: to come back; to return
 
-![](https://img.zdic.net/kai/jbh/56DE.gif) ![](https://img.zdic.net/kai/jbh/6765.gif)
+<img src="https://img.zdic.net/kai/jbh/56DE.gif" width="149"><img src="https://img.zdic.net/kai/jbh/6765.gif" width="149">
 
 “The student comes back.”
 
@@ -1321,9 +1321,9 @@
 
 ![](images-verysmall/HSK1_013-06-回来.png)
 
-### 准备 :: to get ready; to prepare
+## 准备 :: to get ready; to prepare
 
-![](https://img.zdic.net/kai/jbh/51C6.gif) ![](https://img.zdic.net/kai/jbh/5907.gif)
+<img src="https://img.zdic.net/kai/jbh/51C6.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5907.gif" width="149">
 
 “I get ready for the exam.”
 
@@ -1331,9 +1331,9 @@
 
 ![](images-verysmall/HSK1_013-07-准备.png)
 
-### 找到 :: to find
+## 找到 :: to find
 
-![](https://img.zdic.net/kai/jbh/627E.gif) ![](https://img.zdic.net/kai/jbh/5230.gif)
+<img src="https://img.zdic.net/kai/jbh/627E.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5230.gif" width="149">
 
 “I found money.”
 
@@ -1341,9 +1341,9 @@
 
 ![](images-verysmall/HSK1_013-08-找到.png)
 
-### 后 :: at the back; behind
+## 后 :: at the back; behind
 
-![](https://img.zdic.net/kai/jbh/540E.gif)
+<img src="https://img.zdic.net/kai/jbh/540E.gif" width="149">
 
 “The car is at the back.”
 
@@ -1351,11 +1351,11 @@
 
 ![](images-verysmall/HSK1_013-09-后.png)
 
-## HSK1_014
+# HSK1_014
 
-### 爸爸 :: father; dad; papa
+## 爸爸 :: father; dad; papa
 
-![](https://img.zdic.net/kai/jbh/7238.gif) ![](https://img.zdic.net/kai/jbh/7238.gif)
+<img src="https://img.zdic.net/kai/jbh/7238.gif" width="149"><img src="https://img.zdic.net/kai/jbh/7238.gif" width="149">
 
 “Dad is at home.”
 
@@ -1363,9 +1363,9 @@
 
 ![](images-verysmall/HSK1_014-00-爸爸.png)
 
-### 比 :: to compare
+## 比 :: to compare
 
-![](https://img.zdic.net/kai/jbh/6BD4.gif)
+<img src="https://img.zdic.net/kai/jbh/6BD4.gif" width="149">
 
 “I am taller than him.”
 
@@ -1373,9 +1373,9 @@
 
 ![](images-verysmall/HSK1_014-01-比.png)
 
-### 出来 :: come out; to emerge from inside to outside
+## 出来 :: come out; to emerge from inside to outside
 
-![](https://img.zdic.net/kai/jbh/51FA.gif) ![](https://img.zdic.net/kai/jbh/6765.gif)
+<img src="https://img.zdic.net/kai/jbh/51FA.gif" width="149"><img src="https://img.zdic.net/kai/jbh/6765.gif" width="149">
 
 “The child comes out.”
 
@@ -1383,9 +1383,9 @@
 
 ![](images-verysmall/HSK1_014-02-出来.png)
 
-### 对不起 :: I'm sorry; excuse me.
+## 对不起 :: I'm sorry; excuse me.
 
-![](https://img.zdic.net/kai/jbh/5BF9.gif) ![](https://img.zdic.net/kai/jbh/4E0D.gif) ![](https://img.zdic.net/kai/jbh/8D77.gif)
+<img src="https://img.zdic.net/kai/jbh/5BF9.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4E0D.gif" width="149"><img src="https://img.zdic.net/kai/jbh/8D77.gif" width="149">
 
 “Sorry, I came late.”
 
@@ -1393,9 +1393,9 @@
 
 ![](images-verysmall/HSK1_014-03-对不起.png)
 
-### 问 :: to ask a question
+## 问 :: to ask a question
 
-![](https://img.zdic.net/kai/jbh/95EE.gif)
+<img src="https://img.zdic.net/kai/jbh/95EE.gif" width="149">
 
 “I ask you.”
 
@@ -1403,9 +1403,9 @@
 
 ![](images-verysmall/HSK1_014-04-问.png)
 
-### 起 :: (a verb, meaning 'to rise' or 'to get up')
+## 起 :: (a verb, meaning 'to rise' or 'to get up')
 
-![](https://img.zdic.net/kai/jbh/8D77.gif)
+<img src="https://img.zdic.net/kai/jbh/8D77.gif" width="149">
 
 “The schoolchild rises.”
 
@@ -1413,9 +1413,9 @@
 
 ![](images-verysmall/HSK1_014-05-起.png)
 
-### 还是 :: still; or (expressing a choice between options)
+## 还是 :: still; or (expressing a choice between options)
 
-![](https://img.zdic.net/kai/jbh/8FD8.gif) ![](https://img.zdic.net/kai/jbh/662F.gif)
+<img src="https://img.zdic.net/kai/jbh/8FD8.gif" width="149"><img src="https://img.zdic.net/kai/jbh/662F.gif" width="149">
 
 “Still drink water.”
 
@@ -1423,9 +1423,9 @@
 
 ![](images-verysmall/HSK1_014-06-还是.png)
 
-### 住 :: to live (in a place); to stay; to reside
+## 住 :: to live (in a place); to stay; to reside
 
-![](https://img.zdic.net/kai/jbh/4F4F.gif)
+<img src="https://img.zdic.net/kai/jbh/4F4F.gif" width="149">
 
 “He lives in the house.”
 
@@ -1433,9 +1433,9 @@
 
 ![](images-verysmall/HSK1_014-07-住.png)
 
-### 正 :: exactly; right on time
+## 正 :: exactly; right on time
 
-![](https://img.zdic.net/kai/jbh/6B63.gif)
+<img src="https://img.zdic.net/kai/jbh/6B63.gif" width="149">
 
 “It is raining right now.”
 
@@ -1443,9 +1443,9 @@
 
 ![](images-verysmall/HSK1_014-08-正.png)
 
-### 放 :: to put, to place, or to set down something
+## 放 :: to put, to place, or to set down something
 
-![](https://img.zdic.net/kai/jbh/653E.gif)
+<img src="https://img.zdic.net/kai/jbh/653E.gif" width="149">
 
 “I put the book on the table.”
 
@@ -1453,11 +1453,11 @@
 
 ![](images-verysmall/HSK1_014-09-放.png)
 
-## HSK1_015
+# HSK1_015
 
-### 请坐 :: Please have a seat.
+## 请坐 :: Please have a seat.
 
-![](https://img.zdic.net/kai/jbh/8BF7.gif) ![](https://img.zdic.net/kai/jbh/5750.gif)
+<img src="https://img.zdic.net/kai/jbh/8BF7.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5750.gif" width="149">
 
 “Please sit.”
 
@@ -1465,9 +1465,9 @@
 
 ![](images-verysmall/HSK1_015-00-请坐.png)
 
-### 电话 :: telephone; phone call
+## 电话 :: telephone; phone call
 
-![](https://img.zdic.net/kai/jbh/7535.gif) ![](https://img.zdic.net/kai/jbh/8BDD.gif)
+<img src="https://img.zdic.net/kai/jbh/7535.gif" width="149"><img src="https://img.zdic.net/kai/jbh/8BDD.gif" width="149">
 
 “I have a telephone.”
 
@@ -1475,9 +1475,9 @@
 
 ![](images-verysmall/HSK1_015-01-电话.png)
 
-### 地 :: ground; place; land
+## 地 :: ground; place; land
 
-![](https://img.zdic.net/kai/jbh/5730.gif)
+<img src="https://img.zdic.net/kai/jbh/5730.gif" width="149">
 
 “We are on the ground.”
 
@@ -1485,9 +1485,9 @@
 
 ![](images-verysmall/HSK1_015-02-地.png)
 
-### 进 :: to enter or go in
+## 进 :: to enter or go in
 
-![](https://img.zdic.net/kai/jbh/8FDB.gif)
+<img src="https://img.zdic.net/kai/jbh/8FDB.gif" width="149">
 
 “We enter the house.”
 
@@ -1495,9 +1495,9 @@
 
 ![](images-verysmall/HSK1_015-03-进.png)
 
-### 新 :: new
+## 新 :: new
 
-![](https://img.zdic.net/kai/jbh/65B0.gif)
+<img src="https://img.zdic.net/kai/jbh/65B0.gif" width="149">
 
 “We have new textbooks.”
 
@@ -1505,9 +1505,9 @@
 
 ![](images-verysmall/HSK1_015-04-新.png)
 
-### 您 :: you (polite form)
+## 您 :: you (polite form)
 
-![](https://img.zdic.net/kai/jbh/60A8.gif)
+<img src="https://img.zdic.net/kai/jbh/60A8.gif" width="149">
 
 “You are at home.”
 
@@ -1515,9 +1515,9 @@
 
 ![](images-verysmall/HSK1_015-05-您.png)
 
-### 一些 :: some; a few
+## 一些 :: some; a few
 
-![](https://img.zdic.net/kai/jbh/4E00.gif) ![](https://img.zdic.net/kai/jbh/4E9B.gif)
+<img src="https://img.zdic.net/kai/jbh/4E00.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4E9B.gif" width="149">
 
 “There are some buns here.”
 
@@ -1525,9 +1525,9 @@
 
 ![](images-verysmall/HSK1_015-06-一些.png)
 
-### 三 :: three (the number 3)
+## 三 :: three (the number 3)
 
-![](https://img.zdic.net/kai/jbh/4E09.gif)
+<img src="https://img.zdic.net/kai/jbh/4E09.gif" width="149">
 
 “Three people are at the school.”
 
@@ -1535,9 +1535,9 @@
 
 ![](images-verysmall/HSK1_015-07-三.png)
 
-### 那里 :: that place
+## 那里 :: that place
 
-![](https://img.zdic.net/kai/jbh/90A3.gif) ![](https://img.zdic.net/kai/jbh/91CC.gif)
+<img src="https://img.zdic.net/kai/jbh/90A3.gif" width="149"><img src="https://img.zdic.net/kai/jbh/91CC.gif" width="149">
 
 “There is a restaurant there.”
 
@@ -1545,9 +1545,9 @@
 
 ![](images-verysmall/HSK1_015-08-那里.png)
 
-### 高兴 :: happy; glad
+## 高兴 :: happy; glad
 
-![](https://img.zdic.net/kai/jbh/9AD8.gif) ![](https://img.zdic.net/kai/jbh/5174.gif)
+<img src="https://img.zdic.net/kai/jbh/9AD8.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5174.gif" width="149">
 
 “I am very happy.”
 
@@ -1555,11 +1555,11 @@
 
 ![](images-verysmall/HSK1_015-09-高兴.png)
 
-## HSK1_016
+# HSK1_016
 
-### 老 :: old; elderly (used for people or things)
+## 老 :: old; elderly (used for people or things)
 
-![](https://img.zdic.net/kai/jbh/8001.gif)
+<img src="https://img.zdic.net/kai/jbh/8001.gif" width="149">
 
 “The elderly person sits next to the table.”
 
@@ -1567,9 +1567,9 @@
 
 ![](images-verysmall/HSK1_016-00-老.png)
 
-### 先 :: earlier; first; before others
+## 先 :: earlier; first; before others
 
-![](https://img.zdic.net/kai/jbh/5148.gif)
+<img src="https://img.zdic.net/kai/jbh/5148.gif" width="149">
 
 “Come first.”
 
@@ -1577,9 +1577,9 @@
 
 ![](images-verysmall/HSK1_016-01-先.png)
 
-### 买 :: to buy or purchase
+## 买 :: to buy or purchase
 
-![](https://img.zdic.net/kai/jbh/4E70.gif)
+<img src="https://img.zdic.net/kai/jbh/4E70.gif" width="149">
 
 “I bought fruit.”
 
@@ -1587,9 +1587,9 @@
 
 ![](images-verysmall/HSK1_016-02-买.png)
 
-### 医生 :: doctor; a person who treats sick people
+## 医生 :: doctor; a person who treats sick people
 
-![](https://img.zdic.net/kai/jbh/533B.gif) ![](https://img.zdic.net/kai/jbh/751F.gif)
+<img src="https://img.zdic.net/kai/jbh/533B.gif" width="149"><img src="https://img.zdic.net/kai/jbh/751F.gif" width="149">
 
 “The doctor is at home.”
 
@@ -1597,9 +1597,9 @@
 
 ![](images-verysmall/HSK1_016-03-医生.png)
 
-### 最后 :: final; last; at the end
+## 最后 :: final; last; at the end
 
-![](https://img.zdic.net/kai/jbh/6700.gif) ![](https://img.zdic.net/kai/jbh/540E.gif)
+<img src="https://img.zdic.net/kai/jbh/6700.gif" width="149"><img src="https://img.zdic.net/kai/jbh/540E.gif" width="149">
 
 “Eat at the end.”
 
@@ -1607,9 +1607,9 @@
 
 ![](images-verysmall/HSK1_016-04-最后.png)
 
-### 手 :: hand
+## 手 :: hand
 
-![](https://img.zdic.net/kai/jbh/624B.gif)
+<img src="https://img.zdic.net/kai/jbh/624B.gif" width="149">
 
 “He has a hand.”
 
@@ -1617,9 +1617,9 @@
 
 ![](images-verysmall/HSK1_016-05-手.png)
 
-### 哪儿 :: where (used to ask about a place or location)
+## 哪儿 :: where (used to ask about a place or location)
 
-![](https://img.zdic.net/kai/jbh/54EA.gif) ![](https://img.zdic.net/kai/jbh/513F.gif)
+<img src="https://img.zdic.net/kai/jbh/54EA.gif" width="149"><img src="https://img.zdic.net/kai/jbh/513F.gif" width="149">
 
 “Where is the money?”
 
@@ -1627,9 +1627,9 @@
 
 ![](images-verysmall/HSK1_016-06-哪儿.png)
 
-### 女人 :: an adult female person; woman
+## 女人 :: an adult female person; woman
 
-![](https://img.zdic.net/kai/jbh/5973.gif) ![](https://img.zdic.net/kai/jbh/4EBA.gif)
+<img src="https://img.zdic.net/kai/jbh/5973.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4EBA.gif" width="149">
 
 “The woman is at home.”
 
@@ -1637,9 +1637,9 @@
 
 ![](images-verysmall/HSK1_016-07-女人.png)
 
-### 名字 :: name; a person's name
+## 名字 :: name; a person's name
 
-![](https://img.zdic.net/kai/jbh/540D.gif) ![](https://img.zdic.net/kai/jbh/5B57.gif)
+<img src="https://img.zdic.net/kai/jbh/540D.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5B57.gif" width="149">
 
 “Her name is Xiao.”
 
@@ -1647,9 +1647,9 @@
 
 ![](images-verysmall/HSK1_016-08-名字.png)
 
-### 认识 :: to know or recognize (someone or something)
+## 认识 :: to know or recognize (someone or something)
 
-![](https://img.zdic.net/kai/jbh/8BA4.gif) ![](https://img.zdic.net/kai/jbh/8BC6.gif)
+<img src="https://img.zdic.net/kai/jbh/8BA4.gif" width="149"><img src="https://img.zdic.net/kai/jbh/8BC6.gif" width="149">
 
 “I know him.”
 
@@ -1657,11 +1657,11 @@
 
 ![](images-verysmall/HSK1_016-09-认识.png)
 
-## HSK1_017
+# HSK1_017
 
-### 坐 :: to sit
+## 坐 :: to sit
 
-![](https://img.zdic.net/kai/jbh/5750.gif)
+<img src="https://img.zdic.net/kai/jbh/5750.gif" width="149">
 
 “We sit together.”
 
@@ -1669,9 +1669,9 @@
 
 ![](images-verysmall/HSK1_017-00-坐.png)
 
-### 喝 :: to drink
+## 喝 :: to drink
 
-![](https://img.zdic.net/kai/jbh/559D.gif)
+<img src="https://img.zdic.net/kai/jbh/559D.gif" width="149">
 
 “I drink water.”
 
@@ -1679,9 +1679,9 @@
 
 ![](images-verysmall/HSK1_017-01-喝.png)
 
-### 记得 :: to remember; to recall
+## 记得 :: to remember; to recall
 
-![](https://img.zdic.net/kai/jbh/8BB0.gif) ![](https://img.zdic.net/kai/jbh/5F97.gif)
+<img src="https://img.zdic.net/kai/jbh/8BB0.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5F97.gif" width="149">
 
 “I remember her.”
 
@@ -1689,9 +1689,9 @@
 
 ![](images-verysmall/HSK1_017-02-记得.png)
 
-### 写 :: to write
+## 写 :: to write
 
-![](https://img.zdic.net/kai/jbh/5199.gif)
+<img src="https://img.zdic.net/kai/jbh/5199.gif" width="149">
 
 “I write.”
 
@@ -1699,9 +1699,9 @@
 
 ![](images-verysmall/HSK1_017-03-写.png)
 
-### 穿 :: to wear or put on (clothes)
+## 穿 :: to wear or put on (clothes)
 
-![](https://img.zdic.net/kai/jbh/7A7F.gif)
+<img src="https://img.zdic.net/kai/jbh/7A7F.gif" width="149">
 
 “She puts on clothes.”
 
@@ -1709,9 +1709,9 @@
 
 ![](images-verysmall/HSK1_017-04-穿.png)
 
-### 哪里 :: where
+## 哪里 :: where
 
-![](https://img.zdic.net/kai/jbh/54EA.gif) ![](https://img.zdic.net/kai/jbh/91CC.gif)
+<img src="https://img.zdic.net/kai/jbh/54EA.gif" width="149"><img src="https://img.zdic.net/kai/jbh/91CC.gif" width="149">
 
 “Where are you going?”
 
@@ -1719,9 +1719,9 @@
 
 ![](images-verysmall/HSK1_017-05-哪里.png)
 
-### 送 :: to give as a present, to deliver, or to see someone off
+## 送 :: to give as a present, to deliver, or to see someone off
 
-![](https://img.zdic.net/kai/jbh/9001.gif)
+<img src="https://img.zdic.net/kai/jbh/9001.gif" width="149">
 
 “I walk him home.”
 
@@ -1729,9 +1729,9 @@
 
 ![](images-verysmall/HSK1_017-06-送.png)
 
-### 跑 :: to run or move quickly on foot
+## 跑 :: to run or move quickly on foot
 
-![](https://img.zdic.net/kai/jbh/8DD1.gif)
+<img src="https://img.zdic.net/kai/jbh/8DD1.gif" width="149">
 
 “The primary school student runs.”
 
@@ -1739,9 +1739,9 @@
 
 ![](images-verysmall/HSK1_017-07-跑.png)
 
-### 月 :: moon
+## 月 :: moon
 
-![](https://img.zdic.net/kai/jbh/6708.gif)
+<img src="https://img.zdic.net/kai/jbh/6708.gif" width="149">
 
 “There is a moon at night.”
 
@@ -1749,9 +1749,9 @@
 
 ![](images-verysmall/HSK1_017-08-月.png)
 
-### 早 :: early; before the usual time
+## 早 :: early; before the usual time
 
-![](https://img.zdic.net/kai/jbh/65E9.gif)
+<img src="https://img.zdic.net/kai/jbh/65E9.gif" width="149">
 
 “He studies in the early morning.”
 
@@ -1759,11 +1759,11 @@
 
 ![](images-verysmall/HSK1_017-09-早.png)
 
-## HSK1_018
+# HSK1_018
 
-### 号 :: used for numbers, dates, or numbers in a list
+## 号 :: used for numbers, dates, or numbers in a list
 
-![](https://img.zdic.net/kai/jbh/53F7.gif)
+<img src="https://img.zdic.net/kai/jbh/53F7.gif" width="149">
 
 “Today is the 3rd.”
 
@@ -1771,9 +1771,9 @@
 
 ![](images-verysmall/HSK1_018-00-号.png)
 
-### 小时 :: hour (a unit of time equal to 60 minutes)
+## 小时 :: hour (a unit of time equal to 60 minutes)
 
-![](https://img.zdic.net/kai/jbh/5C0F.gif) ![](https://img.zdic.net/kai/jbh/65F6.gif)
+<img src="https://img.zdic.net/kai/jbh/5C0F.gif" width="149"><img src="https://img.zdic.net/kai/jbh/65F6.gif" width="149">
 
 “I have one hour.”
 
@@ -1781,9 +1781,9 @@
 
 ![](images-verysmall/HSK1_018-01-小时.png)
 
-### 重要 :: important
+## 重要 :: important
 
-![](https://img.zdic.net/kai/jbh/91CD.gif) ![](https://img.zdic.net/kai/jbh/8981.gif)
+<img src="https://img.zdic.net/kai/jbh/91CD.gif" width="149"><img src="https://img.zdic.net/kai/jbh/8981.gif" width="149">
 
 “This is important.”
 
@@ -1791,9 +1791,9 @@
 
 ![](images-verysmall/HSK1_018-02-重要.png)
 
-### 别人 :: other people
+## 别人 :: other people
 
-![](https://img.zdic.net/kai/jbh/522B.gif) ![](https://img.zdic.net/kai/jbh/4EBA.gif)
+<img src="https://img.zdic.net/kai/jbh/522B.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4EBA.gif" width="149">
 
 “There are other people here.”
 
@@ -1801,9 +1801,9 @@
 
 ![](images-verysmall/HSK1_018-03-别人.png)
 
-### 男人 :: man; adult male
+## 男人 :: man; adult male
 
-![](https://img.zdic.net/kai/jbh/7537.gif) ![](https://img.zdic.net/kai/jbh/4EBA.gif)
+<img src="https://img.zdic.net/kai/jbh/7537.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4EBA.gif" width="149">
 
 “The man is at home.”
 
@@ -1811,9 +1811,9 @@
 
 ![](images-verysmall/HSK1_018-04-男人.png)
 
-### 岁 :: year of age
+## 岁 :: year of age
 
-![](https://img.zdic.net/kai/jbh/5C81.gif)
+<img src="https://img.zdic.net/kai/jbh/5C81.gif" width="149">
 
 “He is seven years old.”
 
@@ -1821,9 +1821,9 @@
 
 ![](images-verysmall/HSK1_018-05-岁.png)
 
-### 出去 :: to go out; to leave (a place)
+## 出去 :: to go out; to leave (a place)
 
-![](https://img.zdic.net/kai/jbh/51FA.gif) ![](https://img.zdic.net/kai/jbh/53BB.gif)
+<img src="https://img.zdic.net/kai/jbh/51FA.gif" width="149"><img src="https://img.zdic.net/kai/jbh/53BB.gif" width="149">
 
 “I go out.”
 
@@ -1831,9 +1831,9 @@
 
 ![](images-verysmall/HSK1_018-06-出去.png)
 
-### 看见 :: to see; to catch sight of
+## 看见 :: to see; to catch sight of
 
-![](https://img.zdic.net/kai/jbh/770B.gif) ![](https://img.zdic.net/kai/jbh/89C1.gif)
+<img src="https://img.zdic.net/kai/jbh/770B.gif" width="149"><img src="https://img.zdic.net/kai/jbh/89C1.gif" width="149">
 
 “I see you.”
 
@@ -1841,9 +1841,9 @@
 
 ![](images-verysmall/HSK1_018-07-看见.png)
 
-### 打电话 :: to make a phone call
+## 打电话 :: to make a phone call
 
-![](https://img.zdic.net/kai/jbh/6253.gif) ![](https://img.zdic.net/kai/jbh/7535.gif) ![](https://img.zdic.net/kai/jbh/8BDD.gif)
+<img src="https://img.zdic.net/kai/jbh/6253.gif" width="149"><img src="https://img.zdic.net/kai/jbh/7535.gif" width="149"><img src="https://img.zdic.net/kai/jbh/8BDD.gif" width="149">
 
 “They make a phone call.”
 
@@ -1851,9 +1851,9 @@
 
 ![](images-verysmall/HSK1_018-08-打电话.png)
 
-### 得到 :: to get or receive
+## 得到 :: to get or receive
 
-![](https://img.zdic.net/kai/jbh/5F97.gif) ![](https://img.zdic.net/kai/jbh/5230.gif)
+<img src="https://img.zdic.net/kai/jbh/5F97.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5230.gif" width="149">
 
 “I get a cup.”
 
@@ -1861,11 +1861,11 @@
 
 ![](images-verysmall/HSK1_018-09-得到.png)
 
-## HSK1_019
+# HSK1_019
 
-### 儿子 :: son; male child
+## 儿子 :: son; male child
 
-![](https://img.zdic.net/kai/jbh/513F.gif) ![](https://img.zdic.net/kai/jbh/5B50.gif)
+<img src="https://img.zdic.net/kai/jbh/513F.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5B50.gif" width="149">
 
 “Dad has a son.”
 
@@ -1873,9 +1873,9 @@
 
 ![](images-verysmall/HSK1_019-00-儿子.png)
 
-### 再见 :: goodbye
+## 再见 :: goodbye
 
-![](https://img.zdic.net/kai/jbh/518D.gif) ![](https://img.zdic.net/kai/jbh/89C1.gif)
+<img src="https://img.zdic.net/kai/jbh/518D.gif" width="149"><img src="https://img.zdic.net/kai/jbh/89C1.gif" width="149">
 
 “Goodbye!”
 
@@ -1883,9 +1883,9 @@
 
 ![](images-verysmall/HSK1_019-01-再见.png)
 
-### 本 :: measure word for books or notebooks
+## 本 :: measure word for books or notebooks
 
-![](https://img.zdic.net/kai/jbh/672C.gif)
+<img src="https://img.zdic.net/kai/jbh/672C.gif" width="149">
 
 “This book is good.”
 
@@ -1893,9 +1893,9 @@
 
 ![](images-verysmall/HSK1_019-02-本.png)
 
-### 马上 :: right away; immediately
+## 马上 :: right away; immediately
 
-![](https://img.zdic.net/kai/jbh/9A6C.gif) ![](https://img.zdic.net/kai/jbh/4E0A.gif)
+<img src="https://img.zdic.net/kai/jbh/9A6C.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4E0A.gif" width="149">
 
 “We finish class right away.”
 
@@ -1903,9 +1903,9 @@
 
 ![](images-verysmall/HSK1_019-03-马上.png)
 
-### 那儿 :: that place; there
+## 那儿 :: that place; there
 
-![](https://img.zdic.net/kai/jbh/90A3.gif) ![](https://img.zdic.net/kai/jbh/513F.gif)
+<img src="https://img.zdic.net/kai/jbh/90A3.gif" width="149"><img src="https://img.zdic.net/kai/jbh/513F.gif" width="149">
 
 “My friend is there.”
 
@@ -1913,9 +1913,9 @@
 
 ![](images-verysmall/HSK1_019-04-那儿.png)
 
-### 难 :: difficult; hard
+## 难 :: difficult; hard
 
-![](https://img.zdic.net/kai/jbh/96BE.gif)
+<img src="https://img.zdic.net/kai/jbh/96BE.gif" width="149">
 
 “The test is difficult.”
 
@@ -1923,9 +1923,9 @@
 
 ![](images-verysmall/HSK1_019-05-难.png)
 
-### 明天 :: the day after today
+## 明天 :: the day after today
 
-![](https://img.zdic.net/kai/jbh/660E.gif) ![](https://img.zdic.net/kai/jbh/5929.gif)
+<img src="https://img.zdic.net/kai/jbh/660E.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5929.gif" width="149">
 
 “We will meet tomorrow.”
 
@@ -1933,9 +1933,9 @@
 
 ![](images-verysmall/HSK1_019-06-明天.png)
 
-### 站 :: to stand up; to be standing
+## 站 :: to stand up; to be standing
 
-![](https://img.zdic.net/kai/jbh/7AD9.gif)
+<img src="https://img.zdic.net/kai/jbh/7AD9.gif" width="149">
 
 “They stand on the bus.”
 
@@ -1943,9 +1943,9 @@
 
 ![](images-verysmall/HSK1_019-07-站.png)
 
-### 多少 :: how many; how much
+## 多少 :: how many; how much
 
-![](https://img.zdic.net/kai/jbh/591A.gif) ![](https://img.zdic.net/kai/jbh/5C11.gif)
+<img src="https://img.zdic.net/kai/jbh/591A.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5C11.gif" width="149">
 
 “How much money do you have?”
 
@@ -1953,9 +1953,9 @@
 
 ![](images-verysmall/HSK1_019-08-多少.png)
 
-### 晚上 :: evening; night
+## 晚上 :: evening; night
 
-![](https://img.zdic.net/kai/jbh/665A.gif) ![](https://img.zdic.net/kai/jbh/4E0A.gif)
+<img src="https://img.zdic.net/kai/jbh/665A.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4E0A.gif" width="149">
 
 “In the evening, I am at home.”
 
@@ -1963,11 +1963,11 @@
 
 ![](images-verysmall/HSK1_019-09-晚上.png)
 
-## HSK1_020
+# HSK1_020
 
-### 没什么 :: it's nothing; never mind
+## 没什么 :: it's nothing; never mind
 
-![](https://img.zdic.net/kai/jbh/6CA1.gif) ![](https://img.zdic.net/kai/jbh/4EC0.gif) ![](https://img.zdic.net/kai/jbh/4E48.gif)
+<img src="https://img.zdic.net/kai/jbh/6CA1.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4EC0.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4E48.gif" width="149">
 
 “It's nothing.”
 
@@ -1975,9 +1975,9 @@
 
 ![](images-verysmall/HSK1_020-00-没什么.png)
 
-### 块 :: measure word for pieces or chunks
+## 块 :: measure word for pieces or chunks
 
-![](https://img.zdic.net/kai/jbh/5757.gif)
+<img src="https://img.zdic.net/kai/jbh/5757.gif" width="149">
 
 “I want one piece.”
 
@@ -1985,9 +1985,9 @@
 
 ![](images-verysmall/HSK1_020-01-块.png)
 
-### 回家 :: go back home
+## 回家 :: go back home
 
-![](https://img.zdic.net/kai/jbh/56DE.gif) ![](https://img.zdic.net/kai/jbh/5BB6.gif)
+<img src="https://img.zdic.net/kai/jbh/56DE.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5BB6.gif" width="149">
 
 “They go back home.”
 
@@ -1995,9 +1995,9 @@
 
 ![](images-verysmall/HSK1_020-02-回家.png)
 
-### 说话 :: to talk or speak
+## 说话 :: to talk or speak
 
-![](https://img.zdic.net/kai/jbh/8BF4.gif) ![](https://img.zdic.net/kai/jbh/8BDD.gif)
+<img src="https://img.zdic.net/kai/jbh/8BF4.gif" width="149"><img src="https://img.zdic.net/kai/jbh/8BDD.gif" width="149">
 
 “They are talking.”
 
@@ -2005,9 +2005,9 @@
 
 ![](images-verysmall/HSK1_020-03-说话.png)
 
-### 花 :: to spend (money or time)
+## 花 :: to spend (money or time)
 
-![](https://img.zdic.net/kai/jbh/82B1.gif)
+<img src="https://img.zdic.net/kai/jbh/82B1.gif" width="149">
 
 “Mom spends money.”
 
@@ -2015,9 +2015,9 @@
 
 ![](images-verysmall/HSK1_020-04-花.png)
 
-### 她们 :: they (for females)
+## 她们 :: they (for females)
 
-![](https://img.zdic.net/kai/jbh/5979.gif) ![](https://img.zdic.net/kai/jbh/4EEC.gif)
+<img src="https://img.zdic.net/kai/jbh/5979.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4EEC.gif" width="149">
 
 “They are laughing.”
 
@@ -2025,9 +2025,9 @@
 
 ![](images-verysmall/HSK1_020-05-她们.png)
 
-### 有些 :: some; a few; several
+## 有些 :: some; a few; several
 
-![](https://img.zdic.net/kai/jbh/6709.gif) ![](https://img.zdic.net/kai/jbh/4E9B.gif)
+<img src="https://img.zdic.net/kai/jbh/6709.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4E9B.gif" width="149">
 
 “Some students like watching movies.”
 
@@ -2035,9 +2035,9 @@
 
 ![](images-verysmall/HSK1_020-06-有些.png)
 
-### 门 :: door
+## 门 :: door
 
-![](https://img.zdic.net/kai/jbh/95E8.gif)
+<img src="https://img.zdic.net/kai/jbh/95E8.gif" width="149">
 
 “The door is here.”
 
@@ -2045,9 +2045,9 @@
 
 ![](images-verysmall/HSK1_020-07-门.png)
 
-### 女儿 :: daughter
+## 女儿 :: daughter
 
-![](https://img.zdic.net/kai/jbh/5973.gif) ![](https://img.zdic.net/kai/jbh/513F.gif)
+<img src="https://img.zdic.net/kai/jbh/5973.gif" width="149"><img src="https://img.zdic.net/kai/jbh/513F.gif" width="149">
 
 “She is the daughter.”
 
@@ -2055,9 +2055,9 @@
 
 ![](images-verysmall/HSK1_020-08-女儿.png)
 
-### 小姐 :: Miss; young lady
+## 小姐 :: Miss; young lady
 
-![](https://img.zdic.net/kai/jbh/5C0F.gif) ![](https://img.zdic.net/kai/jbh/59D0.gif)
+<img src="https://img.zdic.net/kai/jbh/5C0F.gif" width="149"><img src="https://img.zdic.net/kai/jbh/59D0.gif" width="149">
 
 “The young lady is here.”
 
@@ -2065,11 +2065,11 @@
 
 ![](images-verysmall/HSK1_020-09-小姐.png)
 
-## HSK1_021
+# HSK1_021
 
-### 动 :: to move; to change position
+## 动 :: to move; to change position
 
-![](https://img.zdic.net/kai/jbh/52A8.gif)
+<img src="https://img.zdic.net/kai/jbh/52A8.gif" width="149">
 
 “Primary school students move by walking.”
 
@@ -2077,9 +2077,9 @@
 
 ![](images-verysmall/HSK1_021-00-动.png)
 
-### 女 :: girl or woman
+## 女 :: girl or woman
 
-![](https://img.zdic.net/kai/jbh/5973.gif)
+<img src="https://img.zdic.net/kai/jbh/5973.gif" width="149">
 
 “The girl is at home.”
 
@@ -2087,9 +2087,9 @@
 
 ![](images-verysmall/HSK1_021-01-女.png)
 
-### 忙 :: busy
+## 忙 :: busy
 
-![](https://img.zdic.net/kai/jbh/5FD9.gif)
+<img src="https://img.zdic.net/kai/jbh/5FD9.gif" width="149">
 
 “She is very busy.”
 
@@ -2097,9 +2097,9 @@
 
 ![](images-verysmall/HSK1_021-02-忙.png)
 
-### 房子 :: house or building (usually less than three stories)
+## 房子 :: house or building (usually less than three stories)
 
-![](https://img.zdic.net/kai/jbh/623F.gif) ![](https://img.zdic.net/kai/jbh/5B50.gif)
+<img src="https://img.zdic.net/kai/jbh/623F.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5B50.gif" width="149">
 
 “She is in the house.”
 
@@ -2107,9 +2107,9 @@
 
 ![](images-verysmall/HSK1_021-03-房子.png)
 
-### 衣服 :: clothes
+## 衣服 :: clothes
 
-![](https://img.zdic.net/kai/jbh/8863.gif) ![](https://img.zdic.net/kai/jbh/670D.gif)
+<img src="https://img.zdic.net/kai/jbh/8863.gif" width="149"><img src="https://img.zdic.net/kai/jbh/670D.gif" width="149">
 
 “She has clothes.”
 
@@ -2117,9 +2117,9 @@
 
 ![](images-verysmall/HSK1_021-04-衣服.png)
 
-### 睡 :: to sleep
+## 睡 :: to sleep
 
-![](https://img.zdic.net/kai/jbh/7761.gif)
+<img src="https://img.zdic.net/kai/jbh/7761.gif" width="149">
 
 “She sleeps.”
 
@@ -2127,9 +2127,9 @@
 
 ![](images-verysmall/HSK1_021-05-睡.png)
 
-### 回去 :: to go back or return somewhere
+## 回去 :: to go back or return somewhere
 
-![](https://img.zdic.net/kai/jbh/56DE.gif) ![](https://img.zdic.net/kai/jbh/53BB.gif)
+<img src="https://img.zdic.net/kai/jbh/56DE.gif" width="149"><img src="https://img.zdic.net/kai/jbh/53BB.gif" width="149">
 
 “She goes back.”
 
@@ -2137,9 +2137,9 @@
 
 ![](images-verysmall/HSK1_021-06-回去.png)
 
-### 晚 :: late (in the day or at night)
+## 晚 :: late (in the day or at night)
 
-![](https://img.zdic.net/kai/jbh/665A.gif)
+<img src="https://img.zdic.net/kai/jbh/665A.gif" width="149">
 
 “She is at home at night.”
 
@@ -2147,9 +2147,9 @@
 
 ![](images-verysmall/HSK1_021-07-晚.png)
 
-### 坏 :: bad; broken
+## 坏 :: bad; broken
 
-![](https://img.zdic.net/kai/jbh/574F.gif)
+<img src="https://img.zdic.net/kai/jbh/574F.gif" width="149">
 
 “The thing is broken.”
 
@@ -2157,9 +2157,9 @@
 
 ![](images-verysmall/HSK1_021-08-坏.png)
 
-### 水 :: water
+## 水 :: water
 
-![](https://img.zdic.net/kai/jbh/6C34.gif)
+<img src="https://img.zdic.net/kai/jbh/6C34.gif" width="149">
 
 “The water is in the cup.”
 
@@ -2167,11 +2167,11 @@
 
 ![](images-verysmall/HSK1_021-09-水.png)
 
-## HSK1_022
+# HSK1_022
 
-### 杯 :: cup; a container for drinking
+## 杯 :: cup; a container for drinking
 
-![](https://img.zdic.net/kai/jbh/676F.gif)
+<img src="https://img.zdic.net/kai/jbh/676F.gif" width="149">
 
 “I have a cup.”
 
@@ -2179,9 +2179,9 @@
 
 ![](images-verysmall/HSK1_022-00-杯.png)
 
-### 学校 :: school; a place where people go to study or learn
+## 学校 :: school; a place where people go to study or learn
 
-![](https://img.zdic.net/kai/jbh/5B66.gif) ![](https://img.zdic.net/kai/jbh/6821.gif)
+<img src="https://img.zdic.net/kai/jbh/5B66.gif" width="149"><img src="https://img.zdic.net/kai/jbh/6821.gif" width="149">
 
 “She studies at school.”
 
@@ -2189,9 +2189,9 @@
 
 ![](images-verysmall/HSK1_022-01-学校.png)
 
-### 高 :: tall; high (in height)
+## 高 :: tall; high (in height)
 
-![](https://img.zdic.net/kai/jbh/9AD8.gif)
+<img src="https://img.zdic.net/kai/jbh/9AD8.gif" width="149">
 
 “He is tall.”
 
@@ -2199,9 +2199,9 @@
 
 ![](images-verysmall/HSK1_022-02-高.png)
 
-### 电影 :: movie; film
+## 电影 :: movie; film
 
-![](https://img.zdic.net/kai/jbh/7535.gif) ![](https://img.zdic.net/kai/jbh/5F71.gif)
+<img src="https://img.zdic.net/kai/jbh/7535.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5F71.gif" width="149">
 
 “I like movies.”
 
@@ -2209,9 +2209,9 @@
 
 ![](images-verysmall/HSK1_022-03-电影.png)
 
-### 试 :: to try or test
+## 试 :: to try or test
 
-![](https://img.zdic.net/kai/jbh/8BD5.gif)
+<img src="https://img.zdic.net/kai/jbh/8BD5.gif" width="149">
 
 “I try things.”
 
@@ -2219,9 +2219,9 @@
 
 ![](images-verysmall/HSK1_022-04-试.png)
 
-### 身上 :: on the body
+## 身上 :: on the body
 
-![](https://img.zdic.net/kai/jbh/8EAB.gif) ![](https://img.zdic.net/kai/jbh/4E0A.gif)
+<img src="https://img.zdic.net/kai/jbh/8EAB.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4E0A.gif" width="149">
 
 “He has something on his body.”
 
@@ -2229,9 +2229,9 @@
 
 ![](images-verysmall/HSK1_022-05-身上.png)
 
-### 房间 :: room (in a house or building)
+## 房间 :: room (in a house or building)
 
-![](https://img.zdic.net/kai/jbh/623F.gif) ![](https://img.zdic.net/kai/jbh/95F4.gif)
+<img src="https://img.zdic.net/kai/jbh/623F.gif" width="149"><img src="https://img.zdic.net/kai/jbh/95F4.gif" width="149">
 
 “She is in the room.”
 
@@ -2239,9 +2239,9 @@
 
 ![](images-verysmall/HSK1_022-06-房间.png)
 
-### 书 :: book
+## 书 :: book
 
-![](https://img.zdic.net/kai/jbh/4E66.gif)
+<img src="https://img.zdic.net/kai/jbh/4E66.gif" width="149">
 
 “She has a book.”
 
@@ -2249,9 +2249,9 @@
 
 ![](images-verysmall/HSK1_022-07-书.png)
 
-### 球 :: ball
+## 球 :: ball
 
-![](https://img.zdic.net/kai/jbh/7403.gif)
+<img src="https://img.zdic.net/kai/jbh/7403.gif" width="149">
 
 “He has a ball.”
 
@@ -2259,9 +2259,9 @@
 
 ![](images-verysmall/HSK1_022-08-球.png)
 
-### 忘 :: to forget
+## 忘 :: to forget
 
-![](https://img.zdic.net/kai/jbh/5FD8.gif)
+<img src="https://img.zdic.net/kai/jbh/5FD8.gif" width="149">
 
 “She forgot her phone.”
 
@@ -2269,11 +2269,11 @@
 
 ![](images-verysmall/HSK1_022-09-忘.png)
 
-## HSK1_023
+# HSK1_023
 
-### 进来 :: come in
+## 进来 :: come in
 
-![](https://img.zdic.net/kai/jbh/8FDB.gif) ![](https://img.zdic.net/kai/jbh/6765.gif)
+<img src="https://img.zdic.net/kai/jbh/8FDB.gif" width="149"><img src="https://img.zdic.net/kai/jbh/6765.gif" width="149">
 
 “She comes in.”
 
@@ -2281,9 +2281,9 @@
 
 ![](images-verysmall/HSK1_023-00-进来.png)
 
-### 路 :: road or path
+## 路 :: road or path
 
-![](https://img.zdic.net/kai/jbh/8DEF.gif)
+<img src="https://img.zdic.net/kai/jbh/8DEF.gif" width="149">
 
 “There is a car on the road.”
 
@@ -2291,9 +2291,9 @@
 
 ![](images-verysmall/HSK1_023-01-路.png)
 
-### 四 :: the number four (4)
+## 四 :: the number four (4)
 
-![](https://img.zdic.net/kai/jbh/56DB.gif)
+<img src="https://img.zdic.net/kai/jbh/56DB.gif" width="149">
 
 “Four students are studying.”
 
@@ -2301,9 +2301,9 @@
 
 ![](images-verysmall/HSK1_023-02-四.png)
 
-### 第 :: marker for ordinal numbers (like 'first', 'second')
+## 第 :: marker for ordinal numbers (like 'first', 'second')
 
-![](https://img.zdic.net/kai/jbh/7B2C.gif)
+<img src="https://img.zdic.net/kai/jbh/7B2C.gif" width="149">
 
 “She is first.”
 
@@ -2311,9 +2311,9 @@
 
 ![](images-verysmall/HSK1_023-03-第.png)
 
-### 进去 :: to go in; to enter
+## 进去 :: to go in; to enter
 
-![](https://img.zdic.net/kai/jbh/8FDB.gif) ![](https://img.zdic.net/kai/jbh/53BB.gif)
+<img src="https://img.zdic.net/kai/jbh/8FDB.gif" width="149"><img src="https://img.zdic.net/kai/jbh/53BB.gif" width="149">
 
 “They go in.”
 
@@ -2321,9 +2321,9 @@
 
 ![](images-verysmall/HSK1_023-04-进去.png)
 
-### 听到 :: to hear; to hear something
+## 听到 :: to hear; to hear something
 
-![](https://img.zdic.net/kai/jbh/542C.gif) ![](https://img.zdic.net/kai/jbh/5230.gif)
+<img src="https://img.zdic.net/kai/jbh/542C.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5230.gif" width="149">
 
 “I hear water.”
 
@@ -2331,9 +2331,9 @@
 
 ![](images-verysmall/HSK1_023-05-听到.png)
 
-### 正在 :: in the process of (doing something)
+## 正在 :: in the process of (doing something)
 
-![](https://img.zdic.net/kai/jbh/6B63.gif) ![](https://img.zdic.net/kai/jbh/5728.gif)
+<img src="https://img.zdic.net/kai/jbh/6B63.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5728.gif" width="149">
 
 “I am studying.”
 
@@ -2341,9 +2341,9 @@
 
 ![](images-verysmall/HSK1_023-06-正在.png)
 
-### 笑 :: smile or laugh
+## 笑 :: smile or laugh
 
-![](https://img.zdic.net/kai/jbh/7B11.gif)
+<img src="https://img.zdic.net/kai/jbh/7B11.gif" width="149">
 
 “They smile.”
 
@@ -2351,9 +2351,9 @@
 
 ![](images-verysmall/HSK1_023-07-笑.png)
 
-### 那边 :: that side; over there
+## 那边 :: that side; over there
 
-![](https://img.zdic.net/kai/jbh/90A3.gif) ![](https://img.zdic.net/kai/jbh/8FB9.gif)
+<img src="https://img.zdic.net/kai/jbh/90A3.gif" width="149"><img src="https://img.zdic.net/kai/jbh/8FB9.gif" width="149">
 
 “She is over there.”
 
@@ -2361,9 +2361,9 @@
 
 ![](images-verysmall/HSK1_023-08-那边.png)
 
-### 远 :: far away
+## 远 :: far away
 
-![](https://img.zdic.net/kai/jbh/8FDC.gif)
+<img src="https://img.zdic.net/kai/jbh/8FDC.gif" width="149">
 
 “She is far away outside.”
 
@@ -2371,11 +2371,11 @@
 
 ![](images-verysmall/HSK1_023-09-远.png)
 
-## HSK1_024
+# HSK1_024
 
-### 床 :: bed
+## 床 :: bed
 
-![](https://img.zdic.net/kai/jbh/5E8A.gif)
+<img src="https://img.zdic.net/kai/jbh/5E8A.gif" width="149">
 
 “She is on the bed.”
 
@@ -2383,9 +2383,9 @@
 
 ![](images-verysmall/HSK1_024-00-床.png)
 
-### 歌 :: song
+## 歌 :: song
 
-![](https://img.zdic.net/kai/jbh/6B4C.gif)
+<img src="https://img.zdic.net/kai/jbh/6B4C.gif" width="149">
 
 “I like to sing songs.”
 
@@ -2393,9 +2393,9 @@
 
 ![](images-verysmall/HSK1_024-01-歌.png)
 
-### 唱 :: to sing
+## 唱 :: to sing
 
-![](https://img.zdic.net/kai/jbh/5531.gif)
+<img src="https://img.zdic.net/kai/jbh/5531.gif" width="149">
 
 “She sings.”
 
@@ -2403,9 +2403,9 @@
 
 ![](images-verysmall/HSK1_024-02-唱.png)
 
-### 别的 :: other; different one(s)
+## 别的 :: other; different one(s)
 
-![](https://img.zdic.net/kai/jbh/522B.gif) ![](https://img.zdic.net/kai/jbh/7684.gif)
+<img src="https://img.zdic.net/kai/jbh/522B.gif" width="149"><img src="https://img.zdic.net/kai/jbh/7684.gif" width="149">
 
 “I have other things.”
 
@@ -2413,9 +2413,9 @@
 
 ![](images-verysmall/HSK1_024-03-别的.png)
 
-### 学 :: to study or to learn
+## 学 :: to study or to learn
 
-![](https://img.zdic.net/kai/jbh/5B66.gif)
+<img src="https://img.zdic.net/kai/jbh/5B66.gif" width="149">
 
 “You are studying.”
 
@@ -2423,9 +2423,9 @@
 
 ![](images-verysmall/HSK1_024-04-学.png)
 
-### 关 :: to close or turn off (something)
+## 关 :: to close or turn off (something)
 
-![](https://img.zdic.net/kai/jbh/5173.gif)
+<img src="https://img.zdic.net/kai/jbh/5173.gif" width="149">
 
 “Close the door.”
 
@@ -2433,9 +2433,9 @@
 
 ![](images-verysmall/HSK1_024-05-关.png)
 
-### 五 :: the number five (5)
+## 五 :: the number five (5)
 
-![](https://img.zdic.net/kai/jbh/4E94.gif)
+<img src="https://img.zdic.net/kai/jbh/4E94.gif" width="149">
 
 “Five children are laughing.”
 
@@ -2443,9 +2443,9 @@
 
 ![](images-verysmall/HSK1_024-06-五.png)
 
-### 男 :: male; man; boy
+## 男 :: male; man; boy
 
-![](https://img.zdic.net/kai/jbh/7537.gif)
+<img src="https://img.zdic.net/kai/jbh/7537.gif" width="149">
 
 “The boy is at school.”
 
@@ -2453,9 +2453,9 @@
 
 ![](images-verysmall/HSK1_024-07-男.png)
 
-### 帮忙 :: to help someone; to give help
+## 帮忙 :: to help someone; to give help
 
-![](https://img.zdic.net/kai/jbh/5E2E.gif) ![](https://img.zdic.net/kai/jbh/5FD9.gif)
+<img src="https://img.zdic.net/kai/jbh/5E2E.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5FD9.gif" width="149">
 
 “They help.”
 
@@ -2463,9 +2463,9 @@
 
 ![](images-verysmall/HSK1_024-08-帮忙.png)
 
-### 国家 :: country; a nation or state
+## 国家 :: country; a nation or state
 
-![](https://img.zdic.net/kai/jbh/56FD.gif) ![](https://img.zdic.net/kai/jbh/5BB6.gif)
+<img src="https://img.zdic.net/kai/jbh/56FD.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5BB6.gif" width="149">
 
 “She is in the country.”
 
@@ -2473,11 +2473,11 @@
 
 ![](images-verysmall/HSK1_024-09-国家.png)
 
-## HSK1_025
+# HSK1_025
 
-### 间 :: room
+## 间 :: room
 
-![](https://img.zdic.net/kai/jbh/95F4.gif)
+<img src="https://img.zdic.net/kai/jbh/95F4.gif" width="149">
 
 “She is in the room.”
 
@@ -2485,9 +2485,9 @@
 
 ![](images-verysmall/HSK1_025-00-间.png)
 
-### 分 :: measure word for parts or portions
+## 分 :: measure word for parts or portions
 
-![](https://img.zdic.net/kai/jbh/5206.gif)
+<img src="https://img.zdic.net/kai/jbh/5206.gif" width="149">
 
 “Please give me three portions.”
 
@@ -2495,9 +2495,9 @@
 
 ![](images-verysmall/HSK1_025-01-分.png)
 
-### 医院 :: hospital
+## 医院 :: hospital
 
-![](https://img.zdic.net/kai/jbh/533B.gif) ![](https://img.zdic.net/kai/jbh/9662.gif)
+<img src="https://img.zdic.net/kai/jbh/533B.gif" width="149"><img src="https://img.zdic.net/kai/jbh/9662.gif" width="149">
 
 “She is in the hospital.”
 
@@ -2505,9 +2505,9 @@
 
 ![](images-verysmall/HSK1_025-02-医院.png)
 
-### 半 :: half
+## 半 :: half
 
-![](https://img.zdic.net/kai/jbh/534A.gif)
+<img src="https://img.zdic.net/kai/jbh/534A.gif" width="149">
 
 “She has half a loaf of bread.”
 
@@ -2515,9 +2515,9 @@
 
 ![](images-verysmall/HSK1_025-03-半.png)
 
-### 少 :: not enough; fewer than needed
+## 少 :: not enough; fewer than needed
 
-![](https://img.zdic.net/kai/jbh/5C11.gif)
+<img src="https://img.zdic.net/kai/jbh/5C11.gif" width="149">
 
 “There is one person less here.”
 
@@ -2525,9 +2525,9 @@
 
 ![](images-verysmall/HSK1_025-04-少.png)
 
-### 没关系 :: it's okay; no problem
+## 没关系 :: it's okay; no problem
 
-![](https://img.zdic.net/kai/jbh/6CA1.gif) ![](https://img.zdic.net/kai/jbh/5173.gif) ![](https://img.zdic.net/kai/jbh/7CFB.gif)
+<img src="https://img.zdic.net/kai/jbh/6CA1.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5173.gif" width="149"><img src="https://img.zdic.net/kai/jbh/7CFB.gif" width="149">
 
 “It's okay.”
 
@@ -2535,9 +2535,9 @@
 
 ![](images-verysmall/HSK1_025-05-没关系.png)
 
-### 真的 :: really; truly
+## 真的 :: really; truly
 
-![](https://img.zdic.net/kai/jbh/771F.gif) ![](https://img.zdic.net/kai/jbh/7684.gif)
+<img src="https://img.zdic.net/kai/jbh/771F.gif" width="149"><img src="https://img.zdic.net/kai/jbh/7684.gif" width="149">
 
 “He is really happy.”
 
@@ -2545,9 +2545,9 @@
 
 ![](images-verysmall/HSK1_025-06-真的.png)
 
-### 教 :: to teach
+## 教 :: to teach
 
-![](https://img.zdic.net/kai/jbh/6559.gif)
+<img src="https://img.zdic.net/kai/jbh/6559.gif" width="149">
 
 “The teacher teaches students.”
 
@@ -2555,9 +2555,9 @@
 
 ![](images-verysmall/HSK1_025-07-教.png)
 
-### 重 :: heavy; important
+## 重 :: heavy; important
 
-![](https://img.zdic.net/kai/jbh/91CD.gif)
+<img src="https://img.zdic.net/kai/jbh/91CD.gif" width="149">
 
 “The thing is heavy.”
 
@@ -2565,9 +2565,9 @@
 
 ![](images-verysmall/HSK1_025-08-重.png)
 
-### 飞机 :: Airplane; a vehicle that flies in the sky.
+## 飞机 :: Airplane; a vehicle that flies in the sky.
 
-![](https://img.zdic.net/kai/jbh/98DE.gif) ![](https://img.zdic.net/kai/jbh/673A.gif)
+<img src="https://img.zdic.net/kai/jbh/98DE.gif" width="149"><img src="https://img.zdic.net/kai/jbh/673A.gif" width="149">
 
 “The airplane is in the sky.”
 
@@ -2575,11 +2575,11 @@
 
 ![](images-verysmall/HSK1_025-09-飞机.png)
 
-## HSK1_026
+# HSK1_026
 
-### 打开 :: to open or turn on (something)
+## 打开 :: to open or turn on (something)
 
-![](https://img.zdic.net/kai/jbh/6253.gif) ![](https://img.zdic.net/kai/jbh/5F00.gif)
+<img src="https://img.zdic.net/kai/jbh/6253.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5F00.gif" width="149">
 
 “Turn on the TV.”
 
@@ -2587,9 +2587,9 @@
 
 ![](images-verysmall/HSK1_026-00-打开.png)
 
-### 早上 :: early morning
+## 早上 :: early morning
 
-![](https://img.zdic.net/kai/jbh/65E9.gif) ![](https://img.zdic.net/kai/jbh/4E0A.gif)
+<img src="https://img.zdic.net/kai/jbh/65E9.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4E0A.gif" width="149">
 
 “In the early morning, she drinks milk.”
 
@@ -2597,9 +2597,9 @@
 
 ![](images-verysmall/HSK1_026-01-早上.png)
 
-### 二 :: two; the number 2
+## 二 :: two; the number 2
 
-![](https://img.zdic.net/kai/jbh/4E8C.gif)
+<img src="https://img.zdic.net/kai/jbh/4E8C.gif" width="149">
 
 “She has two things.”
 
@@ -2607,9 +2607,9 @@
 
 ![](images-verysmall/HSK1_026-02-二.png)
 
-### 电视 :: TV; television; a device for watching programs and shows.
+## 电视 :: TV; television; a device for watching programs and shows.
 
-![](https://img.zdic.net/kai/jbh/7535.gif) ![](https://img.zdic.net/kai/jbh/89C6.gif)
+<img src="https://img.zdic.net/kai/jbh/7535.gif" width="149"><img src="https://img.zdic.net/kai/jbh/89C6.gif" width="149">
 
 “She is watching TV.”
 
@@ -2617,9 +2617,9 @@
 
 ![](images-verysmall/HSK1_026-03-电视.png)
 
-### 回到 :: to return to (a place); to go back
+## 回到 :: to return to (a place); to go back
 
-![](https://img.zdic.net/kai/jbh/56DE.gif) ![](https://img.zdic.net/kai/jbh/5230.gif)
+<img src="https://img.zdic.net/kai/jbh/56DE.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5230.gif" width="149">
 
 “I return home.”
 
@@ -2627,9 +2627,9 @@
 
 ![](images-verysmall/HSK1_026-04-回到.png)
 
-### 身体 :: body; a person's physical body or health
+## 身体 :: body; a person's physical body or health
 
-![](https://img.zdic.net/kai/jbh/8EAB.gif) ![](https://img.zdic.net/kai/jbh/4F53.gif)
+<img src="https://img.zdic.net/kai/jbh/8EAB.gif" width="149"><img src="https://img.zdic.net/kai/jbh/4F53.gif" width="149">
 
 “Her body is very healthy.”
 
@@ -2637,9 +2637,9 @@
 
 ![](images-verysmall/HSK1_026-05-身体.png)
 
-### 读 :: to read (aloud) or study
+## 读 :: to read (aloud) or study
 
-![](https://img.zdic.net/kai/jbh/8BFB.gif)
+<img src="https://img.zdic.net/kai/jbh/8BFB.gif" width="149">
 
 “She is reading a book.”
 
@@ -2647,9 +2647,9 @@
 
 ![](images-verysmall/HSK1_026-06-读.png)
 
-### 这边 :: this side, here
+## 这边 :: this side, here
 
-![](https://img.zdic.net/kai/jbh/8FD9.gif) ![](https://img.zdic.net/kai/jbh/8FB9.gif)
+<img src="https://img.zdic.net/kai/jbh/8FD9.gif" width="149"><img src="https://img.zdic.net/kai/jbh/8FB9.gif" width="149">
 
 “There is fruit on this side.”
 
@@ -2657,9 +2657,9 @@
 
 ![](images-verysmall/HSK1_026-07-这边.png)
 
-### 家里 :: at home
+## 家里 :: at home
 
-![](https://img.zdic.net/kai/jbh/5BB6.gif) ![](https://img.zdic.net/kai/jbh/91CC.gif)
+<img src="https://img.zdic.net/kai/jbh/5BB6.gif" width="149"><img src="https://img.zdic.net/kai/jbh/91CC.gif" width="149">
 
 “She is at home.”
 
@@ -2667,9 +2667,9 @@
 
 ![](images-verysmall/HSK1_026-08-家里.png)
 
-### 昨天 :: the day before today
+## 昨天 :: the day before today
 
-![](https://img.zdic.net/kai/jbh/6628.gif) ![](https://img.zdic.net/kai/jbh/5929.gif)
+<img src="https://img.zdic.net/kai/jbh/6628.gif" width="149"><img src="https://img.zdic.net/kai/jbh/5929.gif" width="149">
 
 “It rained yesterday.”
 
