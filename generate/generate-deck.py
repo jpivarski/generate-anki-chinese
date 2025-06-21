@@ -214,6 +214,7 @@ model_learn = genanki.Model(
 
 gist_markdown = []
 current_group = None
+toc = []
 
 decks = {}
 
@@ -261,6 +262,8 @@ for word in all_words:
         if current_group != word.group:
             gist_markdown.append(f"""## {word.group}
 """)
+            toc.append(f"""- [{word.group}](#{word.group.replace('_', '-')})
+""")
         current_group = word.group
 
         gist_markdown.append(f"""### {word.hanzi} :: {content['better_definition']}
@@ -276,8 +279,7 @@ package = genanki.Package([deck for name, deck in sorted(decks.items())])
 package.media_files = image_filenames
 package.write_to_file("hsk1.apkg")
 
-# # use http://ecotrust-canada.github.io/markdown-toc/ to make the TOC manually
-# with open("../HSK1/README.md", "w") as file:
-#     file.write("\n".join(gist_markdown))
+with open("../HSK1/README.md", "w") as file:
+    file.write("\n".join(gist_markdown))
 
 print(f"{count} words in the deck")
