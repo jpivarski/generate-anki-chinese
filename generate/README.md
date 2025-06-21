@@ -20,4 +20,6 @@ Make the Anki deck with
 python generate-deck.py
 ```
 
-Requires https://github.com/kerrickstaley/genanki, which is on PyPI and conda-forge.
+(Requires https://github.com/kerrickstaley/genanki, which is on PyPI and conda-forge.)
+
+Import the `hsk1.apkg` into Anki Desktop or AnkiDroid. AnkiWeb is a convenient way to get it from laptop to phone.
