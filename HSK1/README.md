@@ -293,7 +293,7 @@
 
 这是真的。
 
-![](images-verysmall/HSK1_001_00-的.png)
+![](images-verysmall/HSK1_001-00-的.png)
 
 ### 我 :: I; me (used by the speaker to refer to themselves)
 
@@ -301,7 +301,7 @@
 
 我喜欢牛奶。
 
-![](images-verysmall/HSK1_001_01-我.png)
+![](images-verysmall/HSK1_001-01-我.png)
 
 ### 你 :: you (referring to the person being spoken to)
 
@@ -309,7 +309,7 @@
 
 你在家。
 
-![](images-verysmall/HSK1_001_02-你.png)
+![](images-verysmall/HSK1_001-02-你.png)
 
 ### 是 :: to be; is, am, are
 
@@ -317,7 +317,7 @@
 
 我是学生。
 
-![](images-verysmall/HSK1_001_03-是.png)
+![](images-verysmall/HSK1_001-03-是.png)
 
 ### 了 :: indicates a completed action
 
@@ -325,7 +325,7 @@
 
 我吃了。
 
-![](images-verysmall/HSK1_001_04-了.png)
+![](images-verysmall/HSK1_001-04-了.png)
 
 ### 不 :: no; not
 
@@ -333,7 +333,7 @@
 
 我不喜欢。
 
-![](images-verysmall/HSK1_001_05-不.png)
+![](images-verysmall/HSK1_001-05-不.png)
 
 ### 在 :: in; at; on (to show location or time)
 
@@ -341,7 +341,7 @@
 
 我在家。
 
-![](images-verysmall/HSK1_001_06-在.png)
+![](images-verysmall/HSK1_001-06-在.png)
 
 ### 他 :: he; him
 
@@ -349,7 +349,7 @@
 
 他在家。
 
-![](images-verysmall/HSK1_001_07-他.png)
+![](images-verysmall/HSK1_001-07-他.png)
 
 ### 我们 :: we; us (refers to the speaker and at least one other person)
 
@@ -357,7 +357,7 @@
 
 我们喜欢吃饭。
 
-![](images-verysmall/HSK1_001_08-我们.png)
+![](images-verysmall/HSK1_001-08-我们.png)
 
 ### 好 :: good
 
@@ -365,7 +365,7 @@
 
 这个饭好。
 
-![](images-verysmall/HSK1_001_09-好.png)
+![](images-verysmall/HSK1_001-09-好.png)
 
 ## HSK1_002
 
@@ -375,7 +375,7 @@
 
 我有书。
 
-![](images-verysmall/HSK1_002_00-有.png)
+![](images-verysmall/HSK1_002-00-有.png)
 
 ### 这 :: this (refers to something nearby or just mentioned)
 
@@ -383,7 +383,7 @@
 
 这是水。
 
-![](images-verysmall/HSK1_002_01-这.png)
+![](images-verysmall/HSK1_002-01-这.png)
 
 ### 就 :: then; right away; an indicator to stress the result or evaluation
 
@@ -391,7 +391,7 @@
 
 她走了，我就走。
 
-![](images-verysmall/HSK1_002_02-就.png)
+![](images-verysmall/HSK1_002-02-就.png)
 
 ### 会 :: can (to be able to do something); will (future tense)
 
@@ -399,7 +399,7 @@
 
 他们会唱。
 
-![](images-verysmall/HSK1_002_03-会.png)
+![](images-verysmall/HSK1_002-03-会.png)
 
 ### 吗 :: Particle used to form a yes-no question.
 
@@ -407,7 +407,7 @@
 
 你好吗？
 
-![](images-verysmall/HSK1_002_04-吗.png)
+![](images-verysmall/HSK1_002-04-吗.png)
 
 ### 要 :: to want or need to do something; must
 
@@ -415,7 +415,7 @@
 
 我要去。
 
-![](images-verysmall/HSK1_002_05-要.png)
+![](images-verysmall/HSK1_002-05-要.png)
 
 ### 什么 :: what; used to ask about something unknown
 
@@ -423,7 +423,7 @@
 
 你有些什么？
 
-![](images-verysmall/HSK1_002_06-什么.png)
+![](images-verysmall/HSK1_002-06-什么.png)
 
 ### 说 :: to speak or talk
 
@@ -431,7 +431,7 @@
 
 她说。
 
-![](images-verysmall/HSK1_002_07-说.png)
+![](images-verysmall/HSK1_002-07-说.png)
 
 ### 她 :: she; her (refers to a woman or girl)
 
@@ -439,7 +439,7 @@
 
 她在学校。
 
-![](images-verysmall/HSK1_002_08-她.png)
+![](images-verysmall/HSK1_002-08-她.png)
 
 ### 想 :: to think or want to do something
 
@@ -447,7 +447,7 @@
 
 我想吃饭。
 
-![](images-verysmall/HSK1_002_09-想.png)
+![](images-verysmall/HSK1_002-09-想.png)
 
 ## HSK1_003
 
@@ -457,7 +457,7 @@
 
 我有一本书。
 
-![](images-verysmall/HSK1_003_00-一.png)
+![](images-verysmall/HSK1_003-00-一.png)
 
 ### 很 :: very; quite (used for emphasis before adjectives)
 
@@ -465,7 +465,7 @@
 
 我很高兴。
 
-![](images-verysmall/HSK1_003_01-很.png)
+![](images-verysmall/HSK1_003-01-很.png)
 
 ### 知道 :: to know; to be aware of
 
@@ -473,7 +473,7 @@
 
 我知道。
 
-![](images-verysmall/HSK1_003_02-知道.png)
+![](images-verysmall/HSK1_003-02-知道.png)
 
 ### 人 :: person; people
 
@@ -481,7 +481,7 @@
 
 他们是中国人。
 
-![](images-verysmall/HSK1_003_03-人.png)
+![](images-verysmall/HSK1_003-03-人.png)
 
 ### 吧 :: particle used to make suggestions or soften commands
 
@@ -489,7 +489,7 @@
 
 我们一起吃饭吧。
 
-![](images-verysmall/HSK1_003_04-吧.png)
+![](images-verysmall/HSK1_003-04-吧.png)
 
 ### 那 :: that (used to refer to something far from the speaker)
 
@@ -497,7 +497,7 @@
 
 那是我的书。
 
-![](images-verysmall/HSK1_003_05-那.png)
+![](images-verysmall/HSK1_003-05-那.png)
 
 ### 来 :: to come
 
@@ -505,7 +505,7 @@
 
 你来。
 
-![](images-verysmall/HSK1_003_06-来.png)
+![](images-verysmall/HSK1_003-06-来.png)
 
 ### 都 :: all; every; both
 
@@ -513,7 +513,7 @@
 
 我们都在家。
 
-![](images-verysmall/HSK1_003_07-都.png)
+![](images-verysmall/HSK1_003-07-都.png)
 
 ### 个 :: piece (a measure word for things and people)
 
@@ -521,7 +521,7 @@
 
 一个人。
 
-![](images-verysmall/HSK1_003_08-个.png)
+![](images-verysmall/HSK1_003-08-个.png)
 
 ### 能 :: can; to be able to
 
@@ -529,7 +529,7 @@
 
 我能笑。
 
-![](images-verysmall/HSK1_003_09-能.png)
+![](images-verysmall/HSK1_003-09-能.png)
 
 ## HSK1_004
 
@@ -539,7 +539,7 @@
 
 我们去学校。
 
-![](images-verysmall/HSK1_004_00-去.png)
+![](images-verysmall/HSK1_004-00-去.png)
 
 ### 没 :: not; not have; without
 
@@ -547,7 +547,7 @@
 
 我没有钱。
 
-![](images-verysmall/HSK1_004_01-没.png)
+![](images-verysmall/HSK1_004-01-没.png)
 
 ### 和 :: and; with (used to connect words or people)
 
@@ -555,7 +555,7 @@
 
 我和你走。
 
-![](images-verysmall/HSK1_004_02-和.png)
+![](images-verysmall/HSK1_004-02-和.png)
 
 ### 他们 :: they; them (referring to a group of people)
 
@@ -563,7 +563,7 @@
 
 他们在学校。
 
-![](images-verysmall/HSK1_004_03-他们.png)
+![](images-verysmall/HSK1_004-03-他们.png)
 
 ### 到 :: to arrive; to reach (a place or point in time)
 
@@ -571,7 +571,7 @@
 
 我们到家。
 
-![](images-verysmall/HSK1_004_04-到.png)
+![](images-verysmall/HSK1_004-04-到.png)
 
 ### 对 :: correct; right
 
@@ -579,7 +579,7 @@
 
 你说得对。
 
-![](images-verysmall/HSK1_004_05-对.png)
+![](images-verysmall/HSK1_004-05-对.png)
 
 ### 也 :: also; too
 
@@ -587,7 +587,7 @@
 
 我也喜欢。
 
-![](images-verysmall/HSK1_004_06-也.png)
+![](images-verysmall/HSK1_004-06-也.png)
 
 ### 还 :: still; also; in addition
 
@@ -595,7 +595,7 @@
 
 我还有书。
 
-![](images-verysmall/HSK1_004_07-还.png)
+![](images-verysmall/HSK1_004-07-还.png)
 
 ### 做 :: to make or do
 
@@ -603,7 +603,7 @@
 
 我做饭。
 
-![](images-verysmall/HSK1_004_08-做.png)
+![](images-verysmall/HSK1_004-08-做.png)
 
 ### 给 :: to give; to hand over (something to someone)
 
@@ -611,7 +611,7 @@
 
 我给你一本书。
 
-![](images-verysmall/HSK1_004_09-给.png)
+![](images-verysmall/HSK1_004-09-给.png)
 
 ## HSK1_005
 
@@ -621,7 +621,7 @@
 
 书在桌子上。
 
-![](images-verysmall/HSK1_005_00-上.png)
+![](images-verysmall/HSK1_005-00-上.png)
 
 ### 你们 :: you (plural); you all
 
@@ -629,7 +629,7 @@
 
 你们在这。
 
-![](images-verysmall/HSK1_005_01-你们.png)
+![](images-verysmall/HSK1_005-01-你们.png)
 
 ### 过 :: used to show an action happened in the past
 
@@ -637,7 +637,7 @@
 
 他来过。
 
-![](images-verysmall/HSK1_005_02-过.png)
+![](images-verysmall/HSK1_005-02-过.png)
 
 ### 没有 :: not have; there is not
 
@@ -645,7 +645,7 @@
 
 我没有钱。
 
-![](images-verysmall/HSK1_005_03-没有.png)
+![](images-verysmall/HSK1_005-03-没有.png)
 
 ### 看 :: to see or look at
 
@@ -653,7 +653,7 @@
 
 我看你。
 
-![](images-verysmall/HSK1_005_04-看.png)
+![](images-verysmall/HSK1_005-04-看.png)
 
 ### 真 :: really; truly
 
@@ -661,7 +661,7 @@
 
 这里真大。
 
-![](images-verysmall/HSK1_005_05-真.png)
+![](images-verysmall/HSK1_005-05-真.png)
 
 ### 着 :: a particle showing ongoing action (like "-ing")
 
@@ -669,7 +669,7 @@
 
 他在唱歌着。
 
-![](images-verysmall/HSK1_005_06-着.png)
+![](images-verysmall/HSK1_005-06-着.png)
 
 ### 事 :: thing; matter; event
 
@@ -677,7 +677,7 @@
 
 这是什么事？
 
-![](images-verysmall/HSK1_005_07-事.png)
+![](images-verysmall/HSK1_005-07-事.png)
 
 ### 怎么 :: how; in what way
 
@@ -685,7 +685,7 @@
 
 你怎么回家？
 
-![](images-verysmall/HSK1_005_08-怎么.png)
+![](images-verysmall/HSK1_005-08-怎么.png)
 
 ### 现在 :: now; at this moment
 
@@ -693,7 +693,7 @@
 
 现在我们在家。
 
-![](images-verysmall/HSK1_005_09-现在.png)
+![](images-verysmall/HSK1_005-09-现在.png)
 
 ## HSK1_006
 
@@ -703,7 +703,7 @@
 
 这里有一点水。
 
-![](images-verysmall/HSK1_006_00-点.png)
+![](images-verysmall/HSK1_006-00-点.png)
 
 ### 呢 :: particle used at the end of a sentence to turn it into a question or to emphasize something already mentioned
 
@@ -711,7 +711,7 @@
 
 你呢？
 
-![](images-verysmall/HSK1_006_01-呢.png)
+![](images-verysmall/HSK1_006-01-呢.png)
 
 ### 不客气 :: you're welcome (polite reply to 'thank you')
 
@@ -719,7 +719,7 @@
 
 谢谢你！不客气。
 
-![](images-verysmall/HSK1_006_02-不客气.png)
+![](images-verysmall/HSK1_006-02-不客气.png)
 
 ### 别 :: don't (used to tell someone not to do something)
 
@@ -727,7 +727,7 @@
 
 别走。
 
-![](images-verysmall/HSK1_006_03-别.png)
+![](images-verysmall/HSK1_006-03-别.png)
 
 ### 走 :: to walk or to go
 
@@ -735,7 +735,7 @@
 
 我走。
 
-![](images-verysmall/HSK1_006_04-走.png)
+![](images-verysmall/HSK1_006-04-走.png)
 
 ### 太 :: too; extremely
 
@@ -743,7 +743,7 @@
 
 他太高兴了。
 
-![](images-verysmall/HSK1_006_05-太.png)
+![](images-verysmall/HSK1_006-05-太.png)
 
 ### 里 :: inside; in a space or area
 
@@ -751,7 +751,7 @@
 
 书在里。
 
-![](images-verysmall/HSK1_006_06-里.png)
+![](images-verysmall/HSK1_006-06-里.png)
 
 ### 跟 :: with; to follow; together with
 
@@ -759,7 +759,7 @@
 
 你跟我来。
 
-![](images-verysmall/HSK1_006_07-跟.png)
+![](images-verysmall/HSK1_006-07-跟.png)
 
 ### 女孩儿 :: girl (with erhua, a northern accent)
 
@@ -767,7 +767,7 @@
 
 女孩儿在笑。
 
-![](images-verysmall/HSK1_006_08-女孩儿.png)
+![](images-verysmall/HSK1_006-08-女孩儿.png)
 
 ### 告诉 :: to tell or inform (someone)
 
@@ -775,7 +775,7 @@
 
 你告诉他。
 
-![](images-verysmall/HSK1_006_09-告诉.png)
+![](images-verysmall/HSK1_006-09-告诉.png)
 
 ## HSK1_007
 
@@ -785,7 +785,7 @@
 
 请再说。
 
-![](images-verysmall/HSK1_007_00-再.png)
+![](images-verysmall/HSK1_007-00-再.png)
 
 ### 听 :: to listen
 
@@ -793,7 +793,7 @@
 
 他们在听歌。
 
-![](images-verysmall/HSK1_007_01-听.png)
+![](images-verysmall/HSK1_007-01-听.png)
 
 ### 这里 :: here; this place
 
@@ -801,7 +801,7 @@
 
 他们在这里。
 
-![](images-verysmall/HSK1_007_02-这里.png)
+![](images-verysmall/HSK1_007-02-这里.png)
 
 ### 快 :: fast; quick
 
@@ -809,7 +809,7 @@
 
 他快。
 
-![](images-verysmall/HSK1_007_03-快.png)
+![](images-verysmall/HSK1_007-03-快.png)
 
 ### 谁 :: who; which person
 
@@ -817,7 +817,7 @@
 
 谁在家？
 
-![](images-verysmall/HSK1_007_04-谁.png)
+![](images-verysmall/HSK1_007-04-谁.png)
 
 ### 多 :: many; much; a lot
 
@@ -825,7 +825,7 @@
 
 这里有很多人。
 
-![](images-verysmall/HSK1_007_05-多.png)
+![](images-verysmall/HSK1_007-05-多.png)
 
 ### 用 :: to use
 
@@ -833,7 +833,7 @@
 
 我用手机。
 
-![](images-verysmall/HSK1_007_06-用.png)
+![](images-verysmall/HSK1_007-06-用.png)
 
 ### 时候 :: moment; time
 
@@ -841,7 +841,7 @@
 
 现在是时候。
 
-![](images-verysmall/HSK1_007_07-时候.png)
+![](images-verysmall/HSK1_007-07-时候.png)
 
 ### 下 :: under; below
 
@@ -849,7 +849,7 @@
 
 水在桌子下。
 
-![](images-verysmall/HSK1_007_08-下.png)
+![](images-verysmall/HSK1_007-08-下.png)
 
 ### 谢谢 :: thank you
 
@@ -857,7 +857,7 @@
 
 谢谢你。
 
-![](images-verysmall/HSK1_007_09-谢谢.png)
+![](images-verysmall/HSK1_007-09-谢谢.png)
 
 ## HSK1_008
 
@@ -867,7 +867,7 @@
 
 我觉得好。
 
-![](images-verysmall/HSK1_008_00-觉得.png)
+![](images-verysmall/HSK1_008-00-觉得.png)
 
 ### 天 :: day
 
@@ -875,7 +875,7 @@
 
 今天的天气很好。
 
-![](images-verysmall/HSK1_008_01-天.png)
+![](images-verysmall/HSK1_008-01-天.png)
 
 ### 请进 :: please come in
 
@@ -883,7 +883,7 @@
 
 请进。
 
-![](images-verysmall/HSK1_008_02-请进.png)
+![](images-verysmall/HSK1_008-02-请进.png)
 
 ### 从 :: from (indicates starting point in time or space)
 
@@ -891,7 +891,7 @@
 
 我从家来。
 
-![](images-verysmall/HSK1_008_03-从.png)
+![](images-verysmall/HSK1_008-03-从.png)
 
 ### 先生 :: Mr.; sir; a polite way to address a man
 
@@ -899,7 +899,7 @@
 
 先生在家。
 
-![](images-verysmall/HSK1_008_04-先生.png)
+![](images-verysmall/HSK1_008-04-先生.png)
 
 ### 找 :: to look for; to try to find
 
@@ -907,7 +907,7 @@
 
 他找手机。
 
-![](images-verysmall/HSK1_008_05-找.png)
+![](images-verysmall/HSK1_008-05-找.png)
 
 ### 最 :: most; to the highest degree
 
@@ -915,7 +915,7 @@
 
 我最喜欢唱歌。
 
-![](images-verysmall/HSK1_008_06-最.png)
+![](images-verysmall/HSK1_008-06-最.png)
 
 ### 喜欢 :: to like or love something or someone
 
@@ -923,7 +923,7 @@
 
 我喜欢面包。
 
-![](images-verysmall/HSK1_008_07-喜欢.png)
+![](images-verysmall/HSK1_008-07-喜欢.png)
 
 ### 大 :: big or large
 
@@ -931,7 +931,7 @@
 
 大树。
 
-![](images-verysmall/HSK1_008_08-大.png)
+![](images-verysmall/HSK1_008-08-大.png)
 
 ### 次 :: time (of an event); occurrence; next
 
@@ -939,7 +939,7 @@
 
 请问，下一次是什么时候？
 
-![](images-verysmall/HSK1_008_09-次.png)
+![](images-verysmall/HSK1_008-09-次.png)
 
 ## HSK1_009
 
@@ -949,7 +949,7 @@
 
 他出来。
 
-![](images-verysmall/HSK1_009_00-出.png)
+![](images-verysmall/HSK1_009-00-出.png)
 
 ### 干 :: to do or to work
 
@@ -957,7 +957,7 @@
 
 他们在干。
 
-![](images-verysmall/HSK1_009_01-干.png)
+![](images-verysmall/HSK1_009-01-干.png)
 
 ### 们 :: used after pronouns or person nouns to make them plural
 
@@ -965,7 +965,7 @@
 
 我们在学校。
 
-![](images-verysmall/HSK1_009_02-们.png)
+![](images-verysmall/HSK1_009-02-们.png)
 
 ### 话 :: spoken words or speech
 
@@ -973,7 +973,7 @@
 
 他会说话。
 
-![](images-verysmall/HSK1_009_03-话.png)
+![](images-verysmall/HSK1_009-03-话.png)
 
 ### 东西 :: thing; object
 
@@ -981,7 +981,7 @@
 
 桌子上有东西。
 
-![](images-verysmall/HSK1_009_04-东西.png)
+![](images-verysmall/HSK1_009-04-东西.png)
 
 ### 孩子 :: child; kid
 
@@ -989,7 +989,7 @@
 
 孩子在家。
 
-![](images-verysmall/HSK1_009_05-孩子.png)
+![](images-verysmall/HSK1_009-05-孩子.png)
 
 ### 起来 :: to get up; to rise
 
@@ -997,7 +997,7 @@
 
 学生起来。
 
-![](images-verysmall/HSK1_009_06-起来.png)
+![](images-verysmall/HSK1_009-06-起来.png)
 
 ### 这些 :: these (used for multiple things or people close to the speaker)
 
@@ -1005,7 +1005,7 @@
 
 这些书好看。
 
-![](images-verysmall/HSK1_009_07-这些.png)
+![](images-verysmall/HSK1_009-07-这些.png)
 
 ### 两 :: two
 
@@ -1013,7 +1013,7 @@
 
 两个学生在这里。
 
-![](images-verysmall/HSK1_009_08-两.png)
+![](images-verysmall/HSK1_009-08-两.png)
 
 ### 小孩儿 :: child; young child (with '儿' added at the end)
 
@@ -1021,7 +1021,7 @@
 
 小孩儿在家。
 
-![](images-verysmall/HSK1_009_09-小孩儿.png)
+![](images-verysmall/HSK1_009-09-小孩儿.png)
 
 ## HSK1_010
 
@@ -1031,7 +1031,7 @@
 
 这不对，是错。
 
-![](images-verysmall/HSK1_010_00-错.png)
+![](images-verysmall/HSK1_010-00-错.png)
 
 ### 还有 :: also; in addition
 
@@ -1039,7 +1039,7 @@
 
 我有饭，还有水。
 
-![](images-verysmall/HSK1_010_01-还有.png)
+![](images-verysmall/HSK1_010-01-还有.png)
 
 ### 小 :: small or little
 
@@ -1047,7 +1047,7 @@
 
 小女孩儿在家。
 
-![](images-verysmall/HSK1_010_02-小.png)
+![](images-verysmall/HSK1_010-02-小.png)
 
 ### 中 :: center; middle
 
@@ -1055,7 +1055,7 @@
 
 我在中。
 
-![](images-verysmall/HSK1_010_03-中.png)
+![](images-verysmall/HSK1_010-03-中.png)
 
 ### 叫 :: to be called; to have as a name
 
@@ -1063,7 +1063,7 @@
 
 她叫小朋友。
 
-![](images-verysmall/HSK1_010_04-叫.png)
+![](images-verysmall/HSK1_010-04-叫.png)
 
 ### 等 :: and so on; etc.
 
@@ -1071,7 +1071,7 @@
 
 我有面包、牛奶等。
 
-![](images-verysmall/HSK1_010_05-等.png)
+![](images-verysmall/HSK1_010-05-等.png)
 
 ### 一起 :: together; at the same time
 
@@ -1079,7 +1079,7 @@
 
 我们一起走路。
 
-![](images-verysmall/HSK1_010_06-一起.png)
+![](images-verysmall/HSK1_010-06-一起.png)
 
 ### 拿 :: to take or hold something
 
@@ -1087,7 +1087,7 @@
 
 我拿杯子。
 
-![](images-verysmall/HSK1_010_07-拿.png)
+![](images-verysmall/HSK1_010-07-拿.png)
 
 ### 帮 :: to help
 
@@ -1095,7 +1095,7 @@
 
 我帮你。
 
-![](images-verysmall/HSK1_010_08-帮.png)
+![](images-verysmall/HSK1_010-08-帮.png)
 
 ### 打 :: to hit, to strike, or to play (by hitting)
 
@@ -1103,7 +1103,7 @@
 
 他打球。
 
-![](images-verysmall/HSK1_010_09-打.png)
+![](images-verysmall/HSK1_010-09-打.png)
 
 ## HSK1_011
 
@@ -1113,7 +1113,7 @@
 
 我爱妈妈。
 
-![](images-verysmall/HSK1_011_00-爱.png)
+![](images-verysmall/HSK1_011-00-爱.png)
 
 ### 时间 :: time; a period or moment
 
@@ -1121,7 +1121,7 @@
 
 时间很重要。
 
-![](images-verysmall/HSK1_011_01-时间.png)
+![](images-verysmall/HSK1_011-01-时间.png)
 
 ### 年 :: year
 
@@ -1129,7 +1129,7 @@
 
 今天是一年。
 
-![](images-verysmall/HSK1_011_02-年.png)
+![](images-verysmall/HSK1_011-02-年.png)
 
 ### 请 :: please; to ask or invite someone politely
 
@@ -1137,7 +1137,7 @@
 
 请坐。
 
-![](images-verysmall/HSK1_011_03-请.png)
+![](images-verysmall/HSK1_011-03-请.png)
 
 ### 回 :: to return; to go back
 
@@ -1145,7 +1145,7 @@
 
 我回家。
 
-![](images-verysmall/HSK1_011_04-回.png)
+![](images-verysmall/HSK1_011-04-回.png)
 
 ### 工作 :: work; job
 
@@ -1153,7 +1153,7 @@
 
 他喜欢工作。
 
-![](images-verysmall/HSK1_011_05-工作.png)
+![](images-verysmall/HSK1_011-05-工作.png)
 
 ### 见 :: to see or meet someone
 
@@ -1161,7 +1161,7 @@
 
 我见她。
 
-![](images-verysmall/HSK1_011_06-见.png)
+![](images-verysmall/HSK1_011-06-见.png)
 
 ### 钱 :: money; cash
 
@@ -1169,7 +1169,7 @@
 
 我有钱。
 
-![](images-verysmall/HSK1_011_07-钱.png)
+![](images-verysmall/HSK1_011-07-钱.png)
 
 ### 一样 :: same; alike
 
@@ -1177,7 +1177,7 @@
 
 两个包一样。
 
-![](images-verysmall/HSK1_011_08-一样.png)
+![](images-verysmall/HSK1_011-08-一样.png)
 
 ### 吃 :: to eat; to have food or a meal
 
@@ -1185,7 +1185,7 @@
 
 他们吃饭。
 
-![](images-verysmall/HSK1_011_09-吃.png)
+![](images-verysmall/HSK1_011-09-吃.png)
 
 ## HSK1_012
 
@@ -1195,7 +1195,7 @@
 
 开电视。
 
-![](images-verysmall/HSK1_012_00-开.png)
+![](images-verysmall/HSK1_012-00-开.png)
 
 ### 家 :: home or family
 
@@ -1203,7 +1203,7 @@
 
 我们在家。
 
-![](images-verysmall/HSK1_012_01-家.png)
+![](images-verysmall/HSK1_012-01-家.png)
 
 ### 非常 :: very; extremely
 
@@ -1211,7 +1211,7 @@
 
 这个电影非常好看。
 
-![](images-verysmall/HSK1_012_02-非常.png)
+![](images-verysmall/HSK1_012-02-非常.png)
 
 ### 看到 :: to see; to catch sight of
 
@@ -1219,7 +1219,7 @@
 
 我看到她。
 
-![](images-verysmall/HSK1_012_03-看到.png)
+![](images-verysmall/HSK1_012-03-看到.png)
 
 ### 那些 :: those (refers to several people or things far from the speaker)
 
@@ -1227,7 +1227,7 @@
 
 那些学生在学校。
 
-![](images-verysmall/HSK1_012_04-那些.png)
+![](images-verysmall/HSK1_012-04-那些.png)
 
 ### 哪 :: which (used to ask about one or more from a group)
 
@@ -1235,7 +1235,7 @@
 
 哪本书好？
 
-![](images-verysmall/HSK1_012_05-哪.png)
+![](images-verysmall/HSK1_012-05-哪.png)
 
 ### 行 :: to go; OK; to travel
 
@@ -1243,7 +1243,7 @@
 
 我们一起行。
 
-![](images-verysmall/HSK1_012_06-行.png)
+![](images-verysmall/HSK1_012-06-行.png)
 
 ### 朋友 :: friend
 
@@ -1251,7 +1251,7 @@
 
 朋友在这里。
 
-![](images-verysmall/HSK1_012_07-朋友.png)
+![](images-verysmall/HSK1_012-07-朋友.png)
 
 ### 妈妈 :: mother; mom
 
@@ -1259,7 +1259,7 @@
 
 妈妈在家。
 
-![](images-verysmall/HSK1_012_08-妈妈.png)
+![](images-verysmall/HSK1_012-08-妈妈.png)
 
 ### 前 :: the front; the area ahead or in front
 
@@ -1267,7 +1267,7 @@
 
 前有一个女孩儿。
 
-![](images-verysmall/HSK1_012_09-前.png)
+![](images-verysmall/HSK1_012-09-前.png)
 
 ## HSK1_013
 
@@ -1277,7 +1277,7 @@
 
 我在这儿。
 
-![](images-verysmall/HSK1_013_00-这儿.png)
+![](images-verysmall/HSK1_013-00-这儿.png)
 
 ### 今天 :: today
 
@@ -1285,7 +1285,7 @@
 
 今天好。
 
-![](images-verysmall/HSK1_013_01-今天.png)
+![](images-verysmall/HSK1_013-01-今天.png)
 
 ### 明白 :: to understand; to know clearly
 
@@ -1293,7 +1293,7 @@
 
 我明白。
 
-![](images-verysmall/HSK1_013_02-明白.png)
+![](images-verysmall/HSK1_013-02-明白.png)
 
 ### 车 :: car; vehicle
 
@@ -1301,7 +1301,7 @@
 
 车很大。
 
-![](images-verysmall/HSK1_013_03-车.png)
+![](images-verysmall/HSK1_013-03-车.png)
 
 ### 地方 :: place; area; space; location
 
@@ -1309,7 +1309,7 @@
 
 这里是一个地方。
 
-![](images-verysmall/HSK1_013_04-地方.png)
+![](images-verysmall/HSK1_013-04-地方.png)
 
 ### 几 :: how many; a few
 
@@ -1317,7 +1317,7 @@
 
 几个学生坐在桌子上。
 
-![](images-verysmall/HSK1_013_05-几.png)
+![](images-verysmall/HSK1_013-05-几.png)
 
 ### 回来 :: to come back; to return
 
@@ -1325,7 +1325,7 @@
 
 学生回来。
 
-![](images-verysmall/HSK1_013_06-回来.png)
+![](images-verysmall/HSK1_013-06-回来.png)
 
 ### 准备 :: to get ready; to prepare
 
@@ -1333,7 +1333,7 @@
 
 我准备考试。
 
-![](images-verysmall/HSK1_013_07-准备.png)
+![](images-verysmall/HSK1_013-07-准备.png)
 
 ### 找到 :: to find
 
@@ -1341,7 +1341,7 @@
 
 我找到钱。
 
-![](images-verysmall/HSK1_013_08-找到.png)
+![](images-verysmall/HSK1_013-08-找到.png)
 
 ### 后 :: at the back; behind
 
@@ -1349,7 +1349,7 @@
 
 车在后。
 
-![](images-verysmall/HSK1_013_09-后.png)
+![](images-verysmall/HSK1_013-09-后.png)
 
 ## HSK1_014
 
@@ -1359,7 +1359,7 @@
 
 爸爸在家。
 
-![](images-verysmall/HSK1_014_00-爸爸.png)
+![](images-verysmall/HSK1_014-00-爸爸.png)
 
 ### 比 :: to compare
 
@@ -1367,7 +1367,7 @@
 
 我比他高。
 
-![](images-verysmall/HSK1_014_01-比.png)
+![](images-verysmall/HSK1_014-01-比.png)
 
 ### 出来 :: come out; to emerge from inside to outside
 
@@ -1375,7 +1375,7 @@
 
 孩子出来。
 
-![](images-verysmall/HSK1_014_02-出来.png)
+![](images-verysmall/HSK1_014-02-出来.png)
 
 ### 对不起 :: I'm sorry; excuse me.
 
@@ -1383,7 +1383,7 @@
 
 对不起，我来晚了。
 
-![](images-verysmall/HSK1_014_03-对不起.png)
+![](images-verysmall/HSK1_014-03-对不起.png)
 
 ### 问 :: to ask a question
 
@@ -1391,7 +1391,7 @@
 
 我问你。
 
-![](images-verysmall/HSK1_014_04-问.png)
+![](images-verysmall/HSK1_014-04-问.png)
 
 ### 起 :: (a verb, meaning 'to rise' or 'to get up')
 
@@ -1399,7 +1399,7 @@
 
 小学生起。
 
-![](images-verysmall/HSK1_014_05-起.png)
+![](images-verysmall/HSK1_014-05-起.png)
 
 ### 还是 :: still; or (expressing a choice between options)
 
@@ -1407,7 +1407,7 @@
 
 还是喝水。
 
-![](images-verysmall/HSK1_014_06-还是.png)
+![](images-verysmall/HSK1_014-06-还是.png)
 
 ### 住 :: to live (in a place); to stay; to reside
 
@@ -1415,7 +1415,7 @@
 
 他住在房子里。
 
-![](images-verysmall/HSK1_014_07-住.png)
+![](images-verysmall/HSK1_014-07-住.png)
 
 ### 正 :: exactly; right on time
 
@@ -1423,7 +1423,7 @@
 
 现在正下雨。
 
-![](images-verysmall/HSK1_014_08-正.png)
+![](images-verysmall/HSK1_014-08-正.png)
 
 ### 放 :: to put, to place, or to set down something
 
@@ -1431,7 +1431,7 @@
 
 我放书在桌子上。
 
-![](images-verysmall/HSK1_014_09-放.png)
+![](images-verysmall/HSK1_014-09-放.png)
 
 ## HSK1_015
 
@@ -1441,7 +1441,7 @@
 
 请坐。
 
-![](images-verysmall/HSK1_015_00-请坐.png)
+![](images-verysmall/HSK1_015-00-请坐.png)
 
 ### 电话 :: telephone; phone call
 
@@ -1449,7 +1449,7 @@
 
 我有电话。
 
-![](images-verysmall/HSK1_015_01-电话.png)
+![](images-verysmall/HSK1_015-01-电话.png)
 
 ### 地 :: ground; place; land
 
@@ -1457,7 +1457,7 @@
 
 我们在地上。
 
-![](images-verysmall/HSK1_015_02-地.png)
+![](images-verysmall/HSK1_015-02-地.png)
 
 ### 进 :: to enter or go in
 
@@ -1465,7 +1465,7 @@
 
 我们进房子。
 
-![](images-verysmall/HSK1_015_03-进.png)
+![](images-verysmall/HSK1_015-03-进.png)
 
 ### 新 :: new
 
@@ -1473,7 +1473,7 @@
 
 我们有新课本。
 
-![](images-verysmall/HSK1_015_04-新.png)
+![](images-verysmall/HSK1_015-04-新.png)
 
 ### 您 :: you (polite form)
 
@@ -1481,7 +1481,7 @@
 
 您在家。
 
-![](images-verysmall/HSK1_015_05-您.png)
+![](images-verysmall/HSK1_015-05-您.png)
 
 ### 一些 :: some; a few
 
@@ -1489,7 +1489,7 @@
 
 这里有一些包子。
 
-![](images-verysmall/HSK1_015_06-一些.png)
+![](images-verysmall/HSK1_015-06-一些.png)
 
 ### 三 :: three (the number 3)
 
@@ -1497,7 +1497,7 @@
 
 三个人在学校。
 
-![](images-verysmall/HSK1_015_07-三.png)
+![](images-verysmall/HSK1_015-07-三.png)
 
 ### 那里 :: that place
 
@@ -1505,7 +1505,7 @@
 
 那里有饭店。
 
-![](images-verysmall/HSK1_015_08-那里.png)
+![](images-verysmall/HSK1_015-08-那里.png)
 
 ### 高兴 :: happy; glad
 
@@ -1513,7 +1513,7 @@
 
 我很高兴。
 
-![](images-verysmall/HSK1_015_09-高兴.png)
+![](images-verysmall/HSK1_015-09-高兴.png)
 
 ## HSK1_016
 
@@ -1523,7 +1523,7 @@
 
 老人坐在桌子旁边。
 
-![](images-verysmall/HSK1_016_00-老.png)
+![](images-verysmall/HSK1_016-00-老.png)
 
 ### 先 :: earlier; first; before others
 
@@ -1531,7 +1531,7 @@
 
 先来。
 
-![](images-verysmall/HSK1_016_01-先.png)
+![](images-verysmall/HSK1_016-01-先.png)
 
 ### 买 :: to buy or purchase
 
@@ -1539,7 +1539,7 @@
 
 我买了水果。
 
-![](images-verysmall/HSK1_016_02-买.png)
+![](images-verysmall/HSK1_016-02-买.png)
 
 ### 医生 :: doctor; a person who treats sick people
 
@@ -1547,7 +1547,7 @@
 
 医生在家。
 
-![](images-verysmall/HSK1_016_03-医生.png)
+![](images-verysmall/HSK1_016-03-医生.png)
 
 ### 最后 :: final; last; at the end
 
@@ -1555,7 +1555,7 @@
 
 最后吃饭。
 
-![](images-verysmall/HSK1_016_04-最后.png)
+![](images-verysmall/HSK1_016-04-最后.png)
 
 ### 手 :: hand
 
@@ -1563,7 +1563,7 @@
 
 他有手。
 
-![](images-verysmall/HSK1_016_05-手.png)
+![](images-verysmall/HSK1_016-05-手.png)
 
 ### 哪儿 :: where (used to ask about a place or location)
 
@@ -1571,7 +1571,7 @@
 
 钱在哪儿？
 
-![](images-verysmall/HSK1_016_06-哪儿.png)
+![](images-verysmall/HSK1_016-06-哪儿.png)
 
 ### 女人 :: an adult female person; woman
 
@@ -1579,7 +1579,7 @@
 
 女人在家。
 
-![](images-verysmall/HSK1_016_07-女人.png)
+![](images-verysmall/HSK1_016-07-女人.png)
 
 ### 名字 :: name; a person's name
 
@@ -1587,7 +1587,7 @@
 
 她的名字是小。
 
-![](images-verysmall/HSK1_016_08-名字.png)
+![](images-verysmall/HSK1_016-08-名字.png)
 
 ### 认识 :: to know or recognize (someone or something)
 
@@ -1595,7 +1595,7 @@
 
 我认识他。
 
-![](images-verysmall/HSK1_016_09-认识.png)
+![](images-verysmall/HSK1_016-09-认识.png)
 
 ## HSK1_017
 
@@ -1605,7 +1605,7 @@
 
 我们坐在一起。
 
-![](images-verysmall/HSK1_017_00-坐.png)
+![](images-verysmall/HSK1_017-00-坐.png)
 
 ### 喝 :: to drink
 
@@ -1613,7 +1613,7 @@
 
 我喝水。
 
-![](images-verysmall/HSK1_017_01-喝.png)
+![](images-verysmall/HSK1_017-01-喝.png)
 
 ### 记得 :: to remember; to recall
 
@@ -1621,7 +1621,7 @@
 
 我记得她。
 
-![](images-verysmall/HSK1_017_02-记得.png)
+![](images-verysmall/HSK1_017-02-记得.png)
 
 ### 写 :: to write
 
@@ -1629,7 +1629,7 @@
 
 我写。
 
-![](images-verysmall/HSK1_017_03-写.png)
+![](images-verysmall/HSK1_017-03-写.png)
 
 ### 穿 :: to wear or put on (clothes)
 
@@ -1637,7 +1637,7 @@
 
 她穿衣服。
 
-![](images-verysmall/HSK1_017_04-穿.png)
+![](images-verysmall/HSK1_017-04-穿.png)
 
 ### 哪里 :: where
 
@@ -1645,7 +1645,7 @@
 
 你去哪里？
 
-![](images-verysmall/HSK1_017_05-哪里.png)
+![](images-verysmall/HSK1_017-05-哪里.png)
 
 ### 送 :: to give as a present, to deliver, or to see someone off
 
@@ -1653,7 +1653,7 @@
 
 我送他回家。
 
-![](images-verysmall/HSK1_017_06-送.png)
+![](images-verysmall/HSK1_017-06-送.png)
 
 ### 跑 :: to run or move quickly on foot
 
@@ -1661,7 +1661,7 @@
 
 小学生跑。
 
-![](images-verysmall/HSK1_017_07-跑.png)
+![](images-verysmall/HSK1_017-07-跑.png)
 
 ### 月 :: moon
 
@@ -1669,7 +1669,7 @@
 
 晚上有月。
 
-![](images-verysmall/HSK1_017_08-月.png)
+![](images-verysmall/HSK1_017-08-月.png)
 
 ### 早 :: early; before the usual time
 
@@ -1677,7 +1677,7 @@
 
 他早上学习。
 
-![](images-verysmall/HSK1_017_09-早.png)
+![](images-verysmall/HSK1_017-09-早.png)
 
 ## HSK1_018
 
@@ -1687,7 +1687,7 @@
 
 今天是三号。
 
-![](images-verysmall/HSK1_018_00-号.png)
+![](images-verysmall/HSK1_018-00-号.png)
 
 ### 小时 :: hour (a unit of time equal to 60 minutes)
 
@@ -1695,7 +1695,7 @@
 
 我有一个小时。
 
-![](images-verysmall/HSK1_018_01-小时.png)
+![](images-verysmall/HSK1_018-01-小时.png)
 
 ### 重要 :: important
 
@@ -1703,7 +1703,7 @@
 
 这个很重要。
 
-![](images-verysmall/HSK1_018_02-重要.png)
+![](images-verysmall/HSK1_018-02-重要.png)
 
 ### 别人 :: other people
 
@@ -1711,7 +1711,7 @@
 
 这里有别人。
 
-![](images-verysmall/HSK1_018_03-别人.png)
+![](images-verysmall/HSK1_018-03-别人.png)
 
 ### 男人 :: man; adult male
 
@@ -1719,7 +1719,7 @@
 
 男人在家。
 
-![](images-verysmall/HSK1_018_04-男人.png)
+![](images-verysmall/HSK1_018-04-男人.png)
 
 ### 岁 :: year of age
 
@@ -1727,7 +1727,7 @@
 
 他七岁。
 
-![](images-verysmall/HSK1_018_05-岁.png)
+![](images-verysmall/HSK1_018-05-岁.png)
 
 ### 出去 :: to go out; to leave (a place)
 
@@ -1735,7 +1735,7 @@
 
 我出去。
 
-![](images-verysmall/HSK1_018_06-出去.png)
+![](images-verysmall/HSK1_018-06-出去.png)
 
 ### 看见 :: to see; to catch sight of
 
@@ -1743,7 +1743,7 @@
 
 我看见你。
 
-![](images-verysmall/HSK1_018_07-看见.png)
+![](images-verysmall/HSK1_018-07-看见.png)
 
 ### 打电话 :: to make a phone call
 
@@ -1751,7 +1751,7 @@
 
 他们打电话。
 
-![](images-verysmall/HSK1_018_08-打电话.png)
+![](images-verysmall/HSK1_018-08-打电话.png)
 
 ### 得到 :: to get or receive
 
@@ -1759,7 +1759,7 @@
 
 我得到一个杯子。
 
-![](images-verysmall/HSK1_018_09-得到.png)
+![](images-verysmall/HSK1_018-09-得到.png)
 
 ## HSK1_019
 
@@ -1769,7 +1769,7 @@
 
 爸爸有一个儿子。
 
-![](images-verysmall/HSK1_019_00-儿子.png)
+![](images-verysmall/HSK1_019-00-儿子.png)
 
 ### 再见 :: goodbye
 
@@ -1777,7 +1777,7 @@
 
 再见！
 
-![](images-verysmall/HSK1_019_01-再见.png)
+![](images-verysmall/HSK1_019-01-再见.png)
 
 ### 本 :: measure word for books or notebooks
 
@@ -1785,7 +1785,7 @@
 
 这本书好看。
 
-![](images-verysmall/HSK1_019_02-本.png)
+![](images-verysmall/HSK1_019-02-本.png)
 
 ### 马上 :: right away; immediately
 
@@ -1793,7 +1793,7 @@
 
 我们马上下课。
 
-![](images-verysmall/HSK1_019_03-马上.png)
+![](images-verysmall/HSK1_019-03-马上.png)
 
 ### 那儿 :: that place; there
 
@@ -1801,7 +1801,7 @@
 
 朋友在那儿。
 
-![](images-verysmall/HSK1_019_04-那儿.png)
+![](images-verysmall/HSK1_019-04-那儿.png)
 
 ### 难 :: difficult; hard
 
@@ -1809,7 +1809,7 @@
 
 考试很难。
 
-![](images-verysmall/HSK1_019_05-难.png)
+![](images-verysmall/HSK1_019-05-难.png)
 
 ### 明天 :: the day after today
 
@@ -1817,7 +1817,7 @@
 
 明天我们见。
 
-![](images-verysmall/HSK1_019_06-明天.png)
+![](images-verysmall/HSK1_019-06-明天.png)
 
 ### 站 :: to stand up; to be standing
 
@@ -1825,7 +1825,7 @@
 
 他们站在车上。
 
-![](images-verysmall/HSK1_019_07-站.png)
+![](images-verysmall/HSK1_019-07-站.png)
 
 ### 多少 :: how many; how much
 
@@ -1833,7 +1833,7 @@
 
 你有多少钱？
 
-![](images-verysmall/HSK1_019_08-多少.png)
+![](images-verysmall/HSK1_019-08-多少.png)
 
 ### 晚上 :: evening; night
 
@@ -1841,7 +1841,7 @@
 
 晚上我在家。
 
-![](images-verysmall/HSK1_019_09-晚上.png)
+![](images-verysmall/HSK1_019-09-晚上.png)
 
 ## HSK1_020
 
@@ -1851,7 +1851,7 @@
 
 没什么。
 
-![](images-verysmall/HSK1_020_00-没什么.png)
+![](images-verysmall/HSK1_020-00-没什么.png)
 
 ### 块 :: measure word for pieces or chunks
 
@@ -1859,7 +1859,7 @@
 
 我要一块。
 
-![](images-verysmall/HSK1_020_01-块.png)
+![](images-verysmall/HSK1_020-01-块.png)
 
 ### 回家 :: go back home
 
@@ -1867,7 +1867,7 @@
 
 他们回家。
 
-![](images-verysmall/HSK1_020_02-回家.png)
+![](images-verysmall/HSK1_020-02-回家.png)
 
 ### 说话 :: to talk or speak
 
@@ -1875,7 +1875,7 @@
 
 他们说话。
 
-![](images-verysmall/HSK1_020_03-说话.png)
+![](images-verysmall/HSK1_020-03-说话.png)
 
 ### 花 :: to spend (money or time)
 
@@ -1883,7 +1883,7 @@
 
 妈妈花钱。
 
-![](images-verysmall/HSK1_020_04-花.png)
+![](images-verysmall/HSK1_020-04-花.png)
 
 ### 她们 :: they (for females)
 
@@ -1891,7 +1891,7 @@
 
 她们在笑。
 
-![](images-verysmall/HSK1_020_05-她们.png)
+![](images-verysmall/HSK1_020-05-她们.png)
 
 ### 有些 :: some; a few; several
 
@@ -1899,7 +1899,7 @@
 
 有些学生喜欢看电影。
 
-![](images-verysmall/HSK1_020_06-有些.png)
+![](images-verysmall/HSK1_020-06-有些.png)
 
 ### 门 :: door
 
@@ -1907,7 +1907,7 @@
 
 门在这儿。
 
-![](images-verysmall/HSK1_020_07-门.png)
+![](images-verysmall/HSK1_020-07-门.png)
 
 ### 女儿 :: daughter
 
@@ -1915,7 +1915,7 @@
 
 她是女儿。
 
-![](images-verysmall/HSK1_020_08-女儿.png)
+![](images-verysmall/HSK1_020-08-女儿.png)
 
 ### 小姐 :: Miss; young lady
 
@@ -1923,7 +1923,7 @@
 
 小姐在这儿。
 
-![](images-verysmall/HSK1_020_09-小姐.png)
+![](images-verysmall/HSK1_020-09-小姐.png)
 
 ## HSK1_021
 
@@ -1933,7 +1933,7 @@
 
 小学生走路动。
 
-![](images-verysmall/HSK1_021_00-动.png)
+![](images-verysmall/HSK1_021-00-动.png)
 
 ### 女 :: girl or woman
 
@@ -1941,7 +1941,7 @@
 
 女在家。
 
-![](images-verysmall/HSK1_021_01-女.png)
+![](images-verysmall/HSK1_021-01-女.png)
 
 ### 忙 :: busy
 
@@ -1949,7 +1949,7 @@
 
 她很忙。
 
-![](images-verysmall/HSK1_021_02-忙.png)
+![](images-verysmall/HSK1_021-02-忙.png)
 
 ### 房子 :: house or building (usually less than three stories)
 
@@ -1957,7 +1957,7 @@
 
 她在房子里。
 
-![](images-verysmall/HSK1_021_03-房子.png)
+![](images-verysmall/HSK1_021-03-房子.png)
 
 ### 衣服 :: clothes
 
@@ -1965,7 +1965,7 @@
 
 她有衣服。
 
-![](images-verysmall/HSK1_021_04-衣服.png)
+![](images-verysmall/HSK1_021-04-衣服.png)
 
 ### 睡 :: to sleep
 
@@ -1973,7 +1973,7 @@
 
 她睡。
 
-![](images-verysmall/HSK1_021_05-睡.png)
+![](images-verysmall/HSK1_021-05-睡.png)
 
 ### 回去 :: to go back or return somewhere
 
@@ -1981,7 +1981,7 @@
 
 她回去。
 
-![](images-verysmall/HSK1_021_06-回去.png)
+![](images-verysmall/HSK1_021-06-回去.png)
 
 ### 晚 :: late (in the day or at night)
 
@@ -1989,7 +1989,7 @@
 
 晚上她在家。
 
-![](images-verysmall/HSK1_021_07-晚.png)
+![](images-verysmall/HSK1_021-07-晚.png)
 
 ### 坏 :: bad; broken
 
@@ -1997,7 +1997,7 @@
 
 东西坏了。
 
-![](images-verysmall/HSK1_021_08-坏.png)
+![](images-verysmall/HSK1_021-08-坏.png)
 
 ### 水 :: water
 
@@ -2005,7 +2005,7 @@
 
 水在杯子里。
 
-![](images-verysmall/HSK1_021_09-水.png)
+![](images-verysmall/HSK1_021-09-水.png)
 
 ## HSK1_022
 
@@ -2015,7 +2015,7 @@
 
 我有一个杯。
 
-![](images-verysmall/HSK1_022_00-杯.png)
+![](images-verysmall/HSK1_022-00-杯.png)
 
 ### 学校 :: school; a place where people go to study or learn
 
@@ -2023,7 +2023,7 @@
 
 她在学校学习。
 
-![](images-verysmall/HSK1_022_01-学校.png)
+![](images-verysmall/HSK1_022-01-学校.png)
 
 ### 高 :: tall; high (in height)
 
@@ -2031,7 +2031,7 @@
 
 他很高。
 
-![](images-verysmall/HSK1_022_02-高.png)
+![](images-verysmall/HSK1_022-02-高.png)
 
 ### 电影 :: movie; film
 
@@ -2039,7 +2039,7 @@
 
 我喜欢电影。
 
-![](images-verysmall/HSK1_022_03-电影.png)
+![](images-verysmall/HSK1_022-03-电影.png)
 
 ### 试 :: to try or test
 
@@ -2047,7 +2047,7 @@
 
 我试东西。
 
-![](images-verysmall/HSK1_022_04-试.png)
+![](images-verysmall/HSK1_022-04-试.png)
 
 ### 身上 :: on the body
 
@@ -2055,7 +2055,7 @@
 
 他身上有东西。
 
-![](images-verysmall/HSK1_022_05-身上.png)
+![](images-verysmall/HSK1_022-05-身上.png)
 
 ### 房间 :: room (in a house or building)
 
@@ -2063,7 +2063,7 @@
 
 她在房间。
 
-![](images-verysmall/HSK1_022_06-房间.png)
+![](images-verysmall/HSK1_022-06-房间.png)
 
 ### 书 :: book
 
@@ -2071,7 +2071,7 @@
 
 她有书。
 
-![](images-verysmall/HSK1_022_07-书.png)
+![](images-verysmall/HSK1_022-07-书.png)
 
 ### 球 :: ball
 
@@ -2079,7 +2079,7 @@
 
 他有一个球。
 
-![](images-verysmall/HSK1_022_08-球.png)
+![](images-verysmall/HSK1_022-08-球.png)
 
 ### 忘 :: to forget
 
@@ -2087,7 +2087,7 @@
 
 她忘了手机。
 
-![](images-verysmall/HSK1_022_09-忘.png)
+![](images-verysmall/HSK1_022-09-忘.png)
 
 ## HSK1_023
 
@@ -2097,7 +2097,7 @@
 
 她进来。
 
-![](images-verysmall/HSK1_023_00-进来.png)
+![](images-verysmall/HSK1_023-00-进来.png)
 
 ### 路 :: road or path
 
@@ -2105,7 +2105,7 @@
 
 路上有车。
 
-![](images-verysmall/HSK1_023_01-路.png)
+![](images-verysmall/HSK1_023-01-路.png)
 
 ### 四 :: the number four (4)
 
@@ -2113,7 +2113,7 @@
 
 四个学生在学习。
 
-![](images-verysmall/HSK1_023_02-四.png)
+![](images-verysmall/HSK1_023-02-四.png)
 
 ### 第 :: marker for ordinal numbers (like 'first', 'second')
 
@@ -2121,7 +2121,7 @@
 
 她第。
 
-![](images-verysmall/HSK1_023_03-第.png)
+![](images-verysmall/HSK1_023-03-第.png)
 
 ### 进去 :: to go in; to enter
 
@@ -2129,7 +2129,7 @@
 
 他们进去。
 
-![](images-verysmall/HSK1_023_04-进去.png)
+![](images-verysmall/HSK1_023-04-进去.png)
 
 ### 听到 :: to hear; to hear something
 
@@ -2137,7 +2137,7 @@
 
 我听到水。
 
-![](images-verysmall/HSK1_023_05-听到.png)
+![](images-verysmall/HSK1_023-05-听到.png)
 
 ### 正在 :: in the process of (doing something)
 
@@ -2145,7 +2145,7 @@
 
 我正在学习。
 
-![](images-verysmall/HSK1_023_06-正在.png)
+![](images-verysmall/HSK1_023-06-正在.png)
 
 ### 笑 :: smile or laugh
 
@@ -2153,7 +2153,7 @@
 
 他们笑。
 
-![](images-verysmall/HSK1_023_07-笑.png)
+![](images-verysmall/HSK1_023-07-笑.png)
 
 ### 那边 :: that side; over there
 
@@ -2161,7 +2161,7 @@
 
 她在那边。
 
-![](images-verysmall/HSK1_023_08-那边.png)
+![](images-verysmall/HSK1_023-08-那边.png)
 
 ### 远 :: far away
 
@@ -2169,7 +2169,7 @@
 
 她在外边很远。
 
-![](images-verysmall/HSK1_023_09-远.png)
+![](images-verysmall/HSK1_023-09-远.png)
 
 ## HSK1_024
 
@@ -2179,7 +2179,7 @@
 
 她在床上。
 
-![](images-verysmall/HSK1_024_00-床.png)
+![](images-verysmall/HSK1_024-00-床.png)
 
 ### 歌 :: song
 
@@ -2187,7 +2187,7 @@
 
 我喜欢唱歌。
 
-![](images-verysmall/HSK1_024_01-歌.png)
+![](images-verysmall/HSK1_024-01-歌.png)
 
 ### 唱 :: to sing
 
@@ -2195,7 +2195,7 @@
 
 她唱。
 
-![](images-verysmall/HSK1_024_02-唱.png)
+![](images-verysmall/HSK1_024-02-唱.png)
 
 ### 别的 :: other; different one(s)
 
@@ -2203,7 +2203,7 @@
 
 我有别的东西。
 
-![](images-verysmall/HSK1_024_03-别的.png)
+![](images-verysmall/HSK1_024-03-别的.png)
 
 ### 学 :: to study or to learn
 
@@ -2211,7 +2211,7 @@
 
 你在学习。
 
-![](images-verysmall/HSK1_024_04-学.png)
+![](images-verysmall/HSK1_024-04-学.png)
 
 ### 关 :: to close or turn off (something)
 
@@ -2219,7 +2219,7 @@
 
 关门。
 
-![](images-verysmall/HSK1_024_05-关.png)
+![](images-verysmall/HSK1_024-05-关.png)
 
 ### 五 :: the number five (5)
 
@@ -2227,7 +2227,7 @@
 
 五个小孩儿在笑。
 
-![](images-verysmall/HSK1_024_06-五.png)
+![](images-verysmall/HSK1_024-06-五.png)
 
 ### 男 :: male; man; boy
 
@@ -2235,7 +2235,7 @@
 
 男生在上学。
 
-![](images-verysmall/HSK1_024_07-男.png)
+![](images-verysmall/HSK1_024-07-男.png)
 
 ### 帮忙 :: to help someone; to give help
 
@@ -2243,7 +2243,7 @@
 
 他们帮忙。
 
-![](images-verysmall/HSK1_024_08-帮忙.png)
+![](images-verysmall/HSK1_024-08-帮忙.png)
 
 ### 国家 :: country; a nation or state
 
@@ -2251,7 +2251,7 @@
 
 她在国家。
 
-![](images-verysmall/HSK1_024_09-国家.png)
+![](images-verysmall/HSK1_024-09-国家.png)
 
 ## HSK1_025
 
@@ -2261,7 +2261,7 @@
 
 她在房间。
 
-![](images-verysmall/HSK1_025_00-间.png)
+![](images-verysmall/HSK1_025-00-间.png)
 
 ### 分 :: measure word for parts or portions
 
@@ -2269,7 +2269,7 @@
 
 请给我三分。
 
-![](images-verysmall/HSK1_025_01-分.png)
+![](images-verysmall/HSK1_025-01-分.png)
 
 ### 医院 :: hospital
 
@@ -2277,7 +2277,7 @@
 
 她在医院。
 
-![](images-verysmall/HSK1_025_02-医院.png)
+![](images-verysmall/HSK1_025-02-医院.png)
 
 ### 半 :: half
 
@@ -2285,7 +2285,7 @@
 
 她有半个面包。
 
-![](images-verysmall/HSK1_025_03-半.png)
+![](images-verysmall/HSK1_025-03-半.png)
 
 ### 少 :: not enough; fewer than needed
 
@@ -2293,7 +2293,7 @@
 
 这儿少一个人。
 
-![](images-verysmall/HSK1_025_04-少.png)
+![](images-verysmall/HSK1_025-04-少.png)
 
 ### 没关系 :: it's okay; no problem
 
@@ -2301,7 +2301,7 @@
 
 没关系。
 
-![](images-verysmall/HSK1_025_05-没关系.png)
+![](images-verysmall/HSK1_025-05-没关系.png)
 
 ### 真的 :: really; truly
 
@@ -2309,7 +2309,7 @@
 
 他真的高兴。
 
-![](images-verysmall/HSK1_025_06-真的.png)
+![](images-verysmall/HSK1_025-06-真的.png)
 
 ### 教 :: to teach
 
@@ -2317,7 +2317,7 @@
 
 老师教学生。
 
-![](images-verysmall/HSK1_025_07-教.png)
+![](images-verysmall/HSK1_025-07-教.png)
 
 ### 重 :: heavy; important
 
@@ -2325,7 +2325,7 @@
 
 东西很重。
 
-![](images-verysmall/HSK1_025_08-重.png)
+![](images-verysmall/HSK1_025-08-重.png)
 
 ### 飞机 :: Airplane; a vehicle that flies in the sky.
 
@@ -2333,7 +2333,7 @@
 
 飞机在天上。
 
-![](images-verysmall/HSK1_025_09-飞机.png)
+![](images-verysmall/HSK1_025-09-飞机.png)
 
 ## HSK1_026
 
@@ -2343,7 +2343,7 @@
 
 打开电视。
 
-![](images-verysmall/HSK1_026_00-打开.png)
+![](images-verysmall/HSK1_026-00-打开.png)
 
 ### 早上 :: early morning
 
@@ -2351,7 +2351,7 @@
 
 早上她喝奶。
 
-![](images-verysmall/HSK1_026_01-早上.png)
+![](images-verysmall/HSK1_026-01-早上.png)
 
 ### 二 :: two; the number 2
 
@@ -2359,7 +2359,7 @@
 
 她有二个东西。
 
-![](images-verysmall/HSK1_026_02-二.png)
+![](images-verysmall/HSK1_026-02-二.png)
 
 ### 电视 :: TV; television; a device for watching programs and shows.
 
@@ -2367,7 +2367,7 @@
 
 她在看电视。
 
-![](images-verysmall/HSK1_026_03-电视.png)
+![](images-verysmall/HSK1_026-03-电视.png)
 
 ### 回到 :: to return to (a place); to go back
 
@@ -2375,7 +2375,7 @@
 
 我回到家。
 
-![](images-verysmall/HSK1_026_04-回到.png)
+![](images-verysmall/HSK1_026-04-回到.png)
 
 ### 身体 :: body; a person's physical body or health
 
@@ -2383,7 +2383,7 @@
 
 她的身体很好。
 
-![](images-verysmall/HSK1_026_05-身体.png)
+![](images-verysmall/HSK1_026-05-身体.png)
 
 ### 读 :: to read (aloud) or study
 
@@ -2391,7 +2391,7 @@
 
 她在读书。
 
-![](images-verysmall/HSK1_026_06-读.png)
+![](images-verysmall/HSK1_026-06-读.png)
 
 ### 这边 :: this side, here
 
@@ -2399,7 +2399,7 @@
 
 这边有水果。
 
-![](images-verysmall/HSK1_026_07-这边.png)
+![](images-verysmall/HSK1_026-07-这边.png)
 
 ### 家里 :: at home
 
@@ -2407,7 +2407,7 @@
 
 她在家里。
 
-![](images-verysmall/HSK1_026_08-家里.png)
+![](images-verysmall/HSK1_026-08-家里.png)
 
 ### 昨天 :: the day before today
 
@@ -2415,4 +2415,4 @@
 
 昨天下雨。
 
-![](images-verysmall/HSK1_026_09-昨天.png)
+![](images-verysmall/HSK1_026-09-昨天.png)

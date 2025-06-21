@@ -269,7 +269,7 @@ for word in all_words:
 
 {content['sentence']}
 
-![](images-verysmall/{word.group}_{word.index:02d}-{word.hanzi}.png)
+![](images-verysmall/{word.group}-{word.index:02d}-{word.hanzi}.png)
 """)
 
 package = genanki.Package([deck for name, deck in sorted(decks.items())])
