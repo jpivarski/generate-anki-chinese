@@ -269,11 +269,15 @@ for word in all_words:
 
 {content['sentence']}
 
-![]({word.group}_{word.index:02d}-{word.hanzi}.png)
+![](images-verysmall/{word.group}_{word.index:02d}-{word.hanzi}.png)
 """)
 
 package = genanki.Package([deck for name, deck in sorted(decks.items())])
 package.media_files = image_filenames
 package.write_to_file("hsk1.apkg")
+
+# # use http://ecotrust-canada.github.io/markdown-toc/ to make the TOC manually
+# with open("../HSK1/README.md", "w") as file:
+#     file.write("\n".join(gist_markdown))
 
 print(f"{count} words in the deck")
