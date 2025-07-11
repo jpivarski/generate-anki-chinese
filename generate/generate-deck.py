@@ -223,7 +223,7 @@ image_filenames = []
 count = 0
 for word in all_words:
     # FIXME: this is partial
-    if word.group == "HSK1_027":
+    if not word.group.startswith("HSK1_"):
         continue
 
     if os.path.exists(word.hint_filename()) and os.path.exists(word.image_filename()):
